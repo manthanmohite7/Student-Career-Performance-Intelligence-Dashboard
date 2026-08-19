@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Department,Semester,Attendance,Study_Hours_Per_Day,Sleep_Hours,Assignment_Score,Practical_Score,Internal_Marks,Previous_Sem_Percentage,Coding_Hours_Per_Week,Projects_Completed,Certifications,Internship,Backlogs,Stress_Level,Communication_Score,Aptitude_Score,Interview_Score,Final_Percentage,Placement_Status,Package_LPA,Risk_Level
+ST1001,21,Female,Computer Engineering,4,80.3,1.2,4.4,52.8,40.7,81.7,71.5,3.0,6,1,No,0,Medium,67.9,71.0,57.4,54.0,Placed,2.0,Low Risk
+ST1002,22,Female,Computer Engineering,6,70.1,0.7,6.5,69.9,74.1,75.9,84.0,0.4,3,0,Yes,3,Medium,56.4,84.9,95.0,59.0,Not Placed,0.0,High Risk
+ST1003,20,Female,Electronics,5,83.1,4.6,8.2,87.4,57.4,77.9,79.0,15.7,1,4,No,0,Low,55.6,47.9,41.9,67.0,Not Placed,0.0,Low Risk
+ST1004,22,Female,Electronics,6,78.2,0.7,5.3,71.0,69.8,70.6,98.0,15.1,4,4,No,1,Low,54.7,83.6,88.3,58.5,Placed,3.43,Medium Risk
+ST1005,22,Female,Computer Engineering,6,70.3,2.9,4.0,64.8,72.1,95.1,98.0,0.0,4,0,No,0,High,71.3,57.5,52.7,62.0,Placed,3.56,Medium Risk
+ST1006,19,Male,Civil,3,83.9,4.2,7.6,86.1,71.3,52.8,71.1,5.7,6,3,Yes,0,High,78.2,64.8,90.1,65.7,Placed,4.42,Low Risk
+ST1007,20,Female,Computer Engineering,4,99.7,3.8,7.3,71.0,68.8,73.8,30.0,16.3,6,3,No,0,Low,56.8,72.1,59.5,64.5,Placed,4.17,Low Risk
+ST1008,20,Male,Information Technology,5,75.7,4.1,5.8,68.9,61.7,72.8,87.3,5.6,5,1,No,0,Medium,49.0,84.0,84.7,65.3,Placed,2.49,Low Risk
+ST1009,20,Female,Electronics,3,86.6,3.8,5.9,76.8,100.0,82.6,62.4,5.5,6,5,No,0,High,57.8,91.0,87.4,58.1,Placed,3.37,Low Risk
+ST1010,22,Male,Mechanical,3,62.5,5.4,5.9,84.2,100.0,61.0,58.8,6.6,1,1,Yes,1,Low,89.6,63.2,57.8,62.2,Not Placed,0.0,Medium Risk
+ST1011,21,Female,Electronics,3,66.5,2.1,7.1,100.0,60.9,49.3,64.4,2.4,0,2,Yes,1,Low,65.6,60.8,83.4,52.1,Not Placed,0.0,Medium Risk
+ST1012,20,Male,Mechanical,6,83.7,2.5,6.3,84.9,96.6,74.0,63.7,0.0,3,5,Yes,0,High,67.0,59.8,66.6,77.6,Placed,4.18,Low Risk
+ST1013,22,Female,Information Technology,4,95.8,2.3,7.5,88.9,70.8,75.7,78.6,13.3,6,2,No,1,Medium,58.8,79.7,43.6,65.4,Not Placed,0.0,Low Risk
+ST1014,19,Male,Mechanical,4,82.3,4.7,4.0,68.9,77.7,91.4,48.2,0.0,4,1,Yes,0,Low,78.0,82.9,75.1,66.4,Not Placed,0.0,Low Risk
+ST1015,21,Female,Computer Engineering,5,74.2,4.9,6.1,62.7,75.2,55.5,54.9,9.2,0,5,No,0,Medium,68.3,81.4,50.7,58.9,Placed,2.93,Medium Risk
+ST1016,19,Male,Civil,4,78.0,4.2,5.8,75.7,67.4,87.0,74.8,12.4,1,5,No,0,Low,59.8,72.0,56.6,66.1,Not Placed,0.0,Low Risk
+ST1017,21,Female,Information Technology,4,63.0,5.3,6.7,76.3,88.8,100.0,78.7,0.7,0,2,No,0,Medium,55.6,73.5,52.7,60.7,Not Placed,0.0,Medium Risk
+ST1018,22,Male,Mechanical,3,85.3,1.7,6.4,62.1,77.6,67.1,79.0,3.4,1,0,No,4,Medium,75.3,64.5,73.1,52.2,Not Placed,0.0,Medium Risk
+ST1019,18,Male,Information Technology,3,88.6,6.0,7.9,72.9,69.8,55.2,59.0,14.1,5,3,No,1,Medium,73.7,65.9,51.2,58.6,Not Placed,0.0,Medium Risk
+ST1020,21,Female,Electronics,6,72.6,5.8,5.0,79.8,59.0,66.7,56.3,10.7,3,5,No,0,Medium,52.7,80.8,47.4,63.3,Not Placed,0.0,Medium Risk
+ST1021,19,Female,Information Technology,3,72.4,4.6,7.1,79.3,64.4,72.2,62.9,4.9,0,5,Yes,1,Medium,87.2,72.0,50.3,52.6,Not Placed,0.0,Medium Risk
+ST1022,22,Male,Mechanical,3,81.2,6.2,7.6,81.1,54.7,79.3,73.4,14.0,3,2,No,0,Low,61.0,60.9,55.6,65.9,Not Placed,0.0,Low Risk
+ST1023,21,Female,Computer Engineering,3,72.8,1.0,9.0,78.5,76.2,64.3,90.8,14.0,0,5,No,0,Low,38.9,84.5,74.9,54.3,Not Placed,0.0,Medium Risk
+ST1024,18,Male,Computer Engineering,3,77.2,2.7,6.5,68.9,60.4,92.2,41.3,9.3,1,2,Yes,0,High,91.4,58.9,81.5,55.3,Not Placed,0.0,Low Risk
+ST1025,18,Male,Computer Engineering,6,100.0,2.4,7.4,68.8,72.5,57.5,66.9,3.5,1,0,No,1,Medium,68.6,70.2,81.3,57.2,Not Placed,0.0,Medium Risk
+ST1026,20,Male,Computer Engineering,3,75.0,4.6,5.0,60.6,93.8,49.4,51.3,5.9,0,5,Yes,0,Low,76.1,49.4,66.4,59.4,Not Placed,0.0,Low Risk
+ST1027,20,Female,Mechanical,5,73.7,1.9,4.4,96.4,91.6,86.4,46.9,9.4,5,4,Yes,2,Medium,93.4,53.8,66.0,58.3,Not Placed,0.0,Medium Risk
+ST1028,19,Male,Computer Engineering,5,70.2,4.6,7.9,75.2,75.6,42.4,83.5,7.1,1,1,Yes,0,High,56.0,68.3,64.1,62.8,Not Placed,0.0,Medium Risk
+ST1029,21,Male,Civil,5,86.9,5.6,7.0,72.3,74.9,69.3,77.6,12.7,2,0,Yes,0,Medium,76.7,57.6,74.1,64.8,Not Placed,0.0,Low Risk
+ST1030,21,Female,Information Technology,5,75.8,4.5,8.3,63.9,100.0,100.0,76.3,0.4,2,4,No,5,Medium,86.5,64.6,84.9,58.7,Not Placed,0.0,Medium Risk
+ST1031,20,Female,Computer Engineering,3,70.2,3.9,5.5,100.0,82.8,71.8,82.9,0.5,3,0,No,0,Low,56.9,86.2,64.6,61.8,Not Placed,0.0,Medium Risk
+ST1032,21,Female,Mechanical,5,93.9,2.0,7.6,62.1,71.7,57.4,63.3,8.9,6,3,No,2,Low,90.4,66.1,75.5,63.5,Not Placed,0.0,Medium Risk
+ST1033,21,Female,Electronics,3,95.0,2.2,9.1,69.9,57.5,71.3,63.9,5.5,2,0,No,2,High,50.3,81.5,47.2,56.1,Not Placed,0.0,Medium Risk
+ST1034,18,Male,Information Technology,6,70.8,5.4,7.5,80.0,81.1,71.3,98.0,4.9,2,0,Yes,3,Medium,68.7,56.3,80.6,56.3,Not Placed,0.0,High Risk
+ST1035,20,Male,Electronics,5,55.6,4.7,7.3,82.2,86.8,74.1,66.5,0.0,5,3,Yes,0,Medium,54.9,76.2,70.5,70.9,Placed,2.91,Medium Risk
+ST1036,22,Male,Electronics,4,90.1,3.4,7.0,86.5,67.8,80.6,80.3,8.1,5,5,No,0,High,79.7,53.0,50.5,70.6,Placed,5.65,Low Risk
+ST1037,20,Male,Computer Engineering,5,69.8,2.9,5.3,96.7,79.8,58.5,70.1,7.7,6,1,No,1,High,56.5,64.3,84.1,56.0,Not Placed,0.0,Medium Risk
+ST1038,22,Female,Civil,5,87.5,0.5,8.5,81.1,71.3,93.9,44.1,11.3,3,4,Yes,1,Low,61.4,76.8,47.1,56.8,Not Placed,0.0,Medium Risk
+ST1039,18,Male,Civil,3,54.4,1.9,6.3,62.3,73.6,75.2,41.4,8.3,6,2,No,1,Low,57.7,68.2,30.6,43.1,Placed,3.56,High Risk
+ST1040,19,Male,Electronics,5,88.7,6.4,7.6,71.9,43.7,81.4,61.9,7.3,4,1,No,0,Medium,53.2,82.1,80.5,60.0,Not Placed,0.0,Low Risk
+ST1041,21,Female,Computer Engineering,4,63.5,1.6,5.3,78.7,73.1,63.8,84.8,13.9,5,0,No,0,Low,59.3,78.0,73.2,63.2,Not Placed,0.0,Medium Risk
+ST1042,18,Male,Electronics,3,86.8,3.8,5.7,99.8,88.6,88.7,81.0,1.4,4,2,Yes,0,Medium,69.4,63.4,47.6,68.4,Placed,4.09,Low Risk
+ST1043,21,Male,Computer Engineering,3,78.2,5.0,8.6,58.2,67.8,68.7,82.8,10.7,5,3,No,0,High,68.6,87.5,72.7,56.9,Placed,3.0,Low Risk
+ST1044,19,Male,Computer Engineering,6,66.6,1.6,6.6,89.4,76.7,75.6,56.2,0.0,4,1,No,0,Medium,67.0,74.5,85.7,60.4,Not Placed,0.0,Medium Risk
+ST1045,19,Male,Computer Engineering,6,73.1,3.8,8.6,77.2,66.2,59.9,92.6,3.8,1,5,No,0,Low,60.7,64.3,71.2,68.1,Placed,3.71,Low Risk
+ST1046,18,Male,Information Technology,5,86.2,4.9,6.9,85.1,80.7,59.0,56.5,1.9,5,4,Yes,0,Low,65.0,70.2,100.0,71.6,Placed,3.56,Low Risk
+ST1047,19,Male,Mechanical,6,79.3,3.5,5.0,73.8,73.2,80.9,73.0,11.9,6,1,No,1,Medium,47.8,69.4,53.4,74.0,Not Placed,0.0,Low Risk
+ST1048,22,Female,Electronics,6,85.0,7.8,8.0,64.9,63.8,66.2,69.9,7.7,3,1,No,1,High,60.2,71.0,31.2,77.2,Not Placed,0.0,Low Risk
+ST1049,19,Female,Mechanical,6,100.0,1.0,6.4,84.0,93.3,60.9,67.6,7.9,3,5,Yes,0,Medium,66.9,65.9,44.4,59.6,Placed,4.76,Low Risk
+ST1050,21,Male,Information Technology,3,59.2,5.1,7.8,82.9,88.1,63.6,88.7,2.5,5,2,Yes,0,Low,69.45,73.6,30.3,63.3,Placed,3.94,Medium Risk
+ST1051,21,Male,Information Technology,3,97.4,3.2,7.0,86.7,68.1,81.1,60.1,6.5,2,3,No,1,Low,72.4,79.8,100.0,55.5,Not Placed,0.0,Medium Risk
+ST1052,21,Female,Information Technology,3,79.3,4.7,5.3,74.8,82.5,63.8,51.1,4.2,3,5,No,0,High,52.8,74.4,66.9,56.4,Placed,2.17,Low Risk
+ST1053,21,Male,Civil,6,67.2,4.2,7.2,67.8,83.0,70.5,70.3,9.9,6,3,No,2,Medium,76.0,73.9,98.0,62.9,Not Placed,0.0,Medium Risk
+ST1054,22,Male,Computer Engineering,3,62.0,2.4,9.4,56.3,84.3,72.2,64.4,3.0,2,5,Yes,2,High,71.7,66.5,61.3,50.6,Not Placed,0.0,Medium Risk
+ST1055,20,Male,Mechanical,6,75.7,3.8,7.5,84.8,54.0,47.1,98.0,14.6,3,1,No,3,Medium,90.2,54.7,52.5,59.6,Not Placed,0.0,Medium Risk
+ST1056,18,Female,Electronics,3,89.1,0.7,6.9,80.1,89.1,52.9,79.5,0.0,0,3,No,1,Medium,49.1,51.1,39.3,51.5,Not Placed,0.0,Medium Risk
+ST1057,21,Male,Information Technology,3,76.5,4.4,8.2,63.4,68.6,76.4,64.3,4.0,0,2,Yes,0,Low,68.1,57.4,60.7,56.5,Not Placed,0.0,Low Risk
+ST1058,19,Female,Electronics,4,96.1,3.9,7.2,68.5,71.3,62.4,55.2,16.4,5,2,No,1,Medium,84.4,61.7,80.5,64.4,Not Placed,0.0,Medium Risk
+ST1059,21,Male,Information Technology,5,60.6,4.5,7.2,69.4,100.0,85.7,43.7,5.8,6,4,Yes,0,Medium,65.9,93.1,63.4,68.7,Placed,5.81,Low Risk
+ST1060,19,Female,Mechanical,6,77.9,5.1,5.8,57.2,79.9,84.6,55.6,1.4,6,3,Yes,0,High,57.2,86.8,41.4,56.7,Placed,5.8,Low Risk
+ST1061,19,Female,Civil,4,63.0,4.1,7.3,65.2,71.0,81.3,71.6,9.1,3,4,No,0,Low,58.6,59.1,77.4,58.3,Not Placed,0.0,Medium Risk
+ST1062,21,Male,Information Technology,3,82.4,3.7,8.1,61.4,47.3,95.7,90.0,5.6,1,5,No,0,Low,81.0,74.7,80.4,64.0,Not Placed,0.0,Low Risk
+ST1063,22,Female,Computer Engineering,6,88.6,2.2,6.1,70.1,94.1,70.9,85.7,3.8,2,0,Yes,0,Medium,48.3,67.0,58.5,68.6,Not Placed,0.0,Low Risk
+ST1064,19,Male,Electronics,3,73.0,2.4,8.6,66.1,58.5,80.4,73.2,2.5,3,2,Yes,0,Low,65.3,71.5,56.5,61.6,Not Placed,0.0,Medium Risk
+ST1065,19,Female,Civil,5,46.7,5.3,6.9,55.5,63.0,64.4,65.5,21.8,5,1,Yes,1,Medium,57.7,59.8,39.7,51.6,Not Placed,0.0,High Risk
+ST1066,21,Male,Computer Engineering,4,80.4,5.7,6.0,99.3,71.7,100.0,73.8,6.7,2,2,Yes,5,Low,58.8,100.0,77.0,53.9,Not Placed,0.0,Medium Risk
+ST1067,19,Male,Electronics,5,83.2,3.1,8.1,90.0,94.4,97.8,62.7,0.0,4,0,Yes,0,Low,76.2,96.0,59.6,60.2,Not Placed,0.0,Low Risk
+ST1068,19,Female,Electronics,4,82.9,3.6,6.7,65.7,86.1,72.2,94.1,15.5,5,1,No,0,Medium,64.5,63.6,24.1,66.5,Placed,4.92,Low Risk
+ST1069,21,Male,Mechanical,3,92.8,2.1,7.8,78.3,73.9,77.0,67.4,11.1,3,3,Yes,0,Medium,69.45,59.1,43.2,62.1,Not Placed,0.0,Low Risk
+ST1070,21,Male,Computer Engineering,5,65.1,5.3,6.7,80.0,80.0,89.7,68.8,4.2,1,3,No,3,Medium,52.6,81.9,76.0,53.3,Not Placed,0.0,High Risk
+ST1071,18,Female,Electronics,5,86.2,4.5,6.9,89.3,68.2,70.1,39.0,3.3,4,2,Yes,0,Low,81.6,49.9,61.5,67.7,Placed,3.32,Low Risk
+ST1072,22,Male,Civil,3,92.3,6.4,7.5,65.2,77.8,63.5,67.3,11.4,5,1,No,2,High,73.0,80.7,48.8,58.5,Not Placed,0.0,Medium Risk
+ST1073,22,Male,Computer Engineering,5,56.7,2.2,7.3,88.1,77.0,83.4,81.7,6.8,3,5,No,0,Low,87.3,69.9,67.9,56.2,Not Placed,0.0,Medium Risk
+ST1074,19,Female,Computer Engineering,6,81.8,2.9,4.8,68.4,88.6,73.0,55.1,0.0,0,1,No,2,Low,64.3,46.5,53.6,60.4,Not Placed,0.0,Medium Risk
+ST1075,22,Female,Civil,4,71.9,3.8,5.8,74.5,88.6,74.4,59.5,16.9,6,4,Yes,0,Medium,76.3,65.7,56.7,58.5,Not Placed,0.0,Medium Risk
+ST1076,19,Male,Computer Engineering,4,77.0,4.5,8.0,83.7,82.4,61.2,81.1,5.8,3,0,No,0,Low,81.0,58.2,62.7,66.7,Placed,2.16,Low Risk
+ST1077,18,Male,Mechanical,4,82.2,3.2,6.9,90.5,71.3,49.7,49.3,15.5,0,3,No,0,Medium,76.0,70.4,94.0,57.3,Not Placed,0.0,Low Risk
+ST1078,21,Female,Information Technology,6,72.2,2.2,6.4,100.0,85.6,75.1,84.8,14.4,0,2,No,0,High,93.8,68.9,93.9,64.8,Not Placed,0.0,Medium Risk
+ST1079,21,Female,Computer Engineering,4,69.9,4.8,5.5,60.6,74.8,83.8,62.5,3.0,5,1,No,2,Medium,46.7,47.8,35.5,61.8,Not Placed,0.0,Medium Risk
+ST1080,21,Male,Mechanical,3,78.4,4.6,5.8,83.4,61.9,69.1,64.6,13.2,3,3,Yes,1,Medium,72.4,63.0,66.0,61.6,Not Placed,0.0,Medium Risk
+ST1081,22,Female,Information Technology,5,65.0,2.1,4.8,70.1,70.8,90.7,54.3,4.7,6,2,No,0,Medium,64.3,76.6,43.8,50.8,Not Placed,0.0,Medium Risk
+ST1082,18,Male,Information Technology,6,65.0,5.5,6.9,84.4,77.1,62.8,75.3,0.0,3,3,No,4,Low,63.3,79.2,50.0,46.9,Not Placed,0.0,High Risk
+ST1083,22,Male,Information Technology,4,86.2,5.3,6.3,57.4,87.8,58.3,98.0,5.9,0,2,No,0,Medium,90.9,62.6,37.3,67.4,Not Placed,0.0,Low Risk
+ST1084,22,Male,Electronics,3,64.2,3.7,5.9,59.8,73.6,71.1,80.9,10.0,2,3,No,4,Medium,61.3,74.9,53.1,43.2,Not Placed,0.0,High Risk
+ST1085,18,Male,Computer Engineering,5,77.75,3.6,6.9,65.7,60.3,70.9,57.9,5.7,4,5,No,0,High,81.9,72.0,47.9,64.5,Not Placed,0.0,Low Risk
+ST1086,18,Male,Information Technology,5,83.6,4.3,7.4,75.9,76.7,82.0,85.9,6.5,1,4,No,3,Low,55.2,67.2,83.4,60.9,Not Placed,0.0,Medium Risk
+ST1087,18,Female,Civil,6,57.3,2.2,9.3,67.3,77.5,61.9,65.6,13.7,3,0,No,0,Medium,84.3,75.0,53.5,44.3,Not Placed,0.0,High Risk
+ST1088,18,Female,Computer Engineering,6,69.9,3.5,5.3,82.9,78.4,89.8,89.2,8.5,4,3,No,0,High,69.7,54.1,35.9,76.0,Not Placed,0.0,Low Risk
+ST1089,21,Female,Electronics,6,92.3,0.5,8.3,87.3,88.0,97.6,81.3,3.8,4,0,Yes,0,Medium,66.0,68.0,67.0,66.2,Not Placed,0.0,Low Risk
+ST1090,20,Female,Information Technology,3,66.2,4.8,8.1,82.2,89.2,71.5,30.0,11.5,2,3,No,0,High,48.5,43.9,64.2,59.1,Not Placed,0.0,Medium Risk
+ST1091,20,Male,Mechanical,3,72.4,1.2,6.1,94.4,68.3,88.2,55.9,9.0,4,1,No,1,Medium,66.1,67.2,62.8,59.0,Not Placed,0.0,Medium Risk
+ST1092,18,Male,Computer Engineering,6,83.5,5.8,7.2,80.0,68.0,58.3,83.2,0.0,3,4,Yes,0,Medium,60.4,89.4,76.8,65.5,Not Placed,0.0,Low Risk
+ST1093,20,Male,Civil,4,87.4,3.0,6.5,60.4,62.5,86.0,72.1,10.1,5,5,Yes,5,High,94.5,63.2,86.7,55.2,Not Placed,0.0,Medium Risk
+ST1094,20,Male,Information Technology,5,75.0,3.2,7.2,91.4,85.1,85.6,55.7,10.0,5,4,No,4,Low,70.7,87.9,62.5,50.6,Not Placed,0.0,Medium Risk
+ST1095,18,Female,Computer Engineering,5,70.8,2.6,8.7,67.7,94.8,83.2,61.1,8.1,4,0,No,4,Low,61.6,63.4,71.3,57.6,Not Placed,0.0,High Risk
+ST1096,20,Male,Computer Engineering,3,95.1,3.1,7.7,85.9,71.9,71.8,43.3,12.5,3,1,Yes,4,Medium,61.1,51.7,63.0,56.8,Not Placed,0.0,Medium Risk
+ST1097,22,Male,Computer Engineering,5,98.9,5.6,7.6,93.9,72.9,33.6,68.8,4.6,3,2,No,2,Medium,51.0,78.0,75.1,57.8,Not Placed,0.0,Medium Risk
+ST1098,19,Female,Information Technology,4,89.7,0.5,6.5,80.5,95.1,63.7,98.0,9.7,0,4,No,5,High,91.3,75.0,43.5,51.6,Not Placed,0.0,Medium Risk
+ST1099,19,Female,Information Technology,5,79.0,5.4,5.4,57.0,82.6,63.9,81.3,0.2,2,5,No,3,High,87.6,100.0,76.9,62.2,Not Placed,0.0,Medium Risk
+ST1100,18,Female,Mechanical,3,68.3,4.0,6.8,64.0,81.7,59.3,98.0,10.0,6,1,Yes,0,High,69.1,53.3,71.5,65.6,Placed,4.32,Low Risk
+ST1101,21,Female,Information Technology,3,68.0,1.7,8.3,90.9,60.5,73.6,82.4,17.8,1,1,No,2,Low,100.0,73.3,51.6,53.1,Not Placed,0.0,Medium Risk
+ST1102,18,Male,Computer Engineering,4,84.3,1.9,5.3,73.0,84.8,66.6,84.4,3.0,6,0,No,3,Medium,69.8,73.9,100.0,59.1,Not Placed,0.0,Medium Risk
+ST1103,21,Male,Electronics,4,83.0,6.0,5.8,76.0,63.9,61.3,97.6,4.2,0,5,Yes,1,Medium,85.4,83.9,45.2,66.7,Not Placed,0.0,Low Risk
+ST1104,19,Female,Electronics,5,94.8,2.1,7.1,84.1,61.3,58.2,75.3,4.4,1,1,Yes,0,High,77.9,75.9,72.3,57.2,Placed,3.12,Low Risk
+ST1105,18,Male,Computer Engineering,5,85.8,1.8,5.9,83.4,71.5,62.7,67.4,8.6,6,1,No,0,Medium,62.0,63.7,51.7,61.9,Placed,2.0,Low Risk
+ST1106,22,Male,Computer Engineering,3,60.0,5.2,6.1,78.3,68.4,86.6,84.5,2.7,3,2,No,2,Low,72.6,51.9,76.2,63.0,Not Placed,0.0,Medium Risk
+ST1107,20,Male,Computer Engineering,4,90.6,4.0,6.5,72.5,73.1,63.4,90.4,10.1,5,0,Yes,4,High,75.2,73.2,99.0,57.7,Not Placed,0.0,Medium Risk
+ST1108,21,Female,Mechanical,4,66.0,2.1,5.5,71.2,57.3,65.3,63.3,12.2,0,0,No,0,Medium,51.7,73.6,79.4,47.4,Not Placed,0.0,Medium Risk
+ST1109,20,Male,Electronics,4,73.4,3.8,5.9,85.3,88.5,66.1,59.9,10.7,6,5,No,0,Medium,74.0,77.5,65.1,65.8,Placed,5.6,Low Risk
+ST1110,20,Female,Information Technology,5,81.0,2.0,7.8,81.6,90.7,76.4,71.9,0.0,4,1,No,0,Medium,86.0,63.7,81.9,61.8,Not Placed,0.0,Low Risk
+ST1111,18,Male,Mechanical,4,100.0,5.2,5.6,71.9,50.7,77.9,81.6,13.0,4,2,No,1,Medium,60.3,72.2,57.6,69.2,Not Placed,0.0,Low Risk
+ST1112,20,Male,Mechanical,3,100.0,5.1,5.2,88.0,88.7,32.4,81.2,12.7,1,3,No,0,Medium,67.1,44.8,74.8,75.1,Not Placed,0.0,Low Risk
+ST1113,22,Male,Electronics,3,85.3,4.3,6.3,73.5,65.5,85.3,50.1,12.2,3,4,No,1,Medium,54.5,52.6,68.4,64.4,Not Placed,0.0,Medium Risk
+ST1114,20,Female,Mechanical,5,75.8,4.0,7.8,64.8,87.1,90.7,96.8,9.9,5,0,Yes,4,Medium,63.2,82.0,47.5,55.1,Not Placed,0.0,Medium Risk
+ST1115,18,Male,Computer Engineering,6,84.4,6.1,6.8,65.9,75.1,58.3,61.0,9.1,1,2,Yes,1,Low,64.3,70.7,94.3,62.2,Not Placed,0.0,Medium Risk
+ST1116,22,Female,Computer Engineering,5,88.7,3.5,6.5,63.3,76.4,59.4,66.3,13.2,6,5,No,0,Medium,92.1,75.1,86.9,49.8,Placed,3.1,Medium Risk
+ST1117,19,Female,Computer Engineering,6,74.2,1.7,7.0,71.7,73.6,66.1,57.4,17.6,6,2,Yes,3,Medium,65.6,59.0,53.3,49.2,Placed,3.7,High Risk
+ST1118,20,Female,Computer Engineering,4,99.5,4.2,5.1,89.8,91.8,62.2,98.0,3.2,5,1,No,1,Medium,62.6,57.1,83.4,76.4,Not Placed,0.0,Low Risk
+ST1119,18,Male,Information Technology,5,80.8,6.6,7.5,65.3,59.9,74.9,73.4,13.4,6,4,Yes,0,Medium,68.7,61.6,48.2,69.4,Placed,4.17,Low Risk
+ST1120,19,Male,Civil,3,84.0,2.0,7.4,77.3,83.9,46.7,58.1,7.6,2,0,Yes,0,Medium,46.1,71.6,74.4,57.4,Not Placed,0.0,Low Risk
+ST1121,19,Male,Computer Engineering,4,86.0,3.0,6.5,67.1,90.3,57.5,82.1,7.4,5,3,No,1,Medium,37.0,78.3,67.8,72.3,Not Placed,0.0,Low Risk
+ST1122,21,Male,Computer Engineering,3,83.1,4.1,8.1,71.9,85.3,92.0,80.8,0.3,4,1,No,2,Medium,50.7,64.3,93.9,55.7,Not Placed,0.0,Medium Risk
+ST1123,22,Female,Information Technology,4,88.1,3.4,5.8,56.9,100.0,59.9,67.4,6.6,6,0,No,3,Medium,74.5,43.1,72.3,49.9,Not Placed,0.0,High Risk
+ST1124,20,Female,Civil,5,70.6,2.0,8.2,72.4,69.1,88.2,81.8,3.0,3,5,Yes,0,Medium,70.0,74.0,42.3,63.6,Placed,4.15,Medium Risk
+ST1125,18,Female,Information Technology,6,71.3,5.2,7.2,72.7,88.4,76.6,58.4,5.7,0,0,Yes,0,Medium,82.2,72.0,83.3,67.5,Not Placed,0.0,Low Risk
+ST1126,21,Male,Information Technology,4,64.8,7.0,6.6,81.5,74.6,48.5,63.1,2.5,0,2,No,0,Medium,48.7,75.2,60.0,65.0,Not Placed,0.0,Low Risk
+ST1127,22,Female,Computer Engineering,6,83.3,3.8,7.0,77.7,92.0,80.3,41.9,5.8,0,4,Yes,1,Low,67.1,80.8,59.2,57.7,Not Placed,0.0,Medium Risk
+ST1128,21,Male,Computer Engineering,4,87.3,2.1,6.9,60.6,75.9,70.5,51.5,6.0,5,3,No,2,High,47.7,79.7,67.5,49.5,Placed,3.69,Medium Risk
+ST1129,22,Female,Civil,3,83.5,1.2,8.3,88.0,71.0,66.1,95.3,8.5,4,4,Yes,0,High,73.7,88.4,57.8,57.3,Placed,4.09,Low Risk
+ST1130,22,Male,Civil,3,98.1,3.9,5.8,77.5,93.0,75.2,93.0,0.0,5,2,Yes,0,Medium,50.7,68.4,95.7,74.9,Placed,5.33,Low Risk
+ST1131,20,Male,Computer Engineering,4,77.9,5.2,6.2,77.4,69.6,78.2,70.9,0.8,3,3,No,4,Medium,66.6,61.5,79.9,50.2,Not Placed,0.0,Medium Risk
+ST1132,22,Female,Civil,6,86.0,4.2,8.1,74.9,57.6,81.2,93.3,9.8,4,3,No,3,High,72.9,83.6,48.7,64.8,Not Placed,0.0,Medium Risk
+ST1133,21,Female,Electronics,5,64.9,3.5,6.3,68.8,69.3,87.3,67.8,4.0,4,1,No,0,Low,64.5,81.6,55.4,59.6,Not Placed,0.0,Medium Risk
+ST1134,22,Female,Mechanical,5,73.4,2.6,8.0,77.6,84.0,77.3,66.6,13.4,5,3,No,2,Medium,38.3,64.5,46.0,54.0,Placed,2.0,Medium Risk
+ST1135,20,Female,Information Technology,3,86.3,1.9,8.9,80.7,94.1,54.1,70.8,9.1,5,0,No,1,Low,93.3,84.6,82.5,56.9,Not Placed,0.0,Medium Risk
+ST1136,20,Male,Information Technology,5,88.2,4.8,6.6,54.0,77.4,65.8,68.3,11.0,0,4,No,0,Medium,63.0,69.1,65.9,54.3,Not Placed,0.0,Low Risk
+ST1137,21,Female,Information Technology,3,74.5,4.9,7.7,68.5,93.1,100.0,67.0,15.1,4,5,No,0,High,47.5,87.1,51.4,65.9,Not Placed,0.0,Low Risk
+ST1138,19,Female,Electronics,5,77.1,1.2,5.7,71.9,58.3,81.4,86.0,6.5,0,5,Yes,0,Medium,80.7,93.9,92.1,53.5,Placed,2.0,Low Risk
+ST1139,19,Female,Computer Engineering,4,59.8,5.9,7.8,78.1,70.2,100.0,72.1,5.1,3,4,Yes,0,Medium,81.2,100.0,75.1,68.0,Placed,4.09,Medium Risk
+ST1140,22,Male,Computer Engineering,3,73.7,4.4,7.2,89.3,72.2,90.1,80.0,12.4,2,1,No,1,High,65.8,68.9,70.0,64.2,Not Placed,0.0,Medium Risk
+ST1141,18,Male,Information Technology,3,88.7,5.6,7.5,65.7,74.5,75.1,84.4,10.5,0,3,Yes,0,Medium,91.5,89.2,69.2,63.1,Not Placed,0.0,Low Risk
+ST1142,22,Female,Electronics,4,84.9,1.5,6.3,69.0,77.1,75.9,75.4,7.1,5,2,Yes,0,Medium,59.6,80.8,45.3,55.3,Not Placed,0.0,Low Risk
+ST1143,21,Male,Computer Engineering,3,84.0,1.5,5.2,68.8,85.0,71.5,56.4,15.0,6,0,No,0,Medium,69.45,82.2,75.9,59.6,Placed,2.91,Low Risk
+ST1144,21,Female,Electronics,5,78.6,3.3,7.6,65.4,70.2,49.4,51.1,6.9,1,1,No,0,Medium,77.2,74.4,60.3,43.5,Not Placed,0.0,Medium Risk
+ST1145,21,Male,Civil,5,78.1,4.3,4.7,70.8,77.8,72.2,72.1,8.2,2,3,No,1,High,91.2,82.3,80.9,58.9,Not Placed,0.0,Medium Risk
+ST1146,21,Male,Computer Engineering,3,70.1,6.2,6.7,84.2,75.4,87.7,67.6,8.1,3,5,Yes,0,High,42.8,47.4,77.2,73.8,Not Placed,0.0,Low Risk
+ST1147,21,Male,Electronics,5,86.4,4.6,8.0,62.4,64.0,64.2,71.2,3.3,6,2,No,0,Medium,100.0,67.6,66.0,62.0,Placed,3.73,Low Risk
+ST1148,20,Male,Information Technology,6,83.1,3.1,7.2,80.1,74.5,77.4,69.8,8.4,5,3,No,4,Medium,86.4,58.2,64.9,55.4,Not Placed,0.0,Medium Risk
+ST1149,19,Female,Mechanical,3,83.9,2.0,9.1,54.6,74.1,83.1,98.0,15.0,2,1,No,0,Low,76.3,56.9,93.5,62.4,Not Placed,0.0,Low Risk
+ST1150,21,Female,Computer Engineering,4,71.7,5.3,8.1,68.3,73.9,60.2,51.4,10.2,5,2,Yes,1,High,58.8,46.5,45.6,51.0,Not Placed,0.0,Medium Risk
+ST1151,18,Female,Electronics,6,52.2,2.1,6.3,71.0,76.4,66.1,42.1,8.2,0,2,Yes,0,Medium,57.6,60.1,57.8,57.1,Not Placed,0.0,Medium Risk
+ST1152,18,Male,Mechanical,3,91.2,5.9,7.0,95.1,77.0,58.8,74.7,7.2,6,2,Yes,3,Medium,74.0,65.4,85.2,62.4,Placed,3.05,Medium Risk
+ST1153,18,Female,Civil,4,72.3,3.1,6.9,71.7,70.4,61.3,64.7,9.7,5,2,Yes,2,Low,76.9,70.8,90.8,53.0,Not Placed,0.0,Medium Risk
+ST1154,18,Female,Electronics,5,67.6,5.9,5.3,48.6,92.5,55.3,74.4,11.7,6,3,Yes,0,High,75.1,67.8,64.8,59.8,Placed,4.33,Medium Risk
+ST1155,20,Female,Information Technology,4,86.3,4.5,6.0,51.0,60.8,60.3,78.2,11.0,3,2,Yes,1,Low,72.2,83.8,55.8,63.2,Not Placed,0.0,Medium Risk
+ST1156,18,Male,Electronics,6,73.3,3.3,6.4,75.4,66.6,90.5,88.0,6.3,1,3,No,0,Low,76.0,54.6,56.1,55.4,Not Placed,0.0,Medium Risk
+ST1157,21,Male,Mechanical,5,90.7,2.7,4.8,82.4,100.0,60.1,48.9,9.6,0,2,No,4,Medium,39.4,38.8,44.0,59.0,Not Placed,0.0,Medium Risk
+ST1158,22,Male,Electronics,3,85.4,3.0,7.1,79.5,62.5,73.6,62.2,10.4,0,2,No,0,Medium,66.3,76.0,99.0,58.0,Not Placed,0.0,Low Risk
+ST1159,18,Female,Computer Engineering,5,86.2,4.1,6.7,77.0,58.4,65.5,76.0,3.0,6,1,Yes,2,Medium,50.6,67.3,64.6,56.0,Placed,3.71,Medium Risk
+ST1160,20,Female,Civil,3,61.6,3.6,5.2,88.9,85.5,87.3,80.8,8.8,3,3,No,0,Medium,69.4,67.0,74.4,61.8,Not Placed,0.0,Medium Risk
+ST1161,20,Female,Electronics,3,92.5,2.6,7.4,68.5,49.0,89.0,98.0,0.0,3,5,Yes,1,Medium,88.3,57.3,74.6,70.4,Placed,4.41,Low Risk
+ST1162,18,Male,Electronics,4,81.1,3.3,7.8,85.7,72.9,83.2,83.4,10.4,2,3,No,5,Low,57.3,81.6,90.7,45.3,Not Placed,0.0,High Risk
+ST1163,22,Male,Computer Engineering,4,73.6,3.6,7.2,55.4,100.0,76.0,69.2,11.3,1,4,No,2,Low,60.1,61.7,60.3,54.3,Not Placed,0.0,Medium Risk
+ST1164,18,Female,Electronics,4,79.7,0.5,6.6,64.1,55.9,69.0,57.5,11.7,5,5,No,0,High,58.1,54.7,61.4,46.0,Not Placed,0.0,Medium Risk
+ST1165,20,Male,Information Technology,6,56.7,4.2,7.7,53.3,50.2,56.5,62.1,6.0,2,1,No,0,Low,60.0,93.1,80.3,39.8,Not Placed,0.0,High Risk
+ST1166,19,Male,Electronics,6,77.75,2.0,7.7,71.7,56.5,97.3,61.7,9.5,5,3,No,0,Low,77.8,78.4,38.3,67.6,Not Placed,0.0,Low Risk
+ST1167,21,Male,Computer Engineering,4,65.6,1.8,7.3,74.4,87.7,62.1,79.2,15.1,5,1,No,0,Medium,81.0,67.4,90.8,58.6,Placed,4.5,Medium Risk
+ST1168,20,Male,Electronics,6,61.8,1.0,6.1,76.4,90.6,80.6,73.6,15.1,5,5,No,0,Medium,90.6,31.4,94.8,53.3,Placed,2.92,Medium Risk
+ST1169,18,Female,Civil,5,59.7,0.8,7.3,75.7,69.3,85.8,51.5,7.9,2,1,No,0,Medium,55.9,64.5,70.9,56.1,Placed,4.41,Medium Risk
+ST1170,21,Male,Computer Engineering,5,91.4,1.5,8.3,63.9,84.9,64.8,63.9,8.7,0,1,No,0,High,79.6,67.7,52.0,56.3,Not Placed,0.0,Low Risk
+ST1171,18,Male,Civil,6,70.4,2.4,6.3,72.7,94.1,85.5,82.3,13.6,3,0,No,0,High,81.9,90.0,80.6,60.9,Not Placed,0.0,Medium Risk
+ST1172,18,Male,Information Technology,6,96.4,6.4,9.3,57.0,99.2,81.9,74.9,0.5,0,3,No,0,Medium,93.1,41.8,63.9,75.3,Not Placed,0.0,Low Risk
+ST1173,19,Male,Mechanical,5,71.6,2.7,6.4,91.4,72.8,94.5,78.0,6.4,1,1,No,0,Medium,57.0,91.4,69.3,61.5,Not Placed,0.0,Medium Risk
+ST1174,21,Female,Mechanical,3,57.5,3.8,7.0,71.4,46.1,65.9,75.4,14.7,2,0,Yes,0,Medium,41.9,74.6,70.5,48.2,Not Placed,0.0,High Risk
+ST1175,21,Female,Electronics,5,64.6,4.1,6.3,69.1,65.3,55.3,92.8,12.9,1,0,No,1,Medium,66.1,49.9,56.5,58.2,Not Placed,0.0,Medium Risk
+ST1176,19,Male,Mechanical,5,92.8,3.7,7.2,94.1,70.5,65.4,73.3,9.8,3,2,No,0,Low,100.0,81.8,72.6,66.0,Placed,4.11,Low Risk
+ST1177,20,Male,Mechanical,6,76.1,3.4,5.1,60.1,72.6,74.7,64.6,0.5,3,2,No,0,Medium,54.7,64.3,43.6,62.4,Not Placed,0.0,Low Risk
+ST1178,18,Male,Information Technology,5,71.4,1.7,6.4,61.5,73.6,72.8,57.2,7.8,4,5,Yes,0,Low,76.8,43.1,31.9,52.7,Not Placed,0.0,Medium Risk
+ST1179,22,Male,Information Technology,6,79.9,5.7,5.8,61.8,90.5,66.9,73.5,5.1,1,3,Yes,0,High,39.0,61.3,72.8,70.5,Placed,4.55,Low Risk
+ST1180,18,Male,Electronics,6,84.0,6.2,7.1,74.2,92.6,47.2,35.8,9.7,0,2,No,1,Medium,95.4,71.8,83.7,59.8,Not Placed,0.0,Medium Risk
+ST1181,18,Male,Mechanical,4,91.4,1.0,8.1,80.2,73.8,78.1,67.4,4.0,6,5,No,0,Low,43.7,68.9,58.8,68.0,Placed,2.94,Low Risk
+ST1182,20,Female,Mechanical,5,95.4,2.0,7.7,83.9,90.3,97.6,67.1,2.9,1,3,Yes,0,Low,36.5,77.7,57.9,73.5,Not Placed,0.0,Low Risk
+ST1183,18,Male,Mechanical,3,73.7,3.1,4.4,100.0,80.6,78.0,50.9,0.0,2,5,No,2,High,71.4,84.5,77.4,63.3,Not Placed,0.0,Medium Risk
+ST1184,19,Female,Information Technology,4,62.1,2.1,9.2,48.0,76.8,79.9,57.0,14.1,3,0,No,5,Medium,71.7,51.5,66.7,40.9,Not Placed,0.0,High Risk
+ST1185,19,Female,Mechanical,6,73.0,4.3,7.3,82.3,87.8,79.4,81.3,6.0,3,0,Yes,0,Medium,89.9,67.7,57.9,68.9,Not Placed,0.0,Low Risk
+ST1186,21,Male,Computer Engineering,6,77.75,2.4,6.1,68.3,76.9,77.2,73.2,8.8,1,3,No,0,Medium,81.9,58.9,71.9,59.0,Not Placed,0.0,Low Risk
+ST1187,22,Female,Information Technology,3,66.4,6.7,7.2,68.0,100.0,84.1,71.4,8.0,1,5,Yes,0,High,42.0,49.3,67.1,64.2,Placed,3.45,Medium Risk
+ST1188,18,Female,Computer Engineering,6,66.5,5.3,7.2,67.6,57.3,77.1,74.3,2.7,5,5,No,0,Medium,67.9,67.2,47.0,71.2,Placed,5.43,Low Risk
+ST1189,18,Female,Information Technology,5,82.1,3.8,6.3,64.1,69.3,67.9,71.3,1.7,1,2,No,0,Low,60.2,74.5,65.3,55.8,Not Placed,0.0,Low Risk
+ST1190,20,Female,Information Technology,4,77.4,5.0,7.2,95.2,74.4,61.7,87.4,3.0,5,2,No,1,Low,51.3,75.4,69.9,69.9,Not Placed,0.0,Low Risk
+ST1191,19,Female,Information Technology,6,78.4,5.2,6.3,85.1,81.7,68.8,71.7,4.4,2,3,No,0,Medium,76.1,62.1,58.5,69.9,Not Placed,0.0,Low Risk
+ST1192,22,Female,Electronics,6,68.9,2.7,6.6,75.3,92.5,76.1,49.6,9.8,2,4,No,3,High,84.6,52.9,81.8,52.5,Not Placed,0.0,High Risk
+ST1193,21,Male,Information Technology,3,75.2,2.3,6.2,91.2,75.7,67.9,92.8,4.0,0,2,No,0,Low,58.7,58.3,74.7,60.4,Placed,2.43,Low Risk
+ST1194,19,Female,Information Technology,5,66.9,3.6,5.4,56.8,57.5,76.1,75.2,16.7,1,1,No,0,Medium,65.3,39.8,62.6,54.8,Not Placed,0.0,Medium Risk
+ST1195,21,Female,Computer Engineering,6,88.7,4.8,7.2,59.0,87.0,77.7,61.8,13.1,0,2,No,1,Medium,66.3,50.2,69.1,59.3,Placed,2.79,Medium Risk
+ST1196,20,Female,Information Technology,3,90.4,3.7,7.6,48.9,85.8,82.8,52.5,12.0,6,4,No,0,High,60.7,51.5,61.0,65.3,Not Placed,0.0,Low Risk
+ST1197,20,Male,Computer Engineering,6,55.8,1.1,7.6,66.6,50.8,88.7,75.5,7.4,4,5,Yes,0,Medium,64.0,80.7,63.4,45.8,Not Placed,0.0,High Risk
+ST1198,18,Female,Computer Engineering,3,66.8,2.3,7.9,76.9,76.0,73.0,68.4,15.6,2,0,No,0,Medium,60.7,80.7,64.0,61.3,Not Placed,0.0,Medium Risk
+ST1199,22,Male,Electronics,3,60.0,3.4,7.4,76.2,55.3,55.0,92.0,6.9,3,0,No,0,Low,71.7,99.9,38.7,53.8,Not Placed,0.0,Medium Risk
+ST1200,21,Female,Electronics,5,70.2,3.4,6.4,76.8,67.4,67.5,65.2,7.8,5,5,Yes,0,Low,61.8,71.6,67.4,54.3,Placed,3.04,Medium Risk
+ST1201,19,Male,Electronics,6,77.0,6.5,7.9,58.1,64.3,72.6,58.3,8.8,4,0,No,0,Medium,76.0,60.7,72.1,56.7,Not Placed,0.0,Low Risk
+ST1202,20,Male,Information Technology,5,60.6,3.5,5.5,84.6,86.5,48.1,82.5,11.5,3,2,No,0,Medium,61.7,68.2,100.0,54.5,Not Placed,0.0,Medium Risk
+ST1203,18,Female,Information Technology,3,66.9,4.3,6.0,74.5,77.5,90.1,83.0,11.2,4,0,No,0,Medium,79.1,65.5,74.0,65.6,Placed,4.76,Low Risk
+ST1204,18,Female,Mechanical,4,66.0,5.7,5.9,83.8,59.3,73.9,72.4,5.6,0,4,No,5,High,61.4,58.5,56.6,45.9,Not Placed,0.0,High Risk
+ST1205,21,Male,Information Technology,6,80.5,6.9,8.2,52.3,87.4,77.0,79.5,5.3,0,4,No,0,Medium,78.5,72.8,40.7,70.1,Not Placed,0.0,Low Risk
+ST1206,20,Female,Information Technology,4,78.8,2.9,8.0,78.7,57.4,89.8,69.5,11.2,5,2,No,0,Medium,58.1,70.9,50.1,64.4,Not Placed,0.0,Low Risk
+ST1207,22,Male,Computer Engineering,6,69.3,4.2,7.5,60.7,80.3,63.8,73.3,11.6,2,5,No,4,Low,82.4,66.8,59.0,49.5,Not Placed,0.0,High Risk
+ST1208,20,Male,Information Technology,5,80.1,4.4,8.2,70.2,65.4,79.5,86.3,6.0,6,1,No,1,Low,45.1,63.6,59.3,59.1,Placed,3.32,Medium Risk
+ST1209,21,Male,Information Technology,5,71.4,3.8,6.0,81.4,71.2,70.6,78.8,0.1,5,2,No,0,Medium,69.9,77.5,63.2,58.9,Placed,5.19,Medium Risk
+ST1210,21,Male,Information Technology,5,74.7,3.4,7.4,76.1,82.6,69.6,67.6,7.0,6,0,No,0,Medium,62.1,59.7,60.6,56.1,Placed,3.72,Medium Risk
+ST1211,20,Male,Electronics,5,98.1,4.2,6.9,64.8,82.8,62.0,88.9,11.1,3,2,No,1,Medium,69.4,62.0,63.3,64.7,Not Placed,0.0,Medium Risk
+ST1212,21,Female,Information Technology,5,94.1,0.5,7.9,75.1,93.4,93.7,36.9,17.0,4,4,Yes,0,High,53.4,75.1,60.2,66.2,Placed,5.06,Low Risk
+ST1213,20,Male,Electronics,4,62.4,4.5,6.9,56.6,74.9,67.1,98.0,2.0,5,2,Yes,1,Medium,67.3,83.2,67.3,52.3,Placed,4.17,Medium Risk
+ST1214,19,Male,Mechanical,5,88.0,3.7,6.6,88.8,80.0,81.1,46.1,5.9,6,2,No,4,Medium,54.5,81.8,52.5,54.3,Not Placed,0.0,Medium Risk
+ST1215,20,Female,Mechanical,3,87.7,3.2,7.6,72.5,70.3,47.6,61.2,6.1,1,1,Yes,0,High,66.7,64.1,46.9,56.9,Not Placed,0.0,Low Risk
+ST1216,20,Male,Electronics,3,64.2,6.6,8.0,88.4,78.4,87.3,69.4,14.8,1,4,No,0,Medium,65.4,49.0,63.2,70.8,Not Placed,0.0,Low Risk
+ST1217,21,Female,Civil,4,87.8,2.5,6.3,68.7,81.7,85.7,67.9,7.8,2,3,No,1,Low,74.6,63.7,73.9,53.8,Not Placed,0.0,Medium Risk
+ST1218,21,Female,Computer Engineering,6,96.5,2.9,6.9,68.7,74.7,73.3,84.1,3.5,6,3,Yes,0,Low,70.9,69.1,49.1,78.1,Placed,5.73,Low Risk
+ST1219,18,Female,Computer Engineering,3,64.5,6.5,5.8,65.8,52.6,69.0,55.2,10.8,5,4,Yes,0,Medium,96.3,51.3,57.8,63.1,Placed,3.88,Medium Risk
+ST1220,18,Male,Computer Engineering,6,67.0,2.3,4.3,85.5,80.3,77.2,73.7,6.0,3,3,No,0,High,62.9,63.4,64.7,57.4,Not Placed,0.0,Medium Risk
+ST1221,19,Male,Electronics,4,90.2,2.7,7.2,66.5,80.7,100.0,61.9,1.9,1,0,No,1,Low,68.1,86.1,64.3,56.9,Not Placed,0.0,Medium Risk
+ST1222,18,Male,Civil,6,81.3,3.3,7.7,82.7,67.2,49.1,74.1,3.5,2,3,No,1,Medium,100.0,70.2,79.0,57.5,Not Placed,0.0,Medium Risk
+ST1223,20,Female,Computer Engineering,6,84.6,4.8,7.3,70.4,59.3,82.2,69.1,16.7,5,0,No,5,Medium,66.9,59.9,82.0,55.6,Not Placed,0.0,Medium Risk
+ST1224,21,Male,Civil,6,82.1,3.8,4.9,51.3,95.2,60.1,71.3,9.9,2,4,Yes,2,High,83.3,68.4,70.6,51.5,Not Placed,0.0,Medium Risk
+ST1225,18,Female,Computer Engineering,6,82.7,1.6,6.6,68.2,82.4,71.7,62.3,8.5,3,3,Yes,0,Medium,78.1,69.3,86.4,53.4,Not Placed,0.0,Low Risk
+ST1226,18,Male,Civil,4,62.1,2.7,4.6,60.9,73.0,68.8,62.9,6.8,1,3,No,1,High,100.0,62.4,61.1,45.8,Not Placed,0.0,High Risk
+ST1227,19,Female,Information Technology,3,90.6,2.6,8.5,75.4,61.2,66.4,74.0,9.5,1,5,No,0,Medium,50.0,79.6,80.4,60.2,Not Placed,0.0,Low Risk
+ST1228,19,Male,Computer Engineering,5,92.0,3.4,5.8,60.7,65.3,71.9,83.2,9.4,1,0,Yes,2,Low,48.4,40.6,57.2,57.5,Not Placed,0.0,Medium Risk
+ST1229,20,Male,Information Technology,6,75.2,4.1,8.4,86.1,92.9,57.3,61.6,9.5,6,0,No,0,Low,54.3,75.1,71.7,75.7,Not Placed,0.0,Low Risk
+ST1230,21,Male,Computer Engineering,3,77.5,4.1,8.0,73.9,77.8,85.4,57.8,8.6,0,2,No,0,Medium,72.4,59.4,77.3,51.5,Not Placed,0.0,Low Risk
+ST1231,19,Female,Computer Engineering,3,59.6,0.8,6.0,72.9,68.8,48.7,78.6,12.3,3,1,Yes,2,Medium,56.0,83.7,67.9,42.9,Not Placed,0.0,High Risk
+ST1232,18,Female,Information Technology,4,84.2,5.1,5.8,82.9,82.6,79.0,69.5,8.1,1,3,Yes,0,High,40.1,48.9,51.6,65.5,Placed,3.26,Low Risk
+ST1233,21,Male,Mechanical,3,84.9,3.9,7.4,86.6,65.4,67.8,81.6,3.1,4,5,No,2,Low,57.1,82.1,40.2,62.5,Not Placed,0.0,Medium Risk
+ST1234,21,Male,Information Technology,4,77.3,5.6,6.1,74.8,95.5,56.8,57.3,4.9,0,1,Yes,1,Medium,75.2,56.2,75.9,63.5,Not Placed,0.0,Medium Risk
+ST1235,18,Female,Information Technology,6,91.5,4.2,7.1,65.7,93.6,74.6,45.1,0.0,5,5,Yes,0,Low,57.3,72.8,62.6,65.1,Placed,6.14,Low Risk
+ST1236,19,Female,Electronics,6,74.0,5.2,6.5,53.7,69.9,51.8,62.5,18.1,6,1,No,0,Medium,86.0,61.0,63.8,66.8,Not Placed,0.0,Low Risk
+ST1237,18,Female,Electronics,5,84.8,4.2,5.0,66.8,67.8,72.5,59.3,12.3,0,3,No,3,High,54.2,84.9,91.0,47.3,Not Placed,0.0,High Risk
+ST1238,21,Male,Computer Engineering,5,65.8,5.5,4.5,67.6,42.0,53.5,68.9,3.8,0,5,No,0,Low,70.2,65.1,51.9,49.5,Not Placed,0.0,Medium Risk
+ST1239,22,Female,Information Technology,5,77.7,4.3,7.2,76.3,56.7,78.0,61.1,6.6,6,0,Yes,1,Medium,64.5,57.2,78.8,53.2,Not Placed,0.0,Medium Risk
+ST1240,22,Male,Computer Engineering,3,75.9,3.4,6.4,70.9,58.6,60.0,80.4,4.8,6,2,No,1,Low,72.6,89.0,55.2,56.0,Not Placed,0.0,Medium Risk
+ST1241,20,Female,Computer Engineering,6,80.7,6.9,6.4,74.5,77.8,66.1,66.0,15.7,0,5,No,3,Medium,74.0,63.8,64.2,58.5,Not Placed,0.0,Medium Risk
+ST1242,18,Male,Electronics,4,73.6,4.8,7.8,67.6,71.8,75.8,72.1,0.9,2,4,Yes,1,Low,92.2,75.8,49.6,63.3,Not Placed,0.0,Medium Risk
+ST1243,18,Female,Computer Engineering,5,76.4,4.4,8.3,74.3,58.5,62.0,72.2,8.6,4,3,Yes,1,Medium,79.7,82.1,55.1,66.9,Not Placed,0.0,Low Risk
+ST1244,20,Female,Information Technology,4,87.9,1.6,6.7,89.2,72.3,71.2,72.7,7.5,3,3,No,3,Medium,64.1,54.8,73.6,62.1,Not Placed,0.0,Medium Risk
+ST1245,20,Female,Electronics,4,72.8,1.6,6.6,79.1,82.6,52.3,69.7,12.1,1,4,No,2,Medium,78.6,74.3,87.7,44.2,Not Placed,0.0,High Risk
+ST1246,20,Female,Computer Engineering,5,58.7,3.9,7.6,74.3,82.9,80.2,77.1,7.5,6,1,No,1,Low,80.5,76.4,73.8,60.5,Placed,3.9,High Risk
+ST1247,21,Female,Electronics,6,99.0,3.7,5.5,67.8,51.3,94.9,58.9,0.0,0,2,Yes,0,Medium,98.6,44.8,71.9,66.8,Not Placed,0.0,Low Risk
+ST1248,18,Male,Computer Engineering,5,94.6,2.6,7.2,67.4,74.3,100.0,89.6,6.7,3,1,No,0,Medium,67.8,72.8,100.0,72.1,Not Placed,0.0,Low Risk
+ST1249,21,Female,Civil,4,62.5,3.7,7.6,64.8,58.0,73.2,66.7,3.1,6,4,No,1,Medium,68.8,62.7,76.0,65.5,Placed,5.37,Medium Risk
+ST1250,20,Female,Information Technology,5,86.3,5.9,7.7,68.5,87.7,82.2,51.6,8.4,2,4,No,0,Low,88.4,92.3,52.1,67.1,Placed,2.71,Low Risk
+ST1251,18,Female,Mechanical,4,72.0,4.5,4.9,84.1,86.2,48.9,72.6,15.2,3,2,No,0,High,42.0,81.0,40.1,62.9,Not Placed,0.0,Medium Risk
+ST1252,21,Male,Electronics,4,81.2,1.8,6.2,72.3,64.3,91.5,58.1,0.0,0,4,Yes,0,Medium,67.1,74.6,73.1,68.6,Not Placed,0.0,Low Risk
+ST1253,21,Female,Computer Engineering,5,81.5,3.3,6.0,58.8,66.0,82.1,79.3,4.0,5,4,No,1,Low,79.7,37.4,44.5,61.9,Not Placed,0.0,Medium Risk
+ST1254,20,Male,Electronics,3,77.75,2.3,7.1,96.2,70.0,65.7,98.0,5.2,4,5,Yes,0,Low,84.7,74.7,51.0,60.3,Placed,5.79,Low Risk
+ST1255,18,Female,Civil,5,68.6,2.9,7.5,78.8,46.7,88.1,59.0,6.1,3,2,Yes,0,High,39.1,56.6,71.9,51.5,Not Placed,0.0,Medium Risk
+ST1256,20,Female,Electronics,3,69.7,2.9,8.6,58.1,80.4,68.7,74.7,11.7,6,3,No,0,Low,51.3,81.1,83.6,60.5,Placed,4.1,Medium Risk
+ST1257,18,Male,Mechanical,4,67.0,2.8,6.5,69.7,72.5,66.0,45.4,7.1,0,1,No,2,High,35.1,65.6,62.4,52.8,Not Placed,0.0,Medium Risk
+ST1258,22,Female,Civil,4,68.0,1.6,6.5,76.3,88.6,78.2,76.4,10.1,6,3,Yes,0,Medium,82.2,60.2,47.7,66.8,Placed,4.22,Low Risk
+ST1259,19,Male,Computer Engineering,3,77.2,3.3,8.3,95.5,61.7,58.2,57.6,4.9,0,3,No,0,Medium,72.9,61.5,64.7,52.8,Not Placed,0.0,Low Risk
+ST1260,19,Male,Computer Engineering,4,69.4,2.7,7.3,61.7,68.0,85.3,61.3,9.1,1,5,Yes,0,Medium,89.9,62.4,62.6,56.6,Placed,3.18,Medium Risk
+ST1261,19,Female,Electronics,3,86.2,0.5,8.4,86.7,56.4,58.3,54.6,11.9,5,1,No,0,Low,70.4,47.8,68.9,52.6,Not Placed,0.0,Low Risk
+ST1262,20,Male,Information Technology,3,95.8,6.6,7.3,91.8,62.9,58.3,80.3,4.3,1,3,No,2,Medium,100.0,49.8,47.8,63.9,Not Placed,0.0,Medium Risk
+ST1263,22,Female,Mechanical,4,71.0,5.1,5.7,67.5,60.6,60.2,84.1,11.9,5,2,Yes,1,Medium,56.8,63.0,53.6,63.3,Not Placed,0.0,Medium Risk
+ST1264,18,Female,Civil,6,80.9,2.9,5.5,71.7,88.9,81.9,70.3,8.3,4,1,Yes,0,High,64.9,91.3,83.4,64.7,Placed,4.01,Low Risk
+ST1265,21,Male,Information Technology,3,84.0,3.5,5.3,62.6,66.9,64.0,57.9,13.2,1,0,No,0,Medium,75.8,78.7,79.2,60.8,Not Placed,0.0,Low Risk
+ST1266,18,Male,Computer Engineering,5,83.7,1.7,7.7,72.6,77.6,54.5,92.3,7.0,4,5,Yes,2,Medium,60.0,80.1,85.6,58.7,Not Placed,0.0,Medium Risk
+ST1267,21,Male,Mechanical,5,78.9,6.0,8.3,74.6,71.1,64.1,59.5,9.9,6,3,Yes,0,Low,75.8,86.0,37.4,62.4,Placed,5.34,Low Risk
+ST1268,18,Male,Computer Engineering,4,86.9,6.3,9.0,74.5,59.5,71.6,39.7,7.8,2,4,No,0,Medium,68.5,72.2,52.8,70.3,Not Placed,0.0,Low Risk
+ST1269,22,Female,Mechanical,6,83.8,3.7,7.9,88.1,73.8,56.6,76.4,7.5,2,1,Yes,0,Low,67.6,61.1,82.9,57.5,Not Placed,0.0,Low Risk
+ST1270,21,Female,Information Technology,4,63.1,5.0,8.3,66.0,83.8,57.0,54.5,9.3,5,0,No,0,Low,68.2,61.8,76.5,52.6,Placed,2.75,Medium Risk
+ST1271,20,Male,Electronics,6,88.4,3.8,6.4,51.4,60.3,99.4,83.8,10.7,5,4,Yes,0,Low,79.9,55.6,73.5,63.8,Placed,3.93,Low Risk
+ST1272,18,Female,Computer Engineering,3,88.6,1.5,5.7,74.7,86.5,60.8,64.7,1.8,1,0,No,1,Medium,65.2,80.2,61.2,51.5,Not Placed,0.0,Medium Risk
+ST1273,18,Female,Electronics,3,68.8,3.5,7.9,78.5,65.0,67.8,78.5,15.2,2,3,No,0,Medium,54.3,54.0,57.1,61.0,Not Placed,0.0,Medium Risk
+ST1274,21,Female,Information Technology,3,78.5,3.7,7.5,78.0,69.7,67.2,89.6,0.0,3,4,Yes,0,Medium,70.9,99.4,67.5,75.7,Placed,3.86,Low Risk
+ST1275,20,Female,Electronics,3,86.2,2.8,7.1,71.1,82.9,66.5,53.1,4.6,3,3,No,0,Medium,61.1,54.5,59.8,66.1,Not Placed,0.0,Low Risk
+ST1276,20,Male,Computer Engineering,5,75.5,3.2,7.4,76.5,67.4,80.1,62.1,7.5,6,4,Yes,0,High,56.0,86.3,75.4,57.7,Placed,4.68,Low Risk
+ST1277,22,Male,Mechanical,5,77.75,3.4,7.4,93.2,76.5,84.3,68.9,10.1,3,1,No,0,Medium,45.8,86.4,67.6,63.7,Placed,2.88,Low Risk
+ST1278,20,Female,Mechanical,4,100.0,3.4,8.4,79.6,71.9,68.0,91.5,15.9,6,2,No,0,Medium,69.45,77.4,51.5,75.1,Placed,3.6,Low Risk
+ST1279,20,Male,Computer Engineering,6,68.6,3.6,8.4,70.5,77.7,55.9,60.8,0.0,2,2,No,0,Medium,79.3,92.3,77.2,49.9,Not Placed,0.0,Medium Risk
+ST1280,20,Male,Computer Engineering,3,61.4,1.9,7.6,69.0,45.1,88.6,61.7,5.5,3,0,Yes,2,High,89.7,65.1,87.1,41.9,Not Placed,0.0,High Risk
+ST1281,19,Male,Computer Engineering,3,81.6,2.4,7.9,73.0,52.2,70.8,76.7,0.0,4,5,Yes,1,Medium,70.0,69.9,88.1,57.3,Placed,3.76,Medium Risk
+ST1282,22,Female,Electronics,6,86.7,1.6,7.6,94.6,84.0,94.5,61.9,8.2,0,4,No,0,Medium,85.1,71.4,77.8,62.2,Placed,2.65,Low Risk
+ST1283,18,Female,Electronics,6,75.2,5.0,6.5,72.8,89.5,42.8,72.1,9.4,5,3,No,0,Low,56.8,76.9,78.0,63.6,Not Placed,0.0,Low Risk
+ST1284,21,Female,Information Technology,4,95.4,0.5,7.8,74.8,64.2,74.5,48.3,16.0,1,5,Yes,1,High,43.3,40.7,48.4,52.3,Not Placed,0.0,Medium Risk
+ST1285,18,Male,Computer Engineering,6,61.9,5.2,5.5,69.2,72.8,96.9,98.0,8.6,6,1,Yes,0,Low,59.5,66.4,56.3,68.1,Not Placed,0.0,Low Risk
+ST1286,22,Female,Information Technology,3,86.3,5.6,8.2,88.2,79.8,67.4,51.1,13.2,4,1,Yes,0,Low,67.1,80.9,64.3,72.4,Not Placed,0.0,Low Risk
+ST1287,21,Female,Electronics,3,70.7,3.0,5.7,98.5,85.0,69.1,65.5,10.9,3,1,No,1,Medium,75.0,62.4,76.5,63.6,Not Placed,0.0,Medium Risk
+ST1288,22,Male,Information Technology,3,98.6,0.5,7.3,80.4,49.6,75.8,69.5,5.8,0,2,Yes,3,High,87.9,97.4,57.4,54.1,Not Placed,0.0,Medium Risk
+ST1289,20,Female,Civil,3,100.0,3.0,6.1,76.0,64.5,64.7,96.8,1.0,1,3,No,0,Medium,74.5,69.9,62.1,68.0,Not Placed,0.0,Low Risk
+ST1290,21,Female,Computer Engineering,3,68.8,3.4,7.6,75.4,71.7,67.9,51.5,9.4,4,1,Yes,0,Medium,100.0,75.7,76.0,61.0,Not Placed,0.0,Medium Risk
+ST1291,20,Male,Electronics,4,71.4,2.0,7.0,46.4,85.1,67.6,97.8,0.5,1,1,No,2,High,71.7,91.3,69.2,51.5,Not Placed,0.0,Medium Risk
+ST1292,18,Male,Information Technology,3,88.3,2.7,5.2,83.9,100.0,63.8,80.6,14.5,6,0,Yes,0,Medium,71.4,69.9,72.3,61.8,Not Placed,0.0,Low Risk
+ST1293,18,Male,Information Technology,4,73.4,5.8,7.5,76.6,73.0,88.0,75.8,7.2,6,4,No,2,Medium,74.7,91.0,54.6,63.7,Placed,3.83,Medium Risk
+ST1294,21,Female,Electronics,3,77.5,4.5,6.4,80.1,57.7,78.0,56.2,14.0,5,4,Yes,0,Medium,75.3,76.7,61.9,64.2,Placed,2.82,Low Risk
+ST1295,21,Female,Electronics,5,78.3,2.1,8.0,66.5,81.2,75.3,78.0,5.6,2,4,Yes,0,High,75.1,76.8,59.5,60.3,Placed,4.52,Low Risk
+ST1296,22,Female,Civil,5,55.0,1.1,7.0,70.4,93.2,82.5,59.9,9.3,6,5,No,0,Medium,52.7,54.7,67.0,58.7,Placed,4.37,Medium Risk
+ST1297,22,Male,Computer Engineering,5,77.8,3.0,7.4,70.1,77.4,68.6,87.7,9.0,3,0,Yes,4,High,81.9,84.6,60.1,62.4,Not Placed,0.0,Medium Risk
+ST1298,20,Male,Computer Engineering,5,69.7,3.2,5.9,87.3,64.2,61.9,56.4,7.8,4,2,Yes,3,Low,100.0,58.9,57.9,47.2,Not Placed,0.0,High Risk
+ST1299,21,Female,Electronics,4,72.1,4.2,6.4,70.5,88.5,64.2,68.4,5.8,4,5,No,0,Medium,57.6,65.2,69.0,60.4,Not Placed,0.0,Medium Risk
+ST1300,18,Female,Electronics,4,95.3,2.7,6.5,100.0,84.6,72.0,62.2,10.0,0,0,No,1,Low,69.4,86.9,100.0,70.0,Not Placed,0.0,Low Risk
+ST1301,22,Male,Computer Engineering,6,62.9,4.3,7.9,80.2,62.7,58.2,56.2,3.4,0,1,Yes,1,Medium,50.8,62.5,76.3,52.0,Not Placed,0.0,Medium Risk
+ST1302,22,Male,Computer Engineering,3,87.8,6.4,8.8,59.7,81.0,65.5,80.4,2.0,0,3,No,1,High,80.5,73.2,38.5,66.4,Not Placed,0.0,Low Risk
+ST1303,18,Male,Computer Engineering,5,74.7,4.7,6.1,73.5,89.0,65.3,77.5,14.2,1,5,No,2,Medium,80.5,67.2,72.6,56.3,Not Placed,0.0,Medium Risk
+ST1304,22,Male,Civil,4,74.6,3.4,8.2,67.2,91.4,99.6,86.9,11.6,3,5,Yes,0,Low,48.9,67.7,58.8,64.4,Not Placed,0.0,Medium Risk
+ST1305,20,Female,Computer Engineering,3,87.5,3.2,4.6,48.7,75.1,35.9,45.1,8.3,1,1,No,0,Low,51.6,65.8,51.9,45.8,Not Placed,0.0,Medium Risk
+ST1306,21,Male,Information Technology,3,82.1,3.0,5.7,94.2,71.3,69.7,84.9,16.3,3,1,No,4,Medium,40.9,52.5,78.3,56.2,Not Placed,0.0,Medium Risk
+ST1307,18,Female,Computer Engineering,4,84.8,5.3,5.9,83.4,92.0,94.4,98.0,6.7,4,3,No,3,Low,92.0,76.2,68.2,64.0,Not Placed,0.0,Medium Risk
+ST1308,21,Female,Information Technology,5,89.6,2.6,5.5,81.4,60.3,73.6,63.7,14.6,6,4,Yes,0,Medium,58.3,77.5,100.0,57.5,Not Placed,0.0,Low Risk
+ST1309,22,Female,Computer Engineering,6,74.0,3.6,5.3,74.5,81.7,81.8,96.5,8.9,6,5,Yes,0,High,68.1,59.3,65.2,71.3,Placed,4.35,Low Risk
+ST1310,22,Male,Information Technology,3,70.7,3.6,7.5,58.4,58.2,73.3,66.3,2.9,1,0,No,5,Medium,64.9,61.4,63.4,39.1,Not Placed,0.0,High Risk
+ST1311,18,Male,Computer Engineering,6,65.0,2.7,6.8,69.2,89.8,63.3,50.8,17.2,1,2,No,0,Medium,83.8,81.7,86.2,49.3,Not Placed,0.0,Medium Risk
+ST1312,20,Male,Mechanical,5,68.1,1.4,7.4,85.1,72.6,42.9,65.7,13.0,1,1,Yes,1,Medium,79.2,64.0,67.4,42.6,Not Placed,0.0,High Risk
+ST1313,19,Male,Computer Engineering,5,100.0,4.0,7.8,62.4,92.5,74.7,84.7,7.4,2,1,No,0,Medium,78.5,69.4,50.1,74.5,Not Placed,0.0,Low Risk
+ST1314,18,Female,Information Technology,6,92.9,3.4,7.3,44.6,82.4,61.9,58.3,11.6,5,2,No,3,Low,58.6,54.8,52.9,53.0,Not Placed,0.0,Medium Risk
+ST1315,19,Male,Civil,5,61.8,4.3,7.7,72.3,60.1,61.6,61.6,6.0,3,0,Yes,0,High,79.5,67.0,61.7,53.0,Not Placed,0.0,Medium Risk
+ST1316,19,Male,Electronics,3,62.1,2.7,6.9,73.3,94.5,65.5,78.3,12.1,6,1,No,0,Medium,83.0,54.9,77.5,62.0,Not Placed,0.0,Medium Risk
+ST1317,20,Female,Information Technology,6,83.8,5.3,5.7,76.6,96.2,94.7,70.0,0.0,3,2,No,0,Low,79.1,58.9,87.4,72.8,Not Placed,0.0,Low Risk
+ST1318,19,Male,Information Technology,5,84.6,2.2,8.2,83.7,87.5,100.0,78.2,2.9,1,1,Yes,3,Low,52.0,56.5,79.8,57.2,Not Placed,0.0,Medium Risk
+ST1319,19,Female,Information Technology,6,84.6,6.1,6.4,82.7,66.1,74.8,73.3,12.9,2,4,No,1,Low,54.2,80.9,76.1,64.0,Not Placed,0.0,Medium Risk
+ST1320,20,Female,Electronics,3,74.9,0.9,6.0,78.1,72.0,66.0,76.7,6.8,1,4,Yes,1,Medium,94.3,48.1,84.6,56.5,Not Placed,0.0,Medium Risk
+ST1321,19,Female,Civil,5,76.5,4.2,6.8,89.3,77.9,56.7,63.9,9.0,3,1,Yes,0,Medium,97.2,72.0,76.9,66.4,Not Placed,0.0,Low Risk
+ST1322,19,Female,Electronics,3,81.9,4.2,6.0,56.8,66.9,78.1,73.2,1.3,5,1,No,3,Medium,69.0,64.7,52.5,50.9,Not Placed,0.0,Medium Risk
+ST1323,19,Female,Electronics,5,79.0,2.3,6.5,81.1,98.0,95.2,57.0,17.2,6,4,No,2,Medium,69.0,88.9,63.5,69.3,Placed,3.82,Low Risk
+ST1324,18,Female,Mechanical,4,51.4,4.1,7.4,82.5,77.9,68.8,88.0,14.0,5,1,No,1,High,72.2,79.7,58.8,68.7,Placed,3.42,Medium Risk
+ST1325,18,Female,Information Technology,5,75.2,5.4,7.4,60.1,40.9,41.1,61.1,7.0,4,0,No,4,High,78.1,49.4,87.2,42.0,Not Placed,0.0,High Risk
+ST1326,18,Female,Computer Engineering,6,67.8,0.5,6.0,57.0,80.4,80.7,85.8,6.0,2,0,No,0,Medium,69.45,59.6,51.7,53.5,Not Placed,0.0,Medium Risk
+ST1327,20,Male,Electronics,5,80.1,4.3,6.5,66.0,71.5,84.8,66.7,13.1,5,3,No,1,Medium,73.2,67.8,52.0,58.0,Not Placed,0.0,Medium Risk
+ST1328,22,Male,Civil,3,100.0,0.5,8.2,67.1,75.0,51.4,72.8,17.9,2,0,Yes,3,High,55.6,59.6,69.7,47.0,Not Placed,0.0,High Risk
+ST1329,19,Male,Computer Engineering,3,82.4,2.1,7.5,84.0,71.2,74.3,63.1,12.8,1,5,No,2,Medium,69.7,81.6,97.9,56.4,Not Placed,0.0,Medium Risk
+ST1330,19,Male,Electronics,5,74.2,5.9,9.3,67.6,86.5,77.9,55.8,18.9,4,5,No,1,Medium,57.6,70.5,78.8,75.7,Not Placed,0.0,Medium Risk
+ST1331,20,Female,Computer Engineering,6,89.1,2.6,8.3,64.7,90.6,71.0,45.6,3.4,3,5,Yes,0,Low,60.9,65.1,83.7,64.5,Placed,4.42,Low Risk
+ST1332,19,Male,Information Technology,4,83.8,1.7,8.3,67.7,79.7,61.7,55.2,3.9,5,1,No,1,Medium,72.5,82.7,49.3,53.5,Not Placed,0.0,Medium Risk
+ST1333,18,Female,Computer Engineering,6,83.0,3.2,5.5,88.4,71.6,85.2,65.5,2.1,5,1,No,0,Low,61.4,50.3,77.7,63.6,Placed,3.93,Low Risk
+ST1334,22,Male,Information Technology,4,85.3,6.6,7.8,75.2,75.5,66.8,73.0,10.2,0,2,No,0,Low,54.6,64.0,49.2,64.1,Not Placed,0.0,Low Risk
+ST1335,21,Male,Mechanical,3,100.0,0.8,6.9,72.8,76.3,52.7,84.1,8.9,6,5,Yes,2,High,90.3,71.7,78.7,62.4,Placed,4.98,Medium Risk
+ST1336,19,Male,Information Technology,6,64.4,1.9,6.4,73.7,65.6,45.4,63.8,7.2,3,5,No,0,Medium,54.8,65.9,41.9,49.0,Not Placed,0.0,Medium Risk
+ST1337,18,Female,Electronics,4,83.7,5.7,7.2,90.5,83.5,88.4,57.7,12.0,5,0,Yes,0,High,37.7,25.0,61.6,74.7,Placed,3.24,Low Risk
+ST1338,21,Male,Mechanical,5,66.9,6.3,8.0,66.0,82.0,80.0,49.8,14.2,5,4,Yes,1,Medium,78.0,73.1,34.2,61.2,Placed,3.86,Medium Risk
+ST1339,22,Female,Civil,3,84.7,3.3,7.6,90.8,96.0,73.1,76.7,0.4,3,4,No,0,High,65.9,75.5,52.8,78.9,Placed,6.04,Low Risk
+ST1340,21,Female,Computer Engineering,5,67.0,1.6,6.0,77.5,92.3,66.3,89.4,5.0,4,3,No,0,Medium,69.6,52.8,44.2,57.6,Placed,4.53,Medium Risk
+ST1341,18,Male,Information Technology,3,73.0,6.6,7.8,73.1,67.1,65.1,87.7,12.1,2,2,Yes,0,Medium,72.2,35.3,77.4,62.1,Placed,2.68,Medium Risk
+ST1342,21,Male,Computer Engineering,6,74.5,5.9,6.3,100.0,86.7,58.0,79.9,5.7,3,4,Yes,0,Medium,87.8,57.8,68.5,66.6,Placed,5.51,Low Risk
+ST1343,20,Male,Civil,6,89.7,4.5,7.2,62.3,63.6,66.4,78.9,4.0,2,3,No,0,Low,96.1,64.9,59.5,64.7,Not Placed,0.0,Low Risk
+ST1344,21,Female,Civil,3,89.0,2.3,6.7,70.8,85.0,44.4,93.8,13.1,4,0,No,0,Medium,73.5,66.3,68.9,69.5,Not Placed,0.0,Low Risk
+ST1345,19,Male,Information Technology,3,63.1,3.4,6.8,60.2,69.3,62.4,74.6,1.6,4,2,No,0,Medium,53.5,38.5,53.7,57.3,Not Placed,0.0,Medium Risk
+ST1346,19,Female,Mechanical,3,78.7,3.3,7.8,86.4,62.7,68.0,79.0,6.5,1,2,No,0,Low,72.0,71.0,72.1,64.2,Not Placed,0.0,Low Risk
+ST1347,20,Female,Information Technology,6,69.5,4.0,5.9,95.3,79.6,79.9,65.5,9.6,0,5,Yes,0,Medium,78.2,83.4,65.8,66.1,Not Placed,0.0,Low Risk
+ST1348,18,Male,Electronics,4,62.9,5.7,9.1,95.0,41.2,71.5,50.9,5.1,4,1,Yes,3,Low,84.1,82.4,100.0,42.8,Not Placed,0.0,High Risk
+ST1349,19,Male,Computer Engineering,5,75.4,4.8,5.0,89.7,53.2,82.3,60.4,11.9,4,5,Yes,0,Low,71.9,86.3,93.1,63.5,Placed,4.47,Low Risk
+ST1350,22,Female,Mechanical,5,74.3,1.9,6.3,72.6,73.7,89.5,69.9,5.2,2,0,Yes,1,Medium,62.2,49.8,82.0,55.5,Not Placed,0.0,Medium Risk
+ST1351,19,Female,Computer Engineering,6,100.0,5.6,7.4,70.6,77.1,85.8,70.9,15.0,3,5,Yes,0,High,57.3,81.2,71.7,72.5,Not Placed,0.0,Low Risk
+ST1352,19,Female,Mechanical,5,83.2,4.0,7.6,54.9,71.2,78.1,97.0,7.4,3,2,Yes,1,Medium,68.4,54.0,73.7,57.9,Not Placed,0.0,Medium Risk
+ST1353,18,Male,Mechanical,3,61.5,4.5,6.9,99.4,55.5,72.2,71.1,11.4,1,5,No,1,Medium,49.0,79.8,86.9,61.5,Not Placed,0.0,Medium Risk
+ST1354,21,Female,Electronics,4,71.2,5.7,6.9,80.6,65.4,59.2,86.5,11.7,1,3,Yes,0,High,75.5,56.9,71.6,63.0,Not Placed,0.0,Medium Risk
+ST1355,19,Male,Computer Engineering,5,90.3,1.8,7.5,69.1,81.1,81.6,63.9,4.9,3,5,No,0,Medium,72.5,73.3,72.6,62.5,Not Placed,0.0,Low Risk
+ST1356,20,Female,Information Technology,4,100.0,3.4,6.7,90.9,83.6,93.8,65.6,0.0,5,4,No,0,Medium,72.4,91.0,57.8,72.2,Not Placed,0.0,Low Risk
+ST1357,21,Female,Computer Engineering,3,59.0,2.7,8.5,63.3,75.8,76.4,51.4,9.8,4,0,No,1,Low,80.0,82.0,56.0,48.7,Not Placed,0.0,High Risk
+ST1358,22,Male,Information Technology,5,55.4,1.1,7.9,79.9,91.0,96.9,59.6,8.4,6,0,No,0,Medium,90.3,54.2,65.3,50.5,Not Placed,0.0,Medium Risk
+ST1359,18,Female,Computer Engineering,6,100.0,4.0,8.0,72.9,81.2,52.2,77.4,10.8,0,2,No,2,Medium,69.0,50.9,25.2,61.3,Not Placed,0.0,Medium Risk
+ST1360,22,Male,Civil,4,82.7,7.3,5.9,82.7,66.3,57.0,70.1,6.9,4,5,Yes,0,Medium,71.1,79.6,66.5,68.4,Placed,4.54,Low Risk
+ST1361,21,Male,Electronics,3,67.6,0.7,6.9,74.2,72.4,83.1,83.2,5.8,1,2,Yes,0,High,64.8,87.8,63.1,58.6,Not Placed,0.0,Medium Risk
+ST1362,21,Female,Information Technology,4,84.4,3.5,6.7,57.6,57.8,75.4,72.5,18.0,0,2,Yes,1,Medium,77.7,74.4,81.1,56.4,Not Placed,0.0,Medium Risk
+ST1363,21,Male,Information Technology,5,46.4,4.5,5.9,75.9,74.6,89.1,65.1,0.6,6,3,Yes,2,Low,69.9,60.3,86.6,49.5,Placed,5.13,High Risk
+ST1364,22,Male,Information Technology,5,78.0,3.7,7.4,87.6,90.5,71.8,98.0,11.7,5,1,No,0,High,86.2,68.6,100.0,66.0,Not Placed,0.0,Low Risk
+ST1365,21,Female,Electronics,6,81.9,3.3,6.4,74.6,84.9,60.7,68.7,5.1,2,2,No,1,Medium,85.9,74.5,76.3,65.6,Not Placed,0.0,Low Risk
+ST1366,22,Male,Information Technology,3,77.75,1.6,7.7,84.3,94.2,69.2,86.3,6.3,2,1,No,0,High,74.4,66.7,69.4,67.0,Not Placed,0.0,Low Risk
+ST1367,21,Male,Civil,3,65.8,3.8,5.8,62.5,72.1,52.1,64.4,6.4,6,1,Yes,1,Medium,68.9,54.2,57.9,57.5,Not Placed,0.0,Medium Risk
+ST1368,20,Male,Information Technology,6,79.0,2.4,8.9,74.7,93.5,57.3,79.9,4.0,4,0,No,2,Low,66.2,84.0,50.2,61.6,Not Placed,0.0,Medium Risk
+ST1369,21,Female,Civil,6,66.9,0.5,6.0,67.5,73.5,84.6,83.0,10.9,4,4,Yes,2,Medium,76.7,96.2,81.6,46.8,Not Placed,0.0,High Risk
+ST1370,22,Male,Mechanical,3,81.1,5.3,7.2,84.0,95.1,83.3,72.9,15.0,0,4,No,0,Medium,69.45,89.4,66.6,68.8,Not Placed,0.0,Low Risk
+ST1371,19,Female,Computer Engineering,4,67.3,4.9,7.9,75.4,75.7,76.7,37.0,10.4,0,5,Yes,0,Low,66.2,35.4,73.8,61.6,Not Placed,0.0,Medium Risk
+ST1372,21,Female,Civil,4,73.1,3.6,6.4,83.3,85.2,49.6,70.3,8.5,5,3,Yes,1,Medium,74.0,85.3,67.3,54.8,Placed,4.88,Medium Risk
+ST1373,19,Male,Computer Engineering,6,66.1,3.8,7.9,88.1,95.2,67.3,87.2,3.1,4,3,Yes,0,Medium,59.2,76.7,67.7,63.5,Placed,5.09,Medium Risk
+ST1374,20,Male,Mechanical,4,85.8,5.1,5.6,83.3,73.5,56.1,77.4,10.6,1,4,No,1,Medium,76.3,58.1,70.5,59.9,Not Placed,0.0,Medium Risk
+ST1375,18,Male,Information Technology,3,88.3,3.8,8.6,78.3,78.8,87.3,76.2,18.8,2,5,Yes,0,Low,60.3,38.6,73.8,64.8,Not Placed,0.0,Low Risk
+ST1376,20,Female,Mechanical,5,75.2,4.9,7.0,63.0,92.8,64.4,45.9,6.1,5,4,Yes,0,Medium,80.8,66.3,82.1,61.7,Placed,2.9,Low Risk
+ST1377,21,Male,Mechanical,5,78.5,3.1,6.3,75.0,74.3,57.9,59.9,6.1,0,5,No,2,Low,65.6,73.5,47.3,49.2,Not Placed,0.0,Medium Risk
+ST1378,19,Male,Mechanical,4,60.6,5.5,6.7,68.6,58.8,72.4,75.8,5.2,1,5,No,0,Medium,93.4,51.4,76.4,56.2,Not Placed,0.0,Medium Risk
+ST1379,19,Male,Mechanical,6,74.4,4.0,7.9,70.9,100.0,63.7,75.7,5.6,4,5,Yes,5,Low,70.5,86.5,46.4,53.7,Not Placed,0.0,High Risk
+ST1380,22,Male,Information Technology,6,77.4,3.8,6.4,70.5,69.9,91.3,87.0,0.0,3,5,No,2,Low,73.3,86.1,78.2,65.1,Not Placed,0.0,Low Risk
+ST1381,19,Male,Computer Engineering,6,100.0,1.6,6.2,63.2,78.1,62.4,68.0,10.0,0,0,Yes,1,Medium,50.4,75.0,72.1,60.8,Not Placed,0.0,Medium Risk
+ST1382,22,Female,Information Technology,6,64.7,3.9,6.8,51.5,91.0,53.8,75.7,3.8,5,0,Yes,0,Low,89.7,47.4,65.8,58.8,Placed,5.28,Medium Risk
+ST1383,18,Female,Computer Engineering,6,95.6,2.3,5.7,67.0,68.1,44.0,70.2,0.0,3,4,No,3,Medium,69.5,64.1,66.4,58.1,Not Placed,0.0,Medium Risk
+ST1384,21,Male,Electronics,4,90.0,2.5,9.0,77.3,62.9,71.6,56.2,11.8,1,5,No,2,High,94.4,78.9,69.2,57.4,Not Placed,0.0,Medium Risk
+ST1385,22,Male,Information Technology,5,81.4,2.3,6.4,58.8,79.3,64.7,38.4,2.6,6,2,No,0,Medium,70.7,77.9,84.5,60.3,Not Placed,0.0,Low Risk
+ST1386,18,Male,Civil,5,99.1,1.9,7.9,75.2,52.7,53.4,76.0,6.3,2,5,No,0,Medium,67.0,57.5,83.0,57.2,Not Placed,0.0,Low Risk
+ST1387,19,Male,Electronics,4,82.5,6.7,7.2,97.8,72.3,87.5,72.4,15.3,6,2,No,0,High,62.8,59.7,81.2,73.4,Placed,4.28,Low Risk
+ST1388,19,Female,Mechanical,6,82.7,5.5,5.9,87.3,79.2,80.7,61.3,1.0,6,0,No,5,High,79.0,57.1,45.5,59.5,Not Placed,0.0,Medium Risk
+ST1389,18,Male,Computer Engineering,4,77.4,6.4,7.0,94.7,72.5,71.6,47.3,0.3,6,5,No,2,High,77.3,63.8,76.2,67.4,Not Placed,0.0,Low Risk
+ST1390,19,Female,Mechanical,5,92.7,1.7,7.9,79.7,55.9,89.7,78.8,9.3,1,1,No,3,Low,51.3,60.7,28.6,55.6,Not Placed,0.0,Medium Risk
+ST1391,18,Female,Civil,3,91.2,3.6,6.8,89.0,96.7,80.6,66.3,13.7,2,4,Yes,2,Medium,62.0,58.0,32.9,62.2,Not Placed,0.0,Medium Risk
+ST1392,22,Male,Information Technology,4,70.5,1.6,8.3,66.3,77.3,61.3,77.8,0.1,1,5,No,0,High,80.1,65.9,85.0,47.6,Not Placed,0.0,Medium Risk
+ST1393,22,Female,Electronics,6,62.2,2.5,8.1,67.3,94.6,58.5,96.1,10.0,6,3,No,0,High,61.0,68.6,43.8,52.9,Not Placed,0.0,Medium Risk
+ST1394,18,Female,Mechanical,5,75.6,2.1,8.0,42.1,72.6,82.6,40.0,10.9,0,2,No,0,Medium,58.6,84.3,64.1,51.9,Not Placed,0.0,Low Risk
+ST1395,22,Female,Computer Engineering,5,68.4,5.4,6.5,89.2,64.6,77.2,60.2,0.0,6,5,No,0,Low,72.7,41.3,89.5,68.4,Placed,6.64,Low Risk
+ST1396,22,Female,Information Technology,5,77.2,2.9,5.8,93.5,79.5,74.2,67.1,12.0,0,1,Yes,0,High,71.2,86.3,76.3,50.7,Not Placed,0.0,Low Risk
+ST1397,22,Male,Information Technology,5,92.8,5.1,6.3,68.4,73.2,61.0,90.4,12.4,5,2,No,3,Medium,63.5,56.8,72.9,58.2,Not Placed,0.0,Medium Risk
+ST1398,20,Male,Computer Engineering,6,72.5,4.4,7.2,72.0,60.7,79.9,47.1,6.4,6,1,Yes,5,Medium,94.7,95.9,66.1,43.9,Not Placed,0.0,High Risk
+ST1399,21,Female,Information Technology,3,77.5,7.0,7.6,66.0,95.1,62.2,97.1,14.3,3,4,No,0,Medium,67.9,78.1,69.0,73.4,Placed,4.85,Low Risk
+ST1400,19,Male,Computer Engineering,5,78.7,1.3,4.6,79.6,67.9,70.7,71.9,13.7,1,4,No,1,Medium,52.3,76.2,57.0,51.2,Not Placed,0.0,Medium Risk
+ST1401,20,Male,Computer Engineering,4,88.2,5.4,7.0,88.5,52.1,90.8,68.7,8.5,6,4,Yes,1,Low,47.3,66.4,59.3,61.4,Placed,4.22,Medium Risk
+ST1402,22,Male,Computer Engineering,3,51.0,5.2,7.2,54.1,93.3,63.4,67.2,5.7,1,0,No,0,Medium,84.3,98.9,68.4,53.5,Not Placed,0.0,Medium Risk
+ST1403,18,Male,Civil,5,70.7,2.0,6.7,79.9,69.4,51.6,63.9,3.1,6,1,No,1,High,54.6,67.5,70.7,48.9,Not Placed,0.0,High Risk
+ST1404,22,Male,Information Technology,3,80.5,5.0,8.4,71.7,68.1,58.3,84.7,7.8,3,5,Yes,0,Medium,70.4,90.7,64.5,63.4,Not Placed,0.0,Low Risk
+ST1405,21,Female,Civil,4,92.4,4.0,7.5,76.4,53.0,84.9,55.0,10.8,6,3,No,3,Medium,57.8,59.4,31.2,56.5,Not Placed,0.0,Medium Risk
+ST1406,22,Male,Information Technology,5,72.1,3.2,8.4,80.5,98.6,75.3,74.8,6.4,4,3,No,1,High,68.6,78.7,92.0,65.1,Placed,4.96,Medium Risk
+ST1407,18,Male,Information Technology,4,55.5,2.3,6.8,72.7,59.2,70.3,64.6,0.0,5,4,No,1,Medium,74.9,96.5,82.0,49.6,Placed,2.58,High Risk
+ST1408,21,Male,Information Technology,6,85.4,2.4,8.0,73.8,76.8,65.4,59.3,14.3,1,3,Yes,0,Medium,50.9,55.3,63.7,64.1,Not Placed,0.0,Low Risk
+ST1409,22,Male,Information Technology,5,70.4,6.6,8.8,72.4,87.9,78.3,98.0,9.0,5,2,No,0,Medium,63.6,75.4,82.5,69.8,Not Placed,0.0,Low Risk
+ST1410,21,Female,Computer Engineering,5,63.7,3.5,8.4,86.6,81.5,61.0,75.9,6.1,1,1,No,0,Low,60.6,57.4,61.3,62.2,Not Placed,0.0,Medium Risk
+ST1411,19,Female,Electronics,5,70.5,4.7,5.8,80.0,75.2,76.0,78.6,12.3,1,1,No,1,Low,56.5,74.4,72.1,62.8,Not Placed,0.0,Medium Risk
+ST1412,19,Female,Computer Engineering,5,75.8,2.3,6.7,77.6,53.9,62.5,85.9,15.6,4,1,No,3,Medium,64.7,96.4,36.2,48.8,Not Placed,0.0,High Risk
+ST1413,22,Female,Electronics,6,70.7,2.3,6.6,59.7,65.5,60.3,50.1,0.0,6,2,No,0,High,61.3,54.0,71.1,55.9,Placed,2.77,Medium Risk
+ST1414,21,Male,Electronics,5,51.5,5.1,7.5,70.5,78.4,63.7,94.5,10.2,0,5,No,2,Medium,82.2,70.3,62.5,49.8,Not Placed,0.0,High Risk
+ST1415,18,Female,Computer Engineering,3,88.8,1.5,7.8,85.8,65.8,67.1,34.9,0.9,5,0,No,0,Low,60.0,55.5,70.5,63.4,Not Placed,0.0,Low Risk
+ST1416,22,Male,Computer Engineering,5,93.3,2.9,6.1,75.5,78.6,71.4,59.2,10.5,3,2,No,0,Medium,76.3,66.1,94.4,59.9,Not Placed,0.0,Low Risk
+ST1417,19,Male,Mechanical,6,85.8,3.6,7.1,82.9,84.9,75.1,63.6,8.6,5,1,Yes,1,Low,75.8,77.3,66.7,57.8,Placed,4.13,Medium Risk
+ST1418,19,Male,Information Technology,5,64.3,3.7,4.8,96.2,88.5,30.0,78.1,11.2,6,1,Yes,2,Medium,49.0,63.5,59.7,48.2,Not Placed,0.0,High Risk
+ST1419,22,Male,Computer Engineering,3,75.6,3.2,8.6,87.5,60.1,61.5,73.1,5.5,4,1,No,0,Low,62.9,91.6,59.9,60.0,Not Placed,0.0,Low Risk
+ST1420,21,Male,Civil,6,77.9,4.1,6.4,76.1,100.0,66.9,67.7,0.0,2,5,No,0,High,68.5,75.3,44.3,62.0,Not Placed,0.0,Low Risk
+ST1421,19,Female,Computer Engineering,6,85.2,4.5,7.1,68.9,86.0,91.6,69.8,5.7,2,3,No,0,Low,73.7,48.1,73.5,69.1,Placed,2.0,Low Risk
+ST1422,21,Female,Electronics,3,86.0,4.6,6.7,44.4,76.0,58.0,56.3,10.0,4,0,No,0,Low,66.7,72.8,75.6,53.9,Placed,3.8,Low Risk
+ST1423,19,Female,Civil,3,69.2,2.0,8.3,73.0,90.2,74.1,49.0,13.1,6,2,Yes,3,Medium,84.6,89.9,68.0,54.1,Not Placed,0.0,High Risk
+ST1424,19,Female,Computer Engineering,3,79.0,3.1,4.0,71.1,100.0,91.4,80.2,2.1,4,1,Yes,1,Low,71.5,76.1,81.7,66.8,Not Placed,0.0,Low Risk
+ST1425,20,Male,Computer Engineering,3,83.5,5.3,7.0,79.7,57.3,54.9,79.7,13.1,0,4,Yes,0,Medium,76.2,71.9,81.9,59.5,Not Placed,0.0,Low Risk
+ST1426,19,Female,Computer Engineering,3,95.5,4.8,6.9,73.2,73.1,77.1,92.2,4.8,5,0,No,0,High,61.7,63.5,68.1,74.5,Not Placed,0.0,Low Risk
+ST1427,18,Male,Information Technology,6,86.5,1.4,6.5,71.2,45.1,61.6,58.9,9.8,6,4,Yes,4,Low,76.4,66.5,76.4,47.3,Not Placed,0.0,High Risk
+ST1428,22,Female,Computer Engineering,6,87.5,4.0,8.9,53.6,78.5,65.4,79.7,5.5,5,0,No,1,Medium,97.1,68.2,100.0,61.7,Not Placed,0.0,Medium Risk
+ST1429,22,Male,Electronics,5,79.0,0.5,6.0,63.7,80.8,61.6,66.0,8.9,3,1,Yes,1,High,77.4,31.3,53.8,55.8,Not Placed,0.0,Medium Risk
+ST1430,21,Male,Computer Engineering,5,94.9,3.6,7.8,80.7,75.5,62.5,86.7,12.5,6,0,No,0,Medium,85.4,75.0,79.4,74.2,Placed,4.97,Low Risk
+ST1431,19,Female,Information Technology,4,82.9,6.3,7.4,95.6,67.5,100.0,84.3,1.9,3,0,No,3,High,65.9,83.0,68.4,63.1,Not Placed,0.0,Medium Risk
+ST1432,18,Male,Civil,5,67.7,2.1,8.4,73.8,49.4,83.0,73.0,4.6,5,1,No,0,Low,82.9,56.8,83.7,61.8,Not Placed,0.0,Medium Risk
+ST1433,21,Male,Mechanical,5,94.8,2.2,6.3,78.9,80.9,86.3,65.2,8.9,1,5,Yes,1,Low,84.2,71.5,54.3,58.2,Not Placed,0.0,Medium Risk
+ST1434,20,Female,Electronics,3,86.4,4.6,6.2,86.4,94.9,78.4,83.5,20.0,1,4,No,4,Low,73.4,73.3,70.2,65.6,Not Placed,0.0,Medium Risk
+ST1435,21,Male,Information Technology,3,72.7,1.2,8.2,65.3,68.3,51.1,79.1,3.7,0,5,Yes,0,Medium,69.0,80.2,56.1,55.5,Placed,3.57,Medium Risk
+ST1436,21,Female,Electronics,5,72.2,2.6,7.5,79.4,81.7,77.1,60.4,18.2,6,4,Yes,0,Medium,49.1,68.2,38.7,61.4,Placed,4.56,Medium Risk
+ST1437,19,Female,Information Technology,4,81.6,4.4,5.3,66.1,55.6,85.9,51.4,18.0,0,3,Yes,0,Low,69.45,76.1,89.5,59.4,Not Placed,0.0,Low Risk
+ST1438,20,Female,Information Technology,3,83.6,2.5,6.4,85.4,81.9,60.9,66.0,7.5,6,4,Yes,0,Medium,77.9,50.6,60.0,61.6,Placed,3.73,Low Risk
+ST1439,21,Male,Computer Engineering,5,80.4,3.1,7.4,76.8,70.9,84.5,91.2,6.5,2,4,Yes,0,Low,59.3,52.8,53.5,60.6,Not Placed,0.0,Low Risk
+ST1440,18,Male,Civil,5,81.7,4.6,7.9,78.6,66.1,81.2,86.1,4.5,3,0,Yes,3,High,52.2,74.5,57.8,56.0,Not Placed,0.0,Medium Risk
+ST1441,18,Male,Information Technology,6,98.4,4.1,6.3,65.6,66.1,96.1,54.4,7.7,3,3,Yes,0,Low,71.4,64.6,96.2,69.4,Placed,6.31,Low Risk
+ST1442,22,Female,Computer Engineering,4,90.9,3.9,4.0,83.5,70.9,66.6,53.7,1.0,4,1,No,1,Low,73.2,44.3,88.0,65.5,Not Placed,0.0,Low Risk
+ST1443,20,Male,Information Technology,6,80.3,3.0,7.6,100.0,81.0,57.7,87.8,7.6,0,1,No,2,Medium,51.1,73.2,63.5,58.6,Not Placed,0.0,Medium Risk
+ST1444,20,Female,Information Technology,4,89.3,4.1,5.7,62.9,58.9,67.3,54.1,15.5,6,2,No,5,Low,70.6,48.9,80.8,43.9,Not Placed,0.0,High Risk
+ST1445,22,Female,Mechanical,3,65.6,3.3,4.8,70.9,70.8,90.7,77.1,4.9,5,3,Yes,0,Medium,74.1,100.0,49.8,56.2,Placed,4.52,Medium Risk
+ST1446,21,Male,Mechanical,4,82.8,4.2,4.0,77.8,75.5,48.2,61.4,6.8,1,0,No,0,Medium,88.5,35.4,75.4,58.9,Not Placed,0.0,Low Risk
+ST1447,20,Female,Mechanical,5,99.7,2.8,7.9,84.4,61.7,45.1,92.6,0.0,5,2,No,0,High,63.3,68.8,60.1,61.2,Not Placed,0.0,Low Risk
+ST1448,18,Male,Computer Engineering,5,75.4,3.2,7.1,68.3,99.4,73.2,59.2,9.9,1,2,Yes,0,Medium,99.2,51.3,74.0,67.6,Placed,3.17,Low Risk
+ST1449,18,Male,Information Technology,4,67.8,2.0,6.8,41.0,64.9,66.2,86.0,9.3,2,1,No,1,Medium,70.8,81.7,45.0,45.8,Not Placed,0.0,High Risk
+ST1450,19,Male,Information Technology,4,70.2,3.4,8.5,91.3,67.3,72.1,72.6,8.3,1,4,No,0,High,53.2,62.0,57.5,63.2,Not Placed,0.0,Medium Risk
+ST1451,20,Male,Computer Engineering,4,64.9,2.3,7.7,84.1,63.3,84.3,73.5,6.9,5,0,No,0,High,65.4,83.2,69.9,56.3,Placed,3.2,Medium Risk
+ST1452,21,Male,Computer Engineering,6,68.6,1.8,8.8,54.1,99.4,64.8,42.4,6.5,5,3,No,0,Medium,54.4,79.5,69.7,53.5,Not Placed,0.0,Medium Risk
+ST1453,22,Female,Mechanical,4,73.6,3.9,5.5,67.7,83.2,47.7,39.2,10.5,3,2,No,1,Medium,67.7,52.0,43.6,54.0,Not Placed,0.0,Medium Risk
+ST1454,22,Female,Computer Engineering,3,61.1,3.8,7.0,93.8,63.8,98.6,66.9,7.9,6,0,No,0,Medium,76.6,57.1,51.5,67.0,Not Placed,0.0,Low Risk
+ST1455,21,Female,Information Technology,6,78.2,4.7,5.2,92.4,90.4,59.0,73.5,9.6,3,1,Yes,0,Medium,73.8,62.8,73.8,69.1,Not Placed,0.0,Low Risk
+ST1456,19,Male,Computer Engineering,6,88.8,2.9,6.7,86.3,78.6,58.2,54.2,9.1,0,2,Yes,0,High,54.2,67.0,71.9,57.3,Not Placed,0.0,Low Risk
+ST1457,22,Male,Computer Engineering,4,67.1,4.1,6.7,74.5,79.3,86.3,54.8,13.6,5,2,Yes,1,Medium,52.4,65.1,77.5,60.7,Not Placed,0.0,Medium Risk
+ST1458,20,Male,Computer Engineering,3,96.2,4.3,7.7,76.0,71.5,67.0,77.9,11.4,6,5,Yes,1,Low,75.9,78.9,70.0,64.4,Placed,3.03,Medium Risk
+ST1459,19,Female,Civil,6,84.1,4.2,7.1,73.4,66.3,71.2,77.9,9.0,2,1,Yes,0,Low,79.0,71.5,50.1,56.2,Not Placed,0.0,Low Risk
+ST1460,20,Male,Mechanical,5,90.4,2.3,7.7,88.5,80.4,78.3,68.1,15.6,1,5,Yes,2,Low,63.2,58.8,61.3,61.1,Not Placed,0.0,Medium Risk
+ST1461,18,Female,Civil,6,70.1,3.7,7.8,64.5,68.9,86.1,80.9,10.1,0,1,No,0,Low,69.45,54.3,75.5,66.4,Not Placed,0.0,Low Risk
+ST1462,19,Female,Information Technology,4,88.3,4.0,9.4,65.3,99.6,67.7,53.6,14.5,4,1,Yes,0,Low,53.8,55.8,51.0,73.7,Not Placed,0.0,Low Risk
+ST1463,22,Male,Computer Engineering,3,64.9,3.5,6.7,87.1,59.5,91.8,65.0,11.0,4,5,Yes,0,Medium,83.8,72.9,49.0,62.8,Not Placed,0.0,Medium Risk
+ST1464,19,Male,Information Technology,4,88.7,0.5,6.0,74.5,96.0,44.2,93.1,0.0,6,0,No,0,Low,59.7,65.1,62.2,62.6,Not Placed,0.0,Low Risk
+ST1465,19,Female,Information Technology,5,80.1,3.7,7.3,91.5,74.6,81.9,71.0,14.5,1,0,No,1,Medium,65.1,99.2,71.3,49.9,Not Placed,0.0,Medium Risk
+ST1466,19,Male,Mechanical,5,84.6,6.8,6.1,66.9,79.9,61.1,71.8,8.7,1,0,Yes,0,Low,77.7,68.0,37.5,80.4,Not Placed,0.0,Low Risk
+ST1467,19,Female,Computer Engineering,5,63.9,3.0,8.6,74.3,86.8,89.8,98.0,7.7,6,4,No,1,Low,65.7,70.8,63.1,70.9,Placed,5.4,Medium Risk
+ST1468,20,Male,Information Technology,4,67.3,2.4,6.7,63.9,67.8,73.8,50.4,9.4,1,2,No,0,Medium,89.6,41.0,75.3,56.4,Not Placed,0.0,Medium Risk
+ST1469,18,Male,Computer Engineering,6,85.2,4.1,6.4,75.1,87.2,63.3,81.2,6.3,3,0,No,5,High,64.8,47.9,78.4,54.0,Not Placed,0.0,Medium Risk
+ST1470,21,Female,Information Technology,4,66.6,4.0,6.5,57.3,40.8,80.6,93.3,9.1,1,4,Yes,1,Medium,58.0,51.2,50.9,42.4,Not Placed,0.0,High Risk
+ST1471,19,Male,Mechanical,3,83.6,5.3,7.8,69.1,66.6,83.6,65.5,5.0,3,2,No,1,Medium,86.6,60.0,73.0,64.5,Not Placed,0.0,Medium Risk
+ST1472,22,Female,Information Technology,6,61.6,1.6,6.8,57.8,64.0,80.3,82.0,14.4,1,0,No,1,Medium,70.7,45.8,82.9,50.6,Not Placed,0.0,Medium Risk
+ST1473,19,Male,Information Technology,5,88.2,4.6,6.3,83.3,59.7,58.6,56.3,7.4,5,1,Yes,5,Low,54.9,50.7,76.7,43.2,Not Placed,0.0,High Risk
+ST1474,22,Female,Information Technology,4,63.2,4.4,8.8,83.6,73.2,65.7,60.4,6.1,6,3,Yes,5,Medium,76.6,78.0,60.4,50.4,Not Placed,0.0,High Risk
+ST1475,20,Female,Information Technology,5,84.6,3.3,6.1,54.2,81.0,71.9,75.4,3.4,2,0,Yes,0,Low,65.9,55.1,28.8,67.4,Not Placed,0.0,Low Risk
+ST1476,22,Male,Mechanical,5,85.5,4.0,7.0,91.0,85.1,71.5,81.2,9.3,4,3,No,0,Medium,54.0,67.4,70.3,71.1,Placed,2.21,Low Risk
+ST1477,21,Female,Civil,3,69.6,5.0,7.7,100.0,79.1,81.7,85.7,8.9,2,0,Yes,0,Medium,71.3,76.9,92.3,70.5,Not Placed,0.0,Low Risk
+ST1478,18,Male,Civil,6,85.0,4.8,5.2,75.6,67.3,45.8,92.0,9.9,4,1,No,0,Medium,67.8,82.2,80.2,65.9,Not Placed,0.0,Low Risk
+ST1479,22,Male,Mechanical,3,81.1,1.8,7.5,67.3,80.8,76.3,69.1,2.9,0,3,Yes,0,Low,46.4,72.4,79.1,56.6,Not Placed,0.0,Low Risk
+ST1480,22,Male,Information Technology,3,71.5,4.7,5.8,100.0,77.6,68.2,86.7,0.0,5,4,No,0,Medium,55.2,73.3,69.7,71.6,Placed,4.33,Low Risk
+ST1481,18,Female,Electronics,3,65.9,3.4,7.9,59.2,88.2,61.1,65.2,11.1,4,1,No,3,Low,96.1,82.7,81.3,57.8,Not Placed,0.0,High Risk
+ST1482,21,Female,Information Technology,5,54.4,3.6,5.9,75.2,86.1,62.3,82.6,15.4,5,3,Yes,0,Low,71.1,74.2,71.9,60.0,Not Placed,0.0,Medium Risk
+ST1483,19,Male,Computer Engineering,3,82.2,3.6,7.8,77.2,76.4,69.2,72.9,2.9,4,3,No,2,Medium,88.9,83.5,39.1,54.9,Placed,2.93,Medium Risk
+ST1484,22,Male,Mechanical,3,59.2,3.3,8.2,91.1,64.3,30.0,76.2,15.9,2,5,Yes,0,Medium,74.3,35.8,81.3,45.6,Not Placed,0.0,High Risk
+ST1485,18,Female,Computer Engineering,6,79.1,5.3,7.9,79.3,67.5,62.9,75.9,9.4,2,5,Yes,1,Low,87.3,66.7,53.2,63.8,Not Placed,0.0,Medium Risk
+ST1486,20,Male,Civil,6,74.8,3.4,7.3,69.0,68.9,60.6,47.5,8.0,6,1,No,0,Medium,77.8,68.8,68.1,60.2,Not Placed,0.0,Medium Risk
+ST1487,18,Male,Information Technology,3,86.1,1.8,6.7,63.6,71.9,78.9,54.3,6.0,4,1,Yes,1,High,56.8,66.2,78.8,58.0,Placed,2.93,Medium Risk
+ST1488,20,Female,Electronics,6,74.4,2.9,6.4,70.9,79.5,61.5,71.4,1.1,4,1,No,0,Low,78.5,69.8,55.0,57.9,Not Placed,0.0,Medium Risk
+ST1489,21,Male,Electronics,6,74.0,3.8,8.6,62.9,85.3,69.2,46.4,12.9,3,2,Yes,0,Medium,56.7,61.9,51.2,60.5,Not Placed,0.0,Medium Risk
+ST1490,19,Female,Civil,3,86.8,5.3,6.2,75.6,75.3,92.0,81.6,4.1,5,4,Yes,2,Low,83.0,79.8,74.6,64.3,Placed,4.73,Medium Risk
+ST1491,18,Male,Electronics,5,82.0,4.4,5.9,68.2,76.2,84.9,82.2,4.1,5,0,No,0,Medium,73.0,60.0,49.2,64.1,Not Placed,0.0,Low Risk
+ST1492,22,Female,Electronics,3,81.8,2.2,7.7,57.1,77.9,83.7,74.6,13.0,5,5,No,0,Low,70.3,64.7,63.9,57.1,Placed,4.67,Low Risk
+ST1493,21,Male,Computer Engineering,6,83.6,7.2,6.1,90.1,69.3,65.5,54.3,0.0,5,3,Yes,0,High,63.9,89.7,85.1,64.0,Placed,3.68,Low Risk
+ST1494,18,Male,Information Technology,5,59.6,3.9,6.0,69.0,64.0,79.1,89.3,0.4,0,5,No,2,Medium,81.2,87.6,93.0,55.0,Not Placed,0.0,High Risk
+ST1495,22,Female,Computer Engineering,4,87.1,5.4,5.4,59.8,53.2,69.0,98.0,7.9,0,0,Yes,0,Medium,67.8,70.4,38.5,62.0,Not Placed,0.0,Low Risk
+ST1496,18,Male,Mechanical,5,85.3,3.3,6.5,73.0,67.0,69.5,72.1,9.5,1,1,No,1,Low,43.3,58.4,63.5,54.9,Not Placed,0.0,Medium Risk
+ST1497,20,Female,Information Technology,6,65.8,4.3,6.9,75.8,82.2,77.3,77.1,10.4,4,5,Yes,0,High,46.0,43.5,87.3,57.1,Not Placed,0.0,Medium Risk
+ST1498,18,Male,Electronics,5,75.1,4.8,7.3,54.0,66.9,64.2,72.8,6.5,4,4,Yes,0,High,52.2,66.0,60.6,63.0,Placed,5.21,Low Risk
+ST1499,18,Female,Computer Engineering,3,77.5,5.3,8.0,79.0,72.9,91.4,77.4,20.7,4,4,No,3,Medium,81.0,75.6,79.7,67.7,Not Placed,0.0,Medium Risk
+ST1500,18,Female,Computer Engineering,4,76.4,5.1,7.6,62.4,82.1,69.9,68.3,6.9,4,2,Yes,0,High,82.0,57.2,80.9,58.8,Not Placed,0.0,Low Risk
+ST1501,21,Female,Electronics,4,82.0,4.8,6.8,95.5,82.8,80.0,69.5,6.8,5,5,Yes,1,Low,74.5,68.1,57.2,67.6,Not Placed,0.0,Low Risk
+ST1502,18,Female,Computer Engineering,4,95.2,3.0,6.8,81.3,62.0,90.9,82.7,4.0,5,1,Yes,0,Medium,74.4,62.8,73.9,63.8,Not Placed,0.0,Low Risk
+ST1503,22,Male,Computer Engineering,6,91.0,2.6,7.6,70.2,89.0,85.4,98.0,8.6,0,3,No,0,Medium,90.2,42.2,74.8,67.1,Not Placed,0.0,Low Risk
+ST1504,20,Male,Computer Engineering,6,62.3,4.0,8.4,66.1,90.7,53.7,50.4,11.1,2,2,No,0,Medium,74.8,69.8,81.6,58.7,Not Placed,0.0,Medium Risk
+ST1505,20,Female,Civil,4,85.5,4.9,7.1,73.7,61.3,77.8,68.5,14.0,3,1,No,1,High,78.9,74.5,41.0,70.6,Not Placed,0.0,Low Risk
+ST1506,18,Female,Mechanical,5,93.9,3.2,6.5,82.4,65.3,83.1,53.5,0.6,5,2,No,1,Low,69.8,70.4,87.7,60.2,Placed,4.5,Medium Risk
+ST1507,21,Female,Information Technology,4,82.6,5.1,5.9,74.7,91.5,83.6,92.3,6.8,5,5,No,1,Low,63.5,92.2,78.0,73.9,Placed,3.71,Low Risk
+ST1508,21,Male,Computer Engineering,5,91.1,5.7,5.4,72.4,74.1,57.5,61.8,10.2,6,0,Yes,0,Low,66.1,63.2,48.9,70.7,Placed,4.82,Low Risk
+ST1509,22,Male,Information Technology,5,100.0,2.1,7.7,75.7,47.1,63.5,49.8,10.9,5,5,Yes,0,High,98.7,62.0,65.0,57.6,Placed,3.43,Low Risk
+ST1510,18,Male,Mechanical,6,90.3,2.2,7.6,67.8,57.8,84.9,78.9,8.0,2,1,No,0,High,54.8,100.0,80.4,67.0,Placed,2.84,Low Risk
+ST1511,20,Male,Electronics,5,81.0,3.3,7.6,70.9,72.8,62.1,94.4,10.7,2,3,Yes,1,Medium,74.4,49.3,49.8,58.0,Not Placed,0.0,Medium Risk
+ST1512,21,Female,Computer Engineering,4,90.5,4.0,6.9,50.0,60.9,68.1,79.3,4.0,0,3,Yes,2,Medium,48.8,58.7,52.2,56.5,Not Placed,0.0,Medium Risk
+ST1513,18,Female,Computer Engineering,6,79.7,2.7,8.5,86.7,70.6,92.5,72.9,15.8,5,1,No,0,Medium,61.5,73.4,67.3,63.3,Placed,4.95,Low Risk
+ST1514,21,Female,Computer Engineering,3,78.3,5.5,6.5,78.6,76.4,71.4,75.7,13.0,6,2,No,0,Medium,80.8,84.9,60.0,71.1,Placed,3.58,Low Risk
+ST1515,21,Male,Electronics,3,73.8,4.1,8.1,65.7,95.0,62.6,89.8,1.3,3,4,Yes,0,Low,44.7,82.0,71.0,66.3,Not Placed,0.0,Low Risk
+ST1516,20,Male,Mechanical,6,96.8,3.6,7.0,97.8,72.2,60.6,57.8,2.6,4,1,Yes,4,Medium,82.7,52.4,80.2,62.0,Not Placed,0.0,Medium Risk
+ST1517,19,Male,Computer Engineering,4,68.2,1.3,6.3,76.0,89.9,76.3,68.4,2.8,5,5,No,2,Medium,98.7,92.4,71.4,63.4,Not Placed,0.0,Medium Risk
+ST1518,22,Female,Computer Engineering,3,96.4,1.5,7.7,62.6,94.6,54.7,63.7,11.4,0,3,No,0,Medium,75.1,75.0,66.8,63.8,Not Placed,0.0,Low Risk
+ST1519,22,Female,Computer Engineering,3,84.0,3.9,7.5,85.3,94.6,68.8,53.6,1.6,0,0,No,0,Low,87.7,55.7,80.2,67.4,Not Placed,0.0,Low Risk
+ST1520,20,Male,Civil,5,61.2,0.5,7.4,79.8,79.7,76.3,65.4,6.3,3,3,Yes,0,Medium,73.5,57.0,65.3,52.2,Not Placed,0.0,Medium Risk
+ST1521,21,Female,Computer Engineering,5,82.4,5.0,7.1,79.7,50.5,88.9,85.5,10.3,6,4,No,1,High,80.0,69.1,55.1,54.4,Placed,2.79,Medium Risk
+ST1522,18,Male,Mechanical,4,52.8,3.3,7.0,69.9,82.0,80.7,77.9,7.7,1,3,Yes,1,Medium,76.4,100.0,85.5,61.4,Not Placed,0.0,High Risk
+ST1523,21,Male,Electronics,6,85.5,8.4,9.6,80.4,89.6,62.7,79.0,9.3,0,4,No,0,Medium,62.9,71.2,28.3,82.5,Not Placed,0.0,Low Risk
+ST1524,20,Female,Information Technology,4,88.6,7.0,8.3,71.9,74.9,87.3,72.1,2.7,2,1,Yes,2,Medium,61.6,100.0,68.0,68.3,Not Placed,0.0,Low Risk
+ST1525,22,Male,Computer Engineering,6,70.9,3.2,7.8,81.7,98.7,68.1,77.3,11.0,2,3,Yes,0,Medium,86.5,81.2,61.2,58.8,Not Placed,0.0,Medium Risk
+ST1526,21,Female,Computer Engineering,3,79.5,3.3,7.1,52.1,87.2,55.9,58.8,4.9,4,2,Yes,0,Medium,69.4,49.1,52.2,64.7,Not Placed,0.0,Low Risk
+ST1527,22,Male,Electronics,5,100.0,5.0,8.1,69.8,83.4,69.8,65.7,6.4,0,5,No,1,Medium,68.0,89.1,71.8,70.7,Placed,2.51,Low Risk
+ST1528,18,Female,Mechanical,4,71.9,6.1,7.6,95.7,90.1,90.7,72.7,9.2,6,2,No,0,Medium,67.7,53.8,74.4,64.1,Not Placed,0.0,Medium Risk
+ST1529,22,Female,Electronics,4,65.3,1.0,7.0,65.8,80.3,74.1,73.9,8.5,4,5,Yes,3,Medium,74.3,58.8,53.7,48.7,Placed,4.5,High Risk
+ST1530,22,Female,Information Technology,6,95.8,0.8,6.7,67.8,43.6,72.2,74.5,8.1,0,3,No,0,Medium,53.4,72.1,44.7,55.9,Not Placed,0.0,Low Risk
+ST1531,19,Male,Computer Engineering,6,100.0,2.6,6.9,69.6,69.5,93.3,68.1,4.2,3,3,Yes,0,Medium,67.4,67.6,46.1,58.3,Placed,3.3,Low Risk
+ST1532,19,Male,Civil,4,78.0,4.4,4.0,60.4,91.6,53.4,64.7,6.5,5,5,No,1,Medium,74.3,81.4,96.0,54.0,Placed,4.68,Medium Risk
+ST1533,19,Female,Mechanical,6,90.1,4.2,7.2,48.5,65.5,55.3,98.0,8.0,6,0,Yes,0,Medium,52.1,75.5,97.8,68.8,Placed,5.24,Low Risk
+ST1534,22,Female,Computer Engineering,4,94.1,5.1,6.5,72.2,73.1,51.0,82.7,1.1,0,3,No,0,High,72.9,66.2,67.5,64.6,Not Placed,0.0,Low Risk
+ST1535,20,Male,Civil,4,69.1,1.7,8.8,76.6,62.4,76.8,75.8,5.7,6,0,Yes,5,Medium,57.4,93.5,45.1,40.6,Not Placed,0.0,High Risk
+ST1536,22,Male,Electronics,4,72.2,0.5,7.0,74.4,99.2,74.2,66.7,9.9,1,0,No,0,High,74.4,60.9,64.7,54.3,Not Placed,0.0,Medium Risk
+ST1537,20,Male,Electronics,3,92.8,4.8,5.7,73.3,97.9,92.1,63.7,1.6,6,5,No,0,Medium,100.0,53.0,31.8,67.9,Placed,4.02,Low Risk
+ST1538,20,Female,Mechanical,6,98.2,2.3,6.9,75.5,64.5,75.2,68.2,13.8,6,0,Yes,2,Low,68.3,74.9,72.0,60.2,Placed,4.68,Medium Risk
+ST1539,19,Male,Mechanical,5,84.8,0.5,5.8,87.3,77.9,66.7,74.1,14.3,2,0,Yes,0,High,54.9,67.7,51.1,63.2,Not Placed,0.0,Low Risk
+ST1540,21,Male,Electronics,5,67.4,3.7,7.5,72.7,67.2,72.0,43.7,1.8,3,1,Yes,0,Medium,73.3,71.7,47.6,61.5,Not Placed,0.0,Medium Risk
+ST1541,18,Female,Computer Engineering,6,100.0,4.7,7.3,68.1,84.0,73.5,48.0,14.8,5,2,No,1,High,76.6,79.1,82.6,62.9,Not Placed,0.0,Medium Risk
+ST1542,19,Male,Information Technology,4,71.6,3.3,8.1,71.6,82.6,50.3,61.1,7.3,5,0,Yes,0,Medium,56.9,65.2,64.5,56.1,Placed,3.05,Medium Risk
+ST1543,19,Male,Civil,5,74.0,2.8,6.1,82.0,86.6,100.0,72.9,10.1,2,2,No,5,Low,45.9,95.9,80.9,56.1,Not Placed,0.0,High Risk
+ST1544,21,Male,Computer Engineering,5,82.1,3.3,7.0,91.9,80.3,78.8,66.7,5.5,6,0,No,0,Medium,56.9,72.0,86.3,72.0,Not Placed,0.0,Low Risk
+ST1545,18,Female,Information Technology,6,96.6,2.9,5.5,67.5,100.0,74.7,90.7,12.6,5,2,Yes,1,Medium,69.3,61.2,65.6,70.6,Not Placed,0.0,Low Risk
+ST1546,22,Female,Information Technology,5,88.2,1.5,7.8,76.2,62.6,80.0,49.2,10.0,4,3,Yes,0,High,63.6,76.8,66.9,65.0,Not Placed,0.0,Low Risk
+ST1547,22,Female,Information Technology,4,83.0,2.4,7.6,79.1,53.8,81.2,59.5,3.9,3,3,No,0,Medium,85.1,66.7,83.9,67.7,Placed,3.34,Low Risk
+ST1548,19,Female,Electronics,6,83.6,4.3,7.5,63.1,70.9,70.2,91.3,2.2,1,2,No,1,Medium,77.2,69.7,58.4,52.5,Not Placed,0.0,Medium Risk
+ST1549,18,Female,Civil,4,78.5,4.0,7.0,75.2,55.6,63.8,71.8,0.7,2,0,No,0,Medium,71.4,51.4,85.5,66.0,Not Placed,0.0,Low Risk
+ST1550,19,Female,Computer Engineering,5,84.7,3.8,7.5,57.4,56.6,79.8,82.4,8.9,0,1,Yes,2,Medium,45.6,53.1,34.6,61.6,Not Placed,0.0,Medium Risk
+ST1551,20,Female,Computer Engineering,5,47.6,2.0,8.8,53.8,63.0,77.0,98.0,10.9,0,2,Yes,0,Low,78.8,83.9,61.3,44.6,Not Placed,0.0,High Risk
+ST1552,19,Male,Computer Engineering,4,74.4,3.2,6.7,79.4,64.0,61.5,60.3,11.3,0,4,No,1,Low,97.7,49.5,70.0,55.6,Not Placed,0.0,Medium Risk
+ST1553,19,Male,Civil,3,80.9,0.5,7.2,70.4,63.6,90.4,68.6,7.4,3,1,No,0,Medium,82.1,66.2,47.7,60.6,Not Placed,0.0,Low Risk
+ST1554,22,Female,Electronics,5,64.2,3.8,5.8,77.4,82.7,75.8,66.2,2.2,1,4,No,1,Low,60.8,72.9,72.9,51.7,Not Placed,0.0,Medium Risk
+ST1555,22,Male,Computer Engineering,3,82.6,5.6,6.0,74.8,69.4,81.5,42.6,4.6,5,2,Yes,1,Low,68.1,89.2,69.8,62.5,Not Placed,0.0,Medium Risk
+ST1556,22,Male,Mechanical,5,75.5,1.3,7.1,63.3,73.7,90.1,65.7,13.8,1,0,Yes,0,Low,76.4,60.8,55.3,58.0,Not Placed,0.0,Low Risk
+ST1557,20,Female,Mechanical,3,99.1,2.6,8.2,74.5,87.6,72.3,82.3,5.6,1,4,Yes,0,High,89.4,79.4,54.7,61.4,Not Placed,0.0,Low Risk
+ST1558,22,Male,Mechanical,3,96.9,3.5,6.7,60.2,66.0,76.1,77.6,8.7,2,2,No,0,Low,60.1,66.2,53.0,63.1,Placed,3.79,Low Risk
+ST1559,18,Male,Civil,3,72.4,5.4,6.7,91.7,72.6,82.5,78.7,2.6,3,1,Yes,0,Low,63.5,35.3,41.9,74.9,Not Placed,0.0,Low Risk
+ST1560,21,Male,Computer Engineering,4,76.2,2.8,6.6,58.7,80.8,62.6,64.7,9.7,0,0,No,1,Low,69.4,68.7,92.8,61.8,Not Placed,0.0,Medium Risk
+ST1561,18,Male,Mechanical,3,77.1,2.5,6.4,72.7,50.8,72.7,60.8,5.7,2,4,No,0,Medium,68.2,67.0,63.6,49.3,Not Placed,0.0,Medium Risk
+ST1562,18,Male,Information Technology,3,77.75,0.5,7.3,62.5,45.0,73.6,87.8,13.2,5,2,Yes,3,Medium,81.1,74.4,45.4,35.0,Not Placed,0.0,High Risk
+ST1563,22,Female,Mechanical,3,80.3,3.7,5.4,81.8,80.5,59.6,63.0,11.9,1,0,Yes,0,Low,73.7,58.4,65.0,67.3,Not Placed,0.0,Low Risk
+ST1564,21,Female,Electronics,5,68.9,6.6,8.4,71.0,82.4,100.0,74.1,5.5,6,0,No,3,Medium,50.4,60.0,70.8,73.4,Not Placed,0.0,Medium Risk
+ST1565,21,Female,Mechanical,3,64.4,3.9,6.3,68.8,100.0,53.7,72.3,7.4,0,3,Yes,0,Medium,60.8,86.0,53.9,62.9,Not Placed,0.0,Medium Risk
+ST1566,21,Male,Electronics,5,85.5,3.5,7.8,85.2,78.1,55.1,90.5,5.2,3,0,Yes,3,Medium,61.2,63.0,61.2,55.9,Not Placed,0.0,Medium Risk
+ST1567,20,Female,Computer Engineering,3,85.6,4.0,5.6,75.4,86.7,89.1,83.6,0.9,4,2,Yes,0,Medium,39.0,39.3,87.9,64.7,Placed,3.3,Low Risk
+ST1568,22,Male,Information Technology,3,68.3,3.5,7.7,81.2,73.5,81.3,51.9,3.7,1,1,No,0,Medium,83.0,75.4,48.3,61.7,Not Placed,0.0,Medium Risk
+ST1569,21,Male,Civil,4,88.7,2.3,7.7,63.2,79.9,58.7,53.4,9.0,1,5,No,3,Low,71.9,80.9,57.7,54.7,Not Placed,0.0,Medium Risk
+ST1570,20,Male,Civil,5,70.4,4.7,7.4,58.1,97.7,79.9,78.1,9.6,1,3,No,0,Medium,62.4,80.8,34.9,61.3,Not Placed,0.0,Medium Risk
+ST1571,19,Male,Computer Engineering,3,81.0,3.8,5.9,76.3,48.4,91.1,69.1,8.7,1,2,No,0,High,82.6,58.8,96.2,62.6,Not Placed,0.0,Low Risk
+ST1572,19,Female,Computer Engineering,5,87.8,3.5,7.3,71.2,81.4,71.6,63.6,6.5,0,2,No,2,Medium,74.2,68.0,77.5,55.1,Not Placed,0.0,Medium Risk
+ST1573,20,Female,Computer Engineering,5,77.6,2.0,5.7,82.5,100.0,100.0,84.2,12.7,3,2,No,1,Medium,52.0,76.0,66.2,70.4,Not Placed,0.0,Low Risk
+ST1574,20,Male,Electronics,6,83.5,5.5,6.7,74.0,79.7,49.6,72.6,8.3,2,4,No,0,High,78.5,82.5,55.5,53.6,Placed,3.17,Low Risk
+ST1575,22,Female,Mechanical,4,71.8,4.5,8.1,77.5,97.5,81.0,70.7,11.5,0,4,No,0,Medium,89.2,75.5,54.7,67.8,Not Placed,0.0,Low Risk
+ST1576,22,Male,Computer Engineering,4,75.6,2.7,7.9,55.5,67.8,87.2,80.9,0.0,3,1,Yes,1,Low,68.0,79.6,62.7,55.1,Not Placed,0.0,Medium Risk
+ST1577,19,Female,Information Technology,4,75.5,5.0,7.0,97.7,75.6,83.6,64.7,0.0,2,2,No,0,Medium,69.1,57.0,74.9,76.3,Not Placed,0.0,Low Risk
+ST1578,21,Female,Mechanical,6,69.0,2.8,5.9,73.0,76.4,69.3,92.0,9.4,1,4,No,3,Medium,71.5,33.6,50.0,53.6,Not Placed,0.0,High Risk
+ST1579,19,Male,Mechanical,6,75.9,2.3,7.7,83.4,47.2,68.2,59.0,0.9,3,4,Yes,1,High,52.9,83.8,59.6,55.5,Not Placed,0.0,Medium Risk
+ST1580,21,Female,Information Technology,4,59.4,2.4,7.0,65.0,60.8,77.8,79.2,6.9,1,4,No,1,Medium,72.0,53.8,80.7,46.1,Not Placed,0.0,High Risk
+ST1581,21,Male,Electronics,6,72.1,0.8,4.4,78.7,61.7,82.6,90.1,6.5,6,1,Yes,0,Low,57.5,65.4,92.7,58.2,Placed,2.0,Medium Risk
+ST1582,22,Female,Information Technology,6,74.6,4.2,7.9,59.4,86.7,79.8,50.7,15.9,3,1,Yes,2,Medium,69.9,80.1,75.7,58.7,Not Placed,0.0,Medium Risk
+ST1583,18,Male,Computer Engineering,6,74.9,0.8,7.0,80.4,87.3,85.5,65.2,10.0,5,2,No,0,High,72.3,68.4,56.4,59.5,Not Placed,0.0,Medium Risk
+ST1584,18,Male,Electronics,4,75.1,1.7,8.3,74.5,80.2,58.8,86.0,8.8,4,3,Yes,2,Low,77.4,78.5,64.5,52.4,Not Placed,0.0,Medium Risk
+ST1585,20,Female,Electronics,4,77.3,0.5,5.8,75.4,86.7,69.0,86.2,12.2,1,2,No,0,High,77.9,100.0,73.6,59.8,Placed,3.68,Low Risk
+ST1586,22,Female,Mechanical,4,83.8,3.4,4.0,83.4,73.9,59.8,67.6,9.8,1,4,Yes,1,Medium,57.0,76.3,62.3,50.0,Placed,3.68,Medium Risk
+ST1587,21,Male,Electronics,6,88.5,3.3,7.3,60.2,91.6,67.0,59.7,5.7,1,5,Yes,1,Medium,72.6,57.1,78.4,56.5,Not Placed,0.0,Medium Risk
+ST1588,18,Female,Mechanical,4,70.2,3.0,7.3,66.8,76.1,85.2,83.4,13.4,5,4,No,0,Medium,83.4,46.3,55.3,66.9,Not Placed,0.0,Low Risk
+ST1589,21,Female,Computer Engineering,6,63.6,1.9,5.1,80.5,76.8,73.4,86.6,2.5,0,0,No,0,Medium,53.9,78.2,92.8,54.9,Not Placed,0.0,Medium Risk
+ST1590,18,Male,Information Technology,3,65.5,1.7,5.9,100.0,72.5,100.0,53.7,9.6,2,5,Yes,0,Medium,94.4,69.2,65.6,72.2,Not Placed,0.0,Low Risk
+ST1591,18,Male,Computer Engineering,6,72.2,4.2,10.0,73.3,84.9,74.5,53.1,0.3,1,5,No,0,High,56.4,47.3,56.9,60.8,Not Placed,0.0,Medium Risk
+ST1592,18,Female,Computer Engineering,5,73.8,2.7,6.7,82.1,70.5,72.8,73.2,9.0,1,2,No,0,Medium,92.8,85.7,76.5,50.0,Not Placed,0.0,Medium Risk
+ST1593,22,Male,Electronics,4,68.8,4.0,7.8,73.7,88.7,73.4,78.8,9.0,0,4,Yes,0,Medium,56.6,78.9,51.3,64.4,Not Placed,0.0,Medium Risk
+ST1594,19,Male,Civil,4,62.4,2.2,6.3,98.3,61.3,63.7,65.8,16.4,0,4,Yes,1,Low,69.2,67.8,69.4,46.6,Not Placed,0.0,High Risk
+ST1595,21,Male,Computer Engineering,5,72.5,3.8,4.7,54.0,61.7,71.2,79.5,0.2,4,3,No,1,Low,67.3,100.0,89.4,57.0,Not Placed,0.0,Medium Risk
+ST1596,22,Female,Information Technology,6,80.2,5.5,6.8,76.1,84.9,86.7,60.1,5.0,3,0,No,0,Medium,50.9,83.3,47.5,65.6,Not Placed,0.0,Low Risk
+ST1597,22,Female,Mechanical,3,85.1,4.4,6.7,55.5,74.8,73.5,40.4,12.1,1,2,Yes,1,Low,79.8,53.1,86.1,54.2,Not Placed,0.0,Medium Risk
+ST1598,22,Male,Computer Engineering,5,71.3,2.9,6.6,44.9,70.1,61.7,64.1,9.7,3,1,Yes,3,Medium,80.5,85.6,46.3,50.8,Not Placed,0.0,High Risk
+ST1599,22,Female,Electronics,5,73.0,3.9,6.9,78.6,87.6,60.0,70.9,8.9,6,2,No,0,Medium,78.7,71.8,80.1,55.8,Not Placed,0.0,Medium Risk
+ST1600,22,Male,Mechanical,6,66.9,3.1,7.3,76.7,68.1,66.1,66.1,3.2,0,5,Yes,0,High,66.5,96.4,51.9,52.6,Not Placed,0.0,Medium Risk
+ST1601,20,Female,Electronics,4,77.6,3.5,6.8,71.6,73.4,73.0,53.8,5.0,0,2,No,0,Low,60.2,82.1,86.1,55.1,Not Placed,0.0,Low Risk
+ST1602,21,Male,Computer Engineering,6,67.8,3.0,5.6,73.7,94.2,87.5,44.6,14.2,4,3,No,1,Low,85.4,75.3,57.8,66.0,Not Placed,0.0,Medium Risk
+ST1603,22,Male,Information Technology,5,84.9,3.3,7.5,100.0,96.0,54.6,62.8,7.7,2,2,Yes,1,Low,73.0,74.4,61.3,61.1,Not Placed,0.0,Medium Risk
+ST1604,21,Female,Mechanical,5,56.6,3.8,4.9,71.9,96.4,67.8,82.6,9.9,5,3,No,1,High,59.4,50.2,52.0,55.0,Placed,4.0,High Risk
+ST1605,20,Male,Electronics,4,73.7,2.0,4.7,81.1,72.3,73.9,87.6,7.4,5,5,No,0,Medium,73.0,60.3,28.4,62.8,Not Placed,0.0,Medium Risk
+ST1606,20,Female,Computer Engineering,4,81.6,2.0,7.8,67.2,92.0,48.2,86.6,2.1,5,3,No,2,Low,46.6,71.1,48.7,51.0,Not Placed,0.0,Medium Risk
+ST1607,21,Female,Mechanical,4,80.2,1.4,7.6,78.5,63.7,61.2,58.6,12.7,0,4,No,0,High,71.5,47.4,40.0,49.8,Not Placed,0.0,Medium Risk
+ST1608,18,Male,Computer Engineering,6,100.0,1.1,6.9,72.1,64.2,63.2,53.8,10.5,1,1,No,0,High,79.2,75.0,34.3,60.3,Not Placed,0.0,Low Risk
+ST1609,19,Male,Mechanical,4,82.2,1.7,5.5,70.1,45.4,61.7,77.0,19.5,4,5,No,0,High,67.5,56.9,71.7,40.9,Not Placed,0.0,Medium Risk
+ST1610,18,Female,Computer Engineering,5,66.0,3.7,6.2,96.8,97.7,74.5,78.9,2.9,2,3,Yes,0,Low,80.0,62.1,91.4,61.1,Not Placed,0.0,Medium Risk
+ST1611,18,Male,Civil,5,76.9,2.2,6.7,89.1,64.8,69.9,75.6,12.1,6,0,No,1,Medium,81.4,78.7,95.8,55.7,Not Placed,0.0,Medium Risk
+ST1612,18,Male,Information Technology,3,56.7,4.3,5.2,76.6,74.4,64.8,41.8,1.4,5,5,No,1,Medium,73.9,59.7,48.4,60.9,Placed,5.55,High Risk
+ST1613,22,Male,Information Technology,6,77.0,3.6,6.2,47.3,64.2,77.6,57.9,8.8,4,0,Yes,4,Medium,94.8,75.0,65.2,49.4,Not Placed,0.0,High Risk
+ST1614,20,Male,Computer Engineering,3,68.0,0.5,7.7,70.7,85.0,94.4,69.6,12.9,0,1,Yes,0,Low,89.0,70.2,85.6,56.9,Not Placed,0.0,Medium Risk
+ST1615,18,Male,Information Technology,5,89.0,4.5,8.6,100.0,71.1,93.3,76.8,0.0,5,3,Yes,5,Low,78.8,52.1,46.0,59.9,Not Placed,0.0,Medium Risk
+ST1616,20,Female,Mechanical,3,71.4,4.7,6.5,72.2,59.0,47.0,80.7,7.0,2,5,No,1,High,75.0,81.2,86.3,55.2,Not Placed,0.0,Medium Risk
+ST1617,21,Female,Civil,5,76.6,2.0,7.8,88.2,81.7,79.5,72.0,5.2,6,5,No,0,Low,66.4,82.0,86.5,65.3,Placed,4.06,Low Risk
+ST1618,19,Male,Information Technology,3,70.4,4.1,4.9,92.3,57.4,69.7,74.6,4.5,3,1,No,2,Medium,60.9,82.8,35.9,56.6,Not Placed,0.0,Medium Risk
+ST1619,21,Male,Information Technology,4,98.9,2.2,7.7,77.6,65.1,74.0,71.2,9.9,6,4,Yes,1,Medium,81.2,96.6,29.3,72.4,Not Placed,0.0,Low Risk
+ST1620,21,Male,Electronics,3,74.1,3.5,6.1,64.9,48.6,66.8,79.6,13.6,2,0,No,0,Medium,67.2,61.8,60.6,54.2,Not Placed,0.0,Medium Risk
+ST1621,22,Female,Civil,4,100.0,1.6,7.3,45.8,57.5,73.5,74.4,7.3,6,5,Yes,2,Medium,55.8,38.8,82.0,55.4,Not Placed,0.0,Medium Risk
+ST1622,19,Male,Electronics,4,87.8,0.8,6.7,83.2,78.3,74.0,70.9,9.0,1,2,No,1,Medium,58.8,58.1,42.7,57.8,Not Placed,0.0,Medium Risk
+ST1623,21,Female,Information Technology,6,83.8,2.9,8.5,65.2,50.5,64.5,66.2,8.6,5,0,Yes,1,Medium,60.6,82.4,34.4,59.3,Not Placed,0.0,Medium Risk
+ST1624,21,Female,Information Technology,4,82.4,3.3,6.0,77.1,56.7,60.3,71.1,8.0,5,3,No,3,Medium,94.5,66.8,68.0,48.7,Not Placed,0.0,High Risk
+ST1625,19,Female,Electronics,4,82.7,2.9,7.7,60.0,76.0,66.2,76.8,2.6,3,1,No,0,Medium,81.9,46.9,77.1,58.0,Not Placed,0.0,Low Risk
+ST1626,19,Male,Computer Engineering,3,54.9,1.7,6.7,71.8,68.9,75.0,73.7,13.5,6,0,No,1,Medium,70.5,42.7,56.1,44.9,Not Placed,0.0,High Risk
+ST1627,21,Female,Electronics,5,74.7,2.9,6.8,75.4,100.0,79.8,75.3,9.5,3,2,No,1,Medium,75.8,89.3,57.4,67.8,Not Placed,0.0,Medium Risk
+ST1628,19,Male,Information Technology,6,88.1,3.9,6.8,78.2,99.8,83.1,88.8,10.0,6,2,No,0,Medium,77.4,77.1,77.0,66.2,Not Placed,0.0,Low Risk
+ST1629,21,Female,Mechanical,4,77.4,3.4,6.1,61.6,64.7,65.6,73.7,4.0,5,1,Yes,0,Medium,57.8,60.6,53.1,61.5,Not Placed,0.0,Low Risk
+ST1630,21,Male,Computer Engineering,6,61.1,3.8,7.0,89.4,83.2,75.7,60.9,5.7,1,1,No,2,Low,53.7,96.2,54.3,63.5,Not Placed,0.0,Medium Risk
+ST1631,22,Female,Electronics,3,77.4,2.5,6.9,67.8,85.7,84.5,82.4,7.1,6,0,No,0,Medium,84.7,100.0,71.4,74.7,Placed,4.06,Low Risk
+ST1632,18,Male,Information Technology,4,98.4,5.3,7.3,54.9,68.2,87.2,50.9,0.3,3,3,Yes,1,Low,51.1,83.5,73.2,62.1,Not Placed,0.0,Medium Risk
+ST1633,21,Female,Electronics,3,93.0,1.7,7.1,73.7,56.6,71.2,54.9,0.0,0,4,No,3,High,69.8,79.3,63.4,46.5,Not Placed,0.0,High Risk
+ST1634,20,Male,Computer Engineering,6,77.3,4.2,7.9,75.4,75.8,69.1,74.7,5.0,5,2,No,0,High,59.9,75.9,90.8,63.7,Placed,3.41,Low Risk
+ST1635,18,Male,Electronics,3,89.4,5.3,8.0,76.9,73.8,74.5,77.2,10.6,2,1,No,0,Low,73.1,80.8,79.0,73.0,Not Placed,0.0,Low Risk
+ST1636,18,Male,Electronics,6,73.6,4.2,5.8,91.3,70.3,57.1,52.6,4.7,2,4,No,0,Low,66.5,97.4,61.4,58.4,Placed,3.62,Medium Risk
+ST1637,18,Male,Electronics,3,57.6,3.2,8.0,72.2,81.8,69.5,64.6,2.9,1,4,No,1,Medium,77.5,53.4,46.3,51.5,Not Placed,0.0,High Risk
+ST1638,22,Female,Electronics,6,66.9,2.7,5.7,73.6,66.2,81.7,61.5,3.9,0,4,No,3,High,37.6,62.9,82.9,53.3,Not Placed,0.0,High Risk
+ST1639,21,Female,Electronics,5,96.8,5.1,7.6,61.8,61.0,80.3,63.2,5.7,3,3,No,0,Medium,85.7,67.3,83.4,66.0,Not Placed,0.0,Low Risk
+ST1640,22,Male,Mechanical,3,74.7,1.4,7.7,84.8,77.4,68.5,83.2,6.2,6,1,No,0,Medium,80.3,76.6,65.4,60.4,Placed,4.6,Medium Risk
+ST1641,21,Female,Computer Engineering,3,75.1,3.5,4.9,77.2,81.0,74.8,79.9,18.8,5,2,No,1,Medium,84.2,91.5,71.4,55.7,Not Placed,0.0,Medium Risk
+ST1642,22,Male,Mechanical,5,74.4,2.9,7.1,70.0,60.7,61.3,69.7,13.3,2,1,Yes,1,Low,82.5,74.2,78.2,58.3,Not Placed,0.0,Medium Risk
+ST1643,22,Male,Information Technology,5,100.0,5.4,6.5,52.1,88.1,81.1,62.4,13.1,2,0,Yes,0,Medium,74.4,77.4,92.6,70.8,Placed,4.3,Low Risk
+ST1644,20,Female,Computer Engineering,3,97.5,4.1,6.2,92.3,53.0,71.0,51.1,13.8,2,2,Yes,1,Low,61.0,78.2,81.2,61.5,Not Placed,0.0,Medium Risk
+ST1645,22,Male,Computer Engineering,5,100.0,2.0,8.5,60.3,68.5,68.4,89.9,3.0,2,1,No,0,Medium,76.1,68.3,74.1,52.8,Not Placed,0.0,Low Risk
+ST1646,19,Male,Information Technology,4,76.1,3.0,6.3,67.9,72.6,67.3,78.3,1.9,4,2,No,2,Low,74.1,61.8,81.9,59.6,Not Placed,0.0,Medium Risk
+ST1647,20,Female,Mechanical,6,81.5,2.6,6.1,79.3,67.7,71.2,60.1,2.5,1,0,No,0,Medium,82.3,69.1,85.4,52.5,Not Placed,0.0,Low Risk
+ST1648,22,Male,Electronics,6,59.8,2.4,7.1,60.6,68.7,66.2,80.1,14.7,3,5,No,0,High,78.7,58.2,71.3,56.1,Not Placed,0.0,Medium Risk
+ST1649,18,Male,Mechanical,6,95.7,5.0,7.8,57.1,100.0,80.6,69.0,5.3,5,2,Yes,2,Medium,71.3,58.4,81.7,63.0,Placed,2.07,Medium Risk
+ST1650,19,Male,Information Technology,4,64.0,1.4,6.8,49.5,64.9,66.9,66.0,1.7,5,5,No,0,Medium,76.1,73.5,56.2,44.8,Placed,4.43,Medium Risk
+ST1651,19,Male,Information Technology,5,80.6,5.9,8.3,83.7,100.0,92.7,76.1,5.8,5,4,No,0,Low,77.3,60.8,83.6,80.4,Placed,5.12,Low Risk
+ST1652,19,Female,Computer Engineering,5,64.8,4.7,7.6,68.5,81.7,91.0,59.6,6.8,3,3,Yes,3,Medium,85.2,95.7,56.3,55.9,Not Placed,0.0,High Risk
+ST1653,20,Female,Information Technology,3,70.9,5.1,4.6,100.0,77.2,60.4,65.2,9.3,1,0,Yes,1,Low,94.3,70.2,50.9,61.2,Not Placed,0.0,Medium Risk
+ST1654,22,Female,Information Technology,5,68.0,3.5,6.4,63.1,82.2,72.9,71.7,9.3,0,2,No,0,Medium,78.4,88.4,64.9,66.7,Not Placed,0.0,Low Risk
+ST1655,22,Male,Computer Engineering,3,70.7,3.3,6.4,63.9,100.0,63.5,63.0,3.9,6,0,Yes,1,Low,77.4,49.3,45.5,68.7,Placed,4.66,Medium Risk
+ST1656,18,Male,Computer Engineering,4,71.5,1.4,7.5,68.2,63.1,67.8,79.4,11.4,6,4,No,2,Low,66.9,49.8,57.5,50.0,Placed,3.13,Medium Risk
+ST1657,18,Female,Electronics,6,71.4,2.7,4.1,77.9,61.4,98.0,96.2,4.8,1,5,Yes,1,Low,65.2,66.3,73.1,53.6,Not Placed,0.0,Medium Risk
+ST1658,19,Male,Mechanical,6,88.0,4.2,9.8,69.4,66.2,68.0,59.4,7.2,2,3,No,0,Medium,59.8,82.1,71.4,68.4,Not Placed,0.0,Low Risk
+ST1659,18,Male,Civil,6,64.7,5.4,7.6,82.3,76.4,76.7,46.7,11.4,6,0,Yes,1,Medium,30.0,60.6,77.2,54.3,Placed,3.33,Medium Risk
+ST1660,20,Male,Civil,5,80.6,1.8,7.2,74.5,53.6,79.0,42.0,4.8,2,5,Yes,1,Medium,58.3,66.5,77.5,52.4,Not Placed,0.0,Medium Risk
+ST1661,22,Male,Electronics,3,92.6,3.0,8.3,58.4,76.3,59.0,67.9,5.2,1,4,No,2,Low,67.6,83.0,73.0,52.9,Not Placed,0.0,Medium Risk
+ST1662,19,Female,Information Technology,3,71.8,3.3,9.6,53.4,98.0,60.9,60.7,11.0,1,4,No,0,Medium,65.7,62.2,53.4,57.9,Not Placed,0.0,Medium Risk
+ST1663,18,Female,Electronics,4,69.4,1.4,8.0,48.3,78.0,56.3,72.9,3.7,3,4,No,1,Medium,76.4,56.6,81.8,55.0,Not Placed,0.0,Medium Risk
+ST1664,20,Female,Mechanical,5,75.2,4.4,8.0,68.8,72.2,60.5,71.9,6.1,3,5,Yes,0,Medium,58.7,78.6,65.2,56.4,Placed,4.79,Low Risk
+ST1665,20,Male,Computer Engineering,4,92.2,2.4,7.1,71.4,68.0,34.9,47.6,10.8,4,2,Yes,1,High,59.4,48.4,70.8,49.3,Not Placed,0.0,Medium Risk
+ST1666,18,Female,Information Technology,3,80.3,3.2,6.8,67.4,87.7,79.1,44.6,18.3,5,1,No,4,Medium,40.4,62.4,68.7,56.5,Not Placed,0.0,Medium Risk
+ST1667,22,Female,Mechanical,3,71.6,2.8,6.5,89.9,65.3,98.7,74.1,11.0,4,0,Yes,0,Low,76.6,69.7,92.2,73.4,Not Placed,0.0,Low Risk
+ST1668,18,Male,Information Technology,6,83.8,2.3,6.1,89.7,100.0,73.9,71.9,10.4,5,1,Yes,0,Medium,57.6,75.9,47.9,80.3,Placed,5.82,Low Risk
+ST1669,19,Male,Electronics,5,64.8,3.5,6.2,71.0,100.0,53.6,64.0,10.7,3,4,No,1,High,60.0,80.3,61.5,48.8,Placed,4.01,High Risk
+ST1670,18,Female,Electronics,3,86.2,3.2,5.5,53.5,79.3,63.6,46.8,2.6,4,1,Yes,1,Medium,77.9,82.7,75.5,53.4,Not Placed,0.0,Medium Risk
+ST1671,20,Female,Computer Engineering,6,82.9,2.9,6.9,68.2,75.9,66.0,76.6,8.6,4,5,Yes,0,High,57.6,63.5,67.4,56.4,Placed,3.16,Low Risk
+ST1672,18,Female,Information Technology,5,74.3,2.4,5.1,67.8,89.4,58.8,87.8,7.9,0,4,Yes,1,Medium,75.3,82.4,59.2,60.5,Placed,4.13,Medium Risk
+ST1673,22,Female,Information Technology,4,67.9,4.0,7.2,67.1,90.2,83.2,73.9,9.6,1,4,No,3,Medium,53.1,75.6,36.3,55.6,Not Placed,0.0,High Risk
+ST1674,21,Male,Computer Engineering,5,67.4,6.0,7.0,66.6,65.5,82.5,58.1,8.6,3,3,Yes,1,Medium,69.7,78.8,62.4,64.0,Placed,3.62,Medium Risk
+ST1675,18,Female,Computer Engineering,5,84.4,3.7,7.2,67.2,69.2,57.0,70.6,9.9,4,3,No,1,Medium,61.5,58.5,72.8,56.0,Placed,3.13,Medium Risk
+ST1676,22,Female,Mechanical,3,92.7,5.0,6.4,70.4,58.8,81.4,50.9,6.4,3,5,Yes,0,Medium,66.3,78.0,75.7,67.9,Placed,4.05,Low Risk
+ST1677,22,Male,Computer Engineering,3,70.4,1.4,10.0,67.4,81.3,91.8,84.8,8.3,5,5,No,3,Medium,91.2,65.7,64.3,53.3,Placed,4.44,High Risk
+ST1678,20,Female,Information Technology,5,83.5,3.7,8.5,77.5,84.7,96.7,71.1,1.9,4,1,Yes,0,Medium,47.0,68.7,69.8,69.6,Not Placed,0.0,Low Risk
+ST1679,22,Male,Computer Engineering,3,53.0,1.9,5.6,79.3,58.5,100.0,45.2,6.4,5,0,No,0,Medium,89.9,70.5,48.7,51.2,Not Placed,0.0,Medium Risk
+ST1680,22,Male,Civil,3,71.0,1.3,7.3,64.1,70.1,60.3,65.8,15.0,4,1,No,0,Low,57.1,99.7,73.2,60.0,Not Placed,0.0,Medium Risk
+ST1681,22,Male,Computer Engineering,3,77.6,2.4,6.3,90.3,58.5,100.0,76.5,9.6,6,5,No,1,Medium,82.2,54.3,67.2,56.7,Placed,4.0,Medium Risk
+ST1682,22,Female,Information Technology,6,67.1,5.3,5.9,63.2,64.3,67.4,65.3,7.9,2,0,No,2,Medium,84.9,85.8,69.6,52.7,Not Placed,0.0,Medium Risk
+ST1683,19,Female,Mechanical,6,66.8,4.9,5.5,55.6,83.2,64.3,66.1,17.5,0,1,No,0,High,76.0,89.5,63.5,67.2,Not Placed,0.0,Low Risk
+ST1684,19,Male,Mechanical,5,70.0,3.9,7.5,79.6,66.5,76.3,52.9,1.2,5,2,Yes,2,Medium,52.9,80.4,70.4,61.2,Not Placed,0.0,Medium Risk
+ST1685,20,Female,Computer Engineering,3,81.5,1.2,6.3,65.2,72.1,64.4,77.9,2.5,1,2,No,2,Low,73.8,60.0,77.2,46.2,Not Placed,0.0,Medium Risk
+ST1686,18,Female,Mechanical,6,75.8,3.5,8.1,78.9,54.8,77.2,60.9,16.6,1,0,No,1,Low,100.0,93.4,71.1,51.3,Not Placed,0.0,Medium Risk
+ST1687,22,Male,Information Technology,5,51.1,4.0,8.1,46.2,78.4,54.8,39.8,8.2,2,3,No,1,Medium,70.2,63.0,37.8,48.1,Not Placed,0.0,High Risk
+ST1688,18,Male,Information Technology,3,52.6,3.8,8.5,91.7,75.4,68.9,64.8,6.8,2,0,Yes,0,Low,68.6,78.3,71.4,60.7,Not Placed,0.0,Medium Risk
+ST1689,18,Female,Computer Engineering,4,70.7,0.7,6.1,83.1,66.5,88.7,83.7,2.0,6,1,No,0,High,67.2,69.8,60.8,65.9,Placed,4.67,Low Risk
+ST1690,20,Male,Computer Engineering,3,83.5,2.2,7.5,57.0,73.5,71.3,64.6,10.2,1,4,No,2,Low,77.2,62.5,55.7,44.9,Placed,3.04,Medium Risk
+ST1691,22,Female,Electronics,3,45.0,3.4,7.7,57.3,78.3,73.8,94.3,10.7,5,2,No,0,High,68.8,76.2,88.6,63.2,Placed,2.51,Medium Risk
+ST1692,22,Female,Information Technology,6,72.0,4.3,6.5,95.1,65.4,78.2,76.0,2.5,1,4,Yes,0,Medium,74.0,96.2,52.1,58.8,Not Placed,0.0,Medium Risk
+ST1693,21,Female,Information Technology,5,71.7,0.5,6.2,66.2,56.8,87.2,74.7,7.3,0,2,Yes,1,High,65.9,71.8,53.9,56.8,Not Placed,0.0,Medium Risk
+ST1694,18,Female,Electronics,5,94.7,3.3,8.8,65.0,99.5,50.5,68.2,6.3,4,1,No,3,Low,55.5,97.7,31.1,49.1,Not Placed,0.0,High Risk
+ST1695,18,Male,Mechanical,6,73.4,3.7,7.3,47.8,67.8,79.6,69.0,9.3,0,2,No,1,Medium,100.0,65.3,90.0,48.5,Not Placed,0.0,High Risk
+ST1696,19,Male,Computer Engineering,3,82.6,4.8,7.7,70.8,74.7,68.5,66.3,2.4,6,0,No,0,Low,68.6,69.2,81.3,73.7,Placed,4.06,Low Risk
+ST1697,21,Male,Electronics,4,79.7,4.5,6.1,72.3,89.1,74.2,65.8,14.3,6,4,No,0,Low,100.0,49.6,61.7,76.3,Not Placed,0.0,Low Risk
+ST1698,19,Male,Computer Engineering,3,52.4,4.4,5.7,83.6,100.0,85.8,77.4,12.6,1,5,No,1,Medium,75.9,59.6,76.8,62.4,Not Placed,0.0,High Risk
+ST1699,19,Female,Mechanical,3,87.2,2.3,6.4,58.2,59.8,56.5,56.9,6.2,4,4,No,0,Medium,78.4,64.7,31.4,52.9,Not Placed,0.0,Low Risk
+ST1700,19,Female,Electronics,4,80.6,0.6,6.9,56.8,81.8,58.8,54.9,6.9,1,1,No,0,Low,65.7,63.1,74.6,51.6,Not Placed,0.0,Low Risk
+ST1701,20,Male,Civil,6,84.1,2.9,5.8,80.4,66.8,46.8,54.3,7.3,0,5,No,0,High,61.7,53.6,53.3,57.1,Not Placed,0.0,Low Risk
+ST1702,20,Female,Computer Engineering,5,100.0,5.0,7.0,87.1,69.0,64.9,98.0,4.1,0,4,Yes,1,Low,66.0,56.6,93.8,70.2,Placed,5.31,Low Risk
+ST1703,19,Female,Computer Engineering,6,53.0,5.6,5.1,56.1,66.6,89.3,77.4,5.8,5,1,Yes,0,Medium,58.3,63.7,72.9,59.4,Not Placed,0.0,Medium Risk
+ST1704,21,Female,Computer Engineering,6,98.7,4.6,5.8,88.0,61.4,70.4,74.3,6.6,5,3,No,0,Low,57.1,85.8,69.1,59.6,Not Placed,0.0,Low Risk
+ST1705,18,Male,Computer Engineering,3,74.6,4.1,7.7,75.5,75.5,54.6,55.2,16.1,0,0,No,0,Medium,95.0,45.6,53.9,54.7,Not Placed,0.0,Medium Risk
+ST1706,21,Male,Computer Engineering,5,81.4,4.1,7.7,88.1,56.8,65.7,78.7,12.7,4,2,Yes,0,Low,81.2,36.8,54.0,55.7,Not Placed,0.0,Low Risk
+ST1707,22,Male,Civil,5,77.5,2.7,6.6,74.2,88.3,52.7,68.4,12.7,6,2,Yes,0,High,91.0,41.6,76.5,64.9,Placed,4.91,Low Risk
+ST1708,20,Female,Computer Engineering,6,72.9,3.3,5.9,44.7,76.7,57.4,73.0,9.8,5,2,No,0,Medium,85.7,55.3,53.7,58.3,Not Placed,0.0,Medium Risk
+ST1709,18,Male,Computer Engineering,4,71.2,6.0,5.9,73.2,81.5,77.1,56.3,2.4,5,3,Yes,1,High,61.6,77.6,53.1,62.6,Not Placed,0.0,Medium Risk
+ST1710,18,Male,Mechanical,6,82.0,2.1,6.6,87.7,69.9,56.7,72.2,7.8,3,0,No,0,Low,48.4,62.7,89.5,57.9,Placed,2.33,Low Risk
+ST1711,22,Male,Information Technology,4,77.75,5.9,7.7,64.3,71.2,86.5,64.1,12.9,3,4,No,0,Medium,63.6,62.5,71.6,72.0,Placed,2.54,Low Risk
+ST1712,22,Male,Mechanical,5,87.0,3.0,8.0,70.3,79.7,71.1,59.3,1.7,5,4,Yes,0,Medium,71.3,62.1,49.5,68.3,Placed,3.74,Low Risk
+ST1713,19,Male,Computer Engineering,6,73.0,5.5,6.5,72.9,60.9,73.1,80.3,11.2,1,0,No,0,High,86.0,39.8,75.8,63.6,Not Placed,0.0,Medium Risk
+ST1714,20,Male,Information Technology,3,64.4,1.4,5.7,40.2,71.3,68.4,48.5,19.6,4,5,No,0,Medium,69.2,80.9,62.5,46.2,Not Placed,0.0,Medium Risk
+ST1715,20,Female,Computer Engineering,6,72.6,4.4,7.3,95.1,64.8,82.0,77.9,13.3,2,0,No,0,High,100.0,87.7,38.7,71.8,Not Placed,0.0,Low Risk
+ST1716,21,Female,Computer Engineering,5,93.1,2.4,6.1,64.2,64.4,82.2,79.6,15.1,5,2,Yes,0,Low,63.9,63.0,59.0,64.8,Placed,3.31,Low Risk
+ST1717,19,Male,Civil,3,71.6,1.4,6.4,81.1,48.6,76.4,57.7,9.1,3,4,Yes,5,Medium,78.3,69.3,50.2,37.5,Not Placed,0.0,High Risk
+ST1718,19,Male,Computer Engineering,3,82.3,3.8,8.5,74.0,93.4,79.3,58.5,12.8,4,0,No,0,Medium,61.6,69.8,71.1,63.5,Not Placed,0.0,Low Risk
+ST1719,19,Female,Information Technology,4,69.2,5.0,7.9,90.1,67.1,69.2,66.9,4.4,4,4,Yes,3,Low,75.7,52.0,56.5,58.8,Not Placed,0.0,High Risk
+ST1720,19,Female,Information Technology,3,87.1,2.2,7.2,79.9,91.1,79.0,73.9,12.0,3,0,Yes,0,Medium,68.2,61.4,68.5,70.8,Not Placed,0.0,Low Risk
+ST1721,20,Male,Information Technology,3,86.2,1.3,5.6,74.5,89.9,67.6,67.9,11.3,4,1,Yes,0,High,66.5,94.8,77.7,64.6,Not Placed,0.0,Low Risk
+ST1722,20,Male,Civil,6,100.0,3.4,7.2,64.3,59.3,72.0,76.1,9.4,4,2,Yes,2,High,61.3,67.9,100.0,62.6,Not Placed,0.0,Medium Risk
+ST1723,19,Male,Computer Engineering,5,77.75,3.4,8.2,84.6,61.9,68.4,94.7,14.6,3,0,Yes,0,Medium,72.1,71.4,98.7,61.4,Not Placed,0.0,Low Risk
+ST1724,21,Male,Electronics,4,86.0,4.3,6.6,52.5,100.0,66.1,62.9,5.3,0,3,Yes,0,High,81.7,57.6,70.6,60.0,Not Placed,0.0,Low Risk
+ST1725,18,Female,Civil,6,79.2,4.9,8.5,82.8,98.8,63.0,46.0,7.1,5,0,No,4,Medium,56.3,61.6,66.2,57.0,Not Placed,0.0,Medium Risk
+ST1726,18,Male,Electronics,3,93.6,3.4,8.4,61.8,75.6,78.1,81.6,8.5,1,1,No,0,Medium,69.3,77.7,57.5,64.3,Not Placed,0.0,Low Risk
+ST1727,21,Male,Civil,3,69.4,6.3,8.8,90.0,79.3,89.0,93.6,2.9,2,3,Yes,0,Low,76.9,55.4,40.7,66.5,Not Placed,0.0,Low Risk
+ST1728,19,Male,Computer Engineering,4,86.9,3.8,7.3,76.9,67.8,87.2,75.5,9.1,1,3,No,0,Medium,79.6,92.3,30.4,65.2,Not Placed,0.0,Low Risk
+ST1729,20,Male,Information Technology,5,75.7,3.0,7.6,82.7,81.6,55.7,54.8,0.0,0,0,Yes,3,Low,96.1,43.8,53.5,52.6,Not Placed,0.0,Medium Risk
+ST1730,18,Female,Computer Engineering,4,77.2,1.1,8.6,76.0,66.7,88.8,68.3,13.2,6,1,No,2,Low,78.1,58.5,93.2,53.4,Not Placed,0.0,Medium Risk
+ST1731,22,Female,Mechanical,6,79.1,3.1,7.5,54.0,49.6,67.9,54.3,8.2,0,3,Yes,0,Medium,64.4,45.8,92.6,59.7,Not Placed,0.0,Low Risk
+ST1732,22,Female,Civil,4,81.0,3.0,6.4,64.7,58.8,79.8,79.0,5.4,4,2,Yes,0,High,62.0,87.9,68.1,54.3,Placed,3.44,Low Risk
+ST1733,21,Male,Computer Engineering,3,76.6,4.9,6.5,83.1,76.3,60.2,51.1,3.8,1,5,No,2,Medium,61.9,67.5,74.4,51.4,Not Placed,0.0,Medium Risk
+ST1734,19,Male,Electronics,6,80.6,3.5,7.3,77.0,61.3,73.8,65.8,6.8,0,2,Yes,0,High,61.1,63.7,57.3,57.5,Not Placed,0.0,Low Risk
+ST1735,18,Female,Computer Engineering,3,96.9,1.7,5.6,89.2,75.1,76.1,55.9,11.4,1,4,No,0,High,73.0,74.0,66.5,67.0,Not Placed,0.0,Low Risk
+ST1736,19,Male,Electronics,5,89.8,3.8,6.8,79.8,62.0,52.7,71.8,10.7,0,4,Yes,1,Low,75.9,89.0,54.6,58.5,Placed,2.75,Medium Risk
+ST1737,18,Male,Information Technology,3,88.4,4.5,8.2,63.4,65.8,79.9,64.9,4.5,2,1,Yes,0,Medium,81.5,71.2,54.6,58.8,Placed,3.93,Low Risk
+ST1738,21,Female,Civil,3,72.5,5.8,4.6,65.4,87.1,89.5,72.5,3.8,0,3,No,1,Medium,79.3,85.1,76.8,54.5,Not Placed,0.0,Medium Risk
+ST1739,21,Female,Electronics,4,67.3,4.8,8.7,76.2,79.2,69.7,70.3,11.3,1,2,No,2,High,87.4,63.6,57.3,50.6,Not Placed,0.0,Medium Risk
+ST1740,22,Female,Information Technology,3,89.5,4.6,8.2,47.2,75.9,89.7,56.2,4.4,4,2,Yes,2,High,60.6,53.6,74.9,50.9,Not Placed,0.0,Medium Risk
+ST1741,19,Female,Computer Engineering,6,88.5,3.6,6.5,95.1,87.4,69.5,78.8,8.3,1,5,Yes,0,Medium,92.9,71.5,64.6,72.5,Not Placed,0.0,Low Risk
+ST1742,22,Male,Computer Engineering,6,95.7,4.1,7.6,80.3,82.2,83.0,69.3,8.6,3,1,Yes,0,Medium,61.2,57.5,89.7,64.8,Placed,4.92,Low Risk
+ST1743,19,Male,Computer Engineering,5,70.8,5.4,7.0,89.7,94.8,43.2,56.2,9.6,1,3,No,0,Medium,74.9,78.3,75.8,65.4,Not Placed,0.0,Low Risk
+ST1744,22,Female,Computer Engineering,6,75.2,1.5,8.4,56.0,70.0,100.0,98.0,12.3,2,1,No,0,Low,67.3,61.9,70.9,63.9,Not Placed,0.0,Low Risk
+ST1745,20,Male,Mechanical,4,58.3,3.0,8.1,89.9,70.4,91.4,76.7,1.7,5,0,Yes,0,Low,69.7,66.7,44.1,67.9,Not Placed,0.0,Medium Risk
+ST1746,20,Female,Electronics,5,73.3,2.3,5.5,100.0,59.1,68.3,67.9,0.0,2,2,No,0,Medium,79.4,34.4,59.2,54.3,Not Placed,0.0,Medium Risk
+ST1747,20,Female,Information Technology,6,90.0,4.1,7.6,59.1,70.4,46.4,89.8,5.2,2,1,Yes,0,High,49.9,66.1,66.2,62.9,Not Placed,0.0,Low Risk
+ST1748,20,Male,Computer Engineering,4,72.4,5.3,6.8,84.3,88.5,75.7,95.8,17.0,0,1,Yes,0,High,58.4,64.4,67.9,69.6,Not Placed,0.0,Low Risk
+ST1749,18,Female,Mechanical,6,85.7,2.6,7.1,75.0,92.9,53.2,68.0,18.1,2,5,Yes,0,Medium,80.5,85.4,77.6,62.3,Placed,3.32,Low Risk
+ST1750,20,Male,Electronics,6,75.7,0.5,6.2,56.5,88.5,77.8,74.9,17.2,1,0,No,1,Medium,70.0,81.1,70.3,53.9,Not Placed,0.0,Medium Risk
+ST1751,21,Male,Computer Engineering,3,81.9,2.9,8.9,80.9,52.7,77.4,56.2,7.0,5,4,Yes,1,High,66.4,68.4,50.5,61.3,Placed,3.33,Medium Risk
+ST1752,21,Male,Electronics,6,64.2,4.9,8.1,85.0,90.1,59.8,67.9,0.0,6,2,No,0,Medium,54.3,43.5,76.5,67.6,Not Placed,0.0,Low Risk
+ST1753,18,Male,Information Technology,6,79.0,4.3,6.2,67.8,52.1,86.6,67.2,0.0,4,5,No,1,Medium,66.5,61.4,59.6,58.9,Placed,4.53,Medium Risk
+ST1754,20,Female,Computer Engineering,4,45.0,4.1,5.5,89.0,87.7,82.5,72.6,4.9,6,1,Yes,1,Medium,79.5,85.5,56.6,57.5,Not Placed,0.0,High Risk
+ST1755,20,Male,Information Technology,4,75.8,3.1,6.6,55.0,71.2,84.7,74.7,7.0,2,2,Yes,0,Medium,62.1,65.0,49.4,56.6,Not Placed,0.0,Low Risk
+ST1756,20,Female,Information Technology,3,58.4,1.6,7.5,57.1,85.1,72.1,77.8,14.5,1,4,Yes,0,Medium,89.1,52.0,61.4,53.8,Not Placed,0.0,Medium Risk
+ST1757,22,Female,Computer Engineering,6,92.5,4.3,7.3,76.6,58.7,53.6,73.3,12.3,0,1,No,0,Medium,85.1,85.3,58.1,62.1,Not Placed,0.0,Low Risk
+ST1758,19,Female,Civil,3,87.3,2.2,8.4,75.3,91.2,84.7,53.0,9.1,0,0,No,0,High,65.1,43.6,85.6,62.1,Not Placed,0.0,Low Risk
+ST1759,22,Female,Mechanical,6,83.6,6.8,7.9,66.4,57.0,68.5,56.9,3.6,4,2,Yes,0,Low,61.7,66.3,62.7,57.6,Placed,4.63,Low Risk
+ST1760,19,Male,Electronics,5,96.3,4.4,8.1,84.7,67.3,53.9,62.4,3.2,4,5,Yes,5,Medium,31.3,76.4,75.5,50.6,Not Placed,0.0,Medium Risk
+ST1761,20,Male,Information Technology,5,66.6,2.6,7.4,81.4,63.0,89.6,66.0,9.3,1,0,Yes,0,Medium,54.9,69.9,38.2,55.4,Not Placed,0.0,Medium Risk
+ST1762,20,Female,Information Technology,3,99.0,2.6,5.5,85.3,53.2,99.3,84.7,11.5,4,4,Yes,1,Low,54.1,49.4,78.9,66.7,Placed,4.78,Low Risk
+ST1763,22,Female,Electronics,3,89.2,3.4,6.8,73.5,77.2,71.5,53.7,10.0,4,4,No,0,High,50.0,54.1,77.3,75.9,Placed,3.83,Low Risk
+ST1764,22,Male,Information Technology,3,75.2,3.1,8.2,82.2,99.5,100.0,65.0,2.8,0,2,Yes,0,Low,69.5,57.5,43.7,68.7,Not Placed,0.0,Low Risk
+ST1765,19,Female,Computer Engineering,4,91.6,5.2,6.9,69.7,100.0,73.2,83.3,11.3,1,4,Yes,0,Medium,74.4,79.8,53.1,77.8,Placed,4.21,Low Risk
+ST1766,21,Male,Information Technology,4,64.7,3.8,7.6,99.6,77.3,67.1,65.8,10.1,5,3,No,1,High,95.4,70.6,56.4,56.9,Placed,2.39,Medium Risk
+ST1767,19,Female,Mechanical,4,68.1,2.4,6.6,65.2,90.5,63.8,76.4,2.6,4,5,Yes,0,Low,70.9,62.2,63.8,58.6,Not Placed,0.0,Medium Risk
+ST1768,22,Male,Information Technology,3,70.7,6.3,5.9,100.0,79.0,93.3,68.0,4.1,1,2,No,0,High,41.5,74.1,55.7,76.7,Not Placed,0.0,Low Risk
+ST1769,22,Female,Computer Engineering,6,71.7,3.6,6.9,75.4,82.5,61.9,73.6,11.4,2,3,Yes,4,Medium,59.5,56.7,63.1,42.5,Not Placed,0.0,High Risk
+ST1770,18,Female,Mechanical,5,65.3,4.7,7.3,58.5,71.6,81.6,66.8,6.8,0,4,No,0,Low,78.5,79.1,77.5,57.1,Not Placed,0.0,Medium Risk
+ST1771,22,Male,Computer Engineering,3,92.7,2.6,6.3,91.4,78.5,64.7,79.3,15.9,5,2,Yes,0,High,68.9,74.8,58.1,70.4,Placed,4.63,Low Risk
+ST1772,18,Female,Computer Engineering,4,74.9,4.0,6.7,76.5,83.0,66.0,48.4,10.5,0,3,No,0,Low,82.0,64.6,71.8,58.7,Placed,2.86,Medium Risk
+ST1773,21,Female,Computer Engineering,4,82.2,4.0,6.0,85.2,68.5,85.4,64.9,5.6,0,4,Yes,1,Medium,62.8,65.6,69.8,58.5,Not Placed,0.0,Medium Risk
+ST1774,19,Male,Information Technology,3,71.2,0.7,8.2,89.7,75.0,67.1,74.2,7.9,3,1,No,0,Low,86.1,62.9,20.0,54.3,Not Placed,0.0,Medium Risk
+ST1775,19,Female,Mechanical,3,56.2,6.5,6.7,79.1,75.2,66.7,77.5,8.3,1,1,Yes,0,Low,73.4,82.9,54.1,63.7,Not Placed,0.0,Medium Risk
+ST1776,18,Male,Information Technology,4,81.2,5.4,8.6,67.9,86.7,86.7,90.9,4.4,2,0,No,0,High,73.8,71.2,82.8,62.5,Not Placed,0.0,Low Risk
+ST1777,19,Male,Computer Engineering,6,55.1,2.9,8.7,86.7,62.1,92.8,64.5,3.4,4,1,Yes,0,Medium,72.1,64.8,52.7,58.7,Placed,3.96,Medium Risk
+ST1778,22,Female,Mechanical,4,77.2,1.8,6.9,75.0,75.3,80.4,90.7,11.5,2,3,No,1,Low,59.3,53.4,49.9,62.8,Not Placed,0.0,Medium Risk
+ST1779,20,Female,Mechanical,4,61.6,4.0,5.9,83.2,100.0,63.5,60.8,12.2,1,5,No,1,Medium,69.2,76.8,83.6,56.5,Not Placed,0.0,Medium Risk
+ST1780,18,Female,Mechanical,3,100.0,3.6,4.7,49.2,91.1,65.4,88.6,11.0,0,1,No,0,Medium,74.1,76.1,69.5,57.9,Not Placed,0.0,Low Risk
+ST1781,19,Female,Computer Engineering,6,88.9,4.0,5.4,80.4,93.5,73.0,81.4,15.6,3,2,No,0,High,50.4,60.1,90.3,67.6,Not Placed,0.0,Low Risk
+ST1782,18,Female,Information Technology,4,79.3,3.8,5.5,67.3,76.3,76.2,57.2,5.3,1,2,Yes,0,Medium,71.1,61.7,59.6,59.6,Not Placed,0.0,Low Risk
+ST1783,18,Female,Civil,4,93.2,4.3,8.5,94.8,80.2,59.2,74.3,16.4,5,2,Yes,1,High,87.0,66.2,86.2,62.0,Not Placed,0.0,Medium Risk
+ST1784,20,Female,Mechanical,5,67.8,5.7,7.1,82.5,89.0,81.4,69.3,3.5,5,1,No,0,Medium,76.1,50.7,52.8,68.7,Placed,3.12,Low Risk
+ST1785,22,Male,Computer Engineering,3,84.5,4.4,7.4,77.9,96.3,73.1,78.8,2.9,1,1,Yes,0,Medium,89.1,69.1,25.9,69.0,Not Placed,0.0,Low Risk
+ST1786,18,Female,Computer Engineering,5,80.4,1.9,4.6,80.8,50.6,49.7,66.9,0.0,4,0,Yes,5,High,75.7,43.3,77.8,47.0,Not Placed,0.0,High Risk
+ST1787,19,Male,Information Technology,5,81.2,5.5,5.7,63.0,58.9,59.9,65.7,5.8,2,5,Yes,0,Low,57.4,48.8,76.2,59.0,Not Placed,0.0,Low Risk
+ST1788,21,Female,Civil,4,93.3,6.0,8.0,94.5,93.0,65.4,89.2,5.5,2,5,Yes,5,Low,81.1,60.4,77.8,63.1,Not Placed,0.0,Medium Risk
+ST1789,18,Female,Information Technology,3,86.8,8.2,7.3,98.9,72.4,71.1,68.6,10.6,4,4,No,0,Medium,54.0,58.6,63.7,72.4,Placed,4.19,Low Risk
+ST1790,18,Male,Information Technology,6,81.5,1.8,6.8,79.7,67.3,96.6,81.6,9.2,3,0,No,0,Low,67.1,74.8,90.5,61.4,Not Placed,0.0,Low Risk
+ST1791,20,Female,Computer Engineering,4,58.1,3.9,7.6,94.1,59.7,75.1,66.8,2.0,0,3,No,0,Low,66.1,72.2,80.8,60.3,Not Placed,0.0,Medium Risk
+ST1792,22,Female,Electronics,6,66.5,0.5,8.8,68.2,68.8,61.1,93.3,6.0,6,2,Yes,0,Medium,60.5,88.6,80.2,53.4,Placed,3.67,Medium Risk
+ST1793,21,Male,Mechanical,6,76.5,4.3,6.8,65.4,57.8,74.9,60.5,6.1,6,1,No,0,Medium,100.0,69.4,68.9,64.5,Placed,4.54,Low Risk
+ST1794,19,Female,Information Technology,3,79.1,2.7,7.1,75.5,100.0,67.4,61.4,0.0,0,4,No,0,Medium,69.0,71.1,45.4,60.7,Not Placed,0.0,Low Risk
+ST1795,21,Female,Mechanical,5,64.4,6.4,7.2,80.2,75.7,76.2,91.3,3.1,5,4,No,4,Medium,95.3,50.6,68.1,52.6,Not Placed,0.0,High Risk
+ST1796,19,Female,Civil,3,100.0,2.3,9.6,70.3,75.2,79.5,63.8,4.1,3,1,No,0,Low,74.8,50.6,72.8,60.9,Placed,3.95,Low Risk
+ST1797,22,Male,Computer Engineering,6,96.2,1.0,4.7,81.5,83.6,87.7,92.4,15.2,4,0,No,1,Medium,58.5,69.0,99.5,78.3,Not Placed,0.0,Low Risk
+ST1798,19,Female,Information Technology,4,85.2,2.8,7.8,78.7,88.5,71.7,82.5,9.0,6,4,Yes,1,Medium,64.3,69.2,71.3,64.4,Not Placed,0.0,Medium Risk
+ST1799,20,Female,Computer Engineering,6,78.9,0.5,6.9,63.0,88.3,93.3,67.8,11.3,1,5,Yes,1,Low,69.5,72.3,50.3,48.5,Placed,3.08,Medium Risk
+ST1800,20,Female,Mechanical,4,75.5,4.6,7.6,81.2,90.0,83.8,44.6,0.5,2,0,Yes,1,High,65.2,87.0,74.5,56.3,Not Placed,0.0,Medium Risk
+ST1801,20,Female,Electronics,4,66.6,0.5,6.3,85.4,67.8,62.8,69.7,14.0,1,1,No,0,Medium,66.2,51.2,87.1,48.7,Not Placed,0.0,Medium Risk
+ST1802,20,Male,Electronics,3,78.9,3.5,6.9,77.1,72.1,100.0,71.4,14.5,2,0,No,0,High,78.0,93.3,94.3,61.4,Placed,2.97,Low Risk
+ST1803,21,Male,Mechanical,6,81.1,0.5,7.8,88.8,86.0,76.3,86.3,0.0,1,5,No,0,Low,75.1,45.6,65.3,55.8,Not Placed,0.0,Low Risk
+ST1804,22,Female,Information Technology,5,63.1,3.0,10.0,60.4,69.1,61.1,92.2,4.5,4,2,No,0,Medium,79.7,73.6,63.8,63.5,Not Placed,0.0,Medium Risk
+ST1805,19,Female,Civil,6,82.0,6.0,7.9,80.6,75.9,93.5,60.4,10.5,4,1,No,0,Medium,91.4,49.3,44.4,74.1,Placed,3.43,Low Risk
+ST1806,19,Male,Information Technology,6,76.1,4.0,6.1,61.0,81.2,99.0,81.2,11.2,3,5,No,0,High,63.4,78.9,57.3,65.7,Not Placed,0.0,Low Risk
+ST1807,20,Male,Computer Engineering,5,55.1,2.2,6.5,61.6,86.2,71.6,80.7,4.6,1,1,No,3,Medium,85.6,45.7,73.9,43.9,Not Placed,0.0,High Risk
+ST1808,20,Female,Electronics,3,67.7,3.5,6.5,67.4,52.9,65.5,85.0,6.5,1,5,Yes,3,High,89.5,27.0,42.6,46.9,Not Placed,0.0,High Risk
+ST1809,18,Male,Mechanical,6,73.0,3.5,5.0,63.7,85.3,69.8,77.0,5.0,3,5,Yes,0,Medium,88.1,70.2,99.8,70.1,Placed,5.09,Low Risk
+ST1810,22,Female,Information Technology,6,100.0,4.2,6.6,68.4,73.0,81.3,42.8,8.6,3,4,Yes,0,Medium,45.4,66.1,61.3,61.3,Not Placed,0.0,Low Risk
+ST1811,21,Male,Mechanical,4,84.7,1.4,7.8,72.4,85.2,88.6,67.8,14.0,4,4,No,0,High,95.2,84.6,68.9,55.8,Not Placed,0.0,Low Risk
+ST1812,19,Male,Civil,6,62.0,4.4,5.6,85.0,86.1,79.4,53.8,4.1,4,4,No,0,Medium,61.1,69.2,72.5,65.9,Placed,3.15,Low Risk
+ST1813,18,Male,Computer Engineering,5,83.8,0.5,8.2,71.1,96.9,73.3,67.2,13.0,5,2,No,0,Medium,44.2,56.8,85.1,66.6,Placed,3.3,Low Risk
+ST1814,18,Male,Civil,4,59.4,2.6,7.5,56.0,93.6,91.5,83.7,4.1,1,2,No,3,Low,94.8,59.9,71.3,59.2,Not Placed,0.0,High Risk
+ST1815,19,Female,Computer Engineering,3,91.0,2.8,6.2,88.7,93.5,67.9,74.3,3.8,4,5,Yes,0,High,77.2,100.0,49.9,66.2,Placed,3.95,Low Risk
+ST1816,21,Male,Computer Engineering,4,72.3,4.4,6.8,65.0,94.8,85.4,86.1,12.1,6,3,Yes,0,Medium,77.8,54.9,73.7,67.4,Placed,3.96,Low Risk
+ST1817,18,Male,Computer Engineering,5,76.9,3.5,8.8,74.3,79.8,68.3,74.8,12.6,4,1,No,0,Medium,65.4,75.9,85.0,73.0,Not Placed,0.0,Low Risk
+ST1818,18,Female,Civil,5,93.9,1.4,7.8,80.4,76.4,77.6,51.8,12.3,1,4,No,5,Low,72.5,74.0,52.7,51.2,Not Placed,0.0,Medium Risk
+ST1819,22,Male,Electronics,4,62.6,2.0,7.0,77.4,87.3,70.5,34.7,1.4,3,1,Yes,3,Medium,68.0,76.2,79.8,45.9,Not Placed,0.0,High Risk
+ST1820,21,Male,Computer Engineering,3,61.2,3.8,6.7,88.1,85.5,71.3,72.1,5.7,1,5,No,1,Medium,61.3,75.0,71.1,60.8,Not Placed,0.0,Medium Risk
+ST1821,18,Female,Information Technology,4,71.0,3.4,7.1,80.7,72.0,67.1,67.0,12.1,6,0,Yes,0,Medium,70.3,64.0,68.5,59.0,Placed,4.8,Medium Risk
+ST1822,21,Male,Electronics,3,90.5,2.6,6.4,64.7,81.3,89.5,56.3,8.2,0,5,No,0,Medium,71.6,41.6,56.8,63.8,Not Placed,0.0,Low Risk
+ST1823,19,Female,Computer Engineering,4,59.8,2.8,4.7,100.0,75.5,62.5,46.2,2.6,1,2,No,0,Low,51.5,70.3,63.4,56.2,Not Placed,0.0,Medium Risk
+ST1824,20,Female,Civil,5,45.0,4.5,9.2,77.3,64.9,62.4,59.7,10.3,0,3,Yes,0,Medium,70.8,67.8,74.0,55.8,Not Placed,0.0,Medium Risk
+ST1825,18,Female,Mechanical,6,72.6,2.7,7.2,73.2,92.8,99.6,67.3,4.4,1,0,No,1,Medium,45.0,69.9,60.2,56.6,Not Placed,0.0,Medium Risk
+ST1826,22,Female,Information Technology,6,84.6,3.4,7.4,86.6,76.7,84.7,79.3,17.0,6,1,No,0,Low,96.9,76.5,51.3,71.3,Placed,4.61,Low Risk
+ST1827,19,Male,Civil,3,92.4,6.8,6.9,78.0,100.0,41.0,72.6,15.7,0,2,No,0,Medium,68.6,61.8,50.7,63.9,Not Placed,0.0,Low Risk
+ST1828,21,Female,Information Technology,3,72.4,1.4,6.2,79.8,54.9,64.7,92.5,11.0,0,4,No,1,Medium,55.0,58.7,71.5,61.4,Not Placed,0.0,Medium Risk
+ST1829,19,Male,Civil,3,73.1,0.7,6.8,100.0,68.8,48.4,55.5,14.8,6,0,Yes,0,High,77.2,81.5,74.8,52.9,Not Placed,0.0,Medium Risk
+ST1830,18,Male,Electronics,5,91.8,4.7,5.2,71.7,76.4,59.6,82.3,8.3,1,2,No,1,Low,59.5,63.1,65.9,54.7,Not Placed,0.0,Medium Risk
+ST1831,21,Male,Electronics,4,55.6,2.5,9.5,71.2,90.8,31.2,70.7,11.8,5,1,No,0,Low,69.6,60.6,96.0,66.4,Not Placed,0.0,Medium Risk
+ST1832,20,Male,Computer Engineering,5,73.3,3.0,5.6,76.4,81.2,70.2,79.7,15.4,4,5,No,0,Medium,76.4,59.3,39.8,60.0,Placed,4.59,Medium Risk
+ST1833,19,Male,Civil,6,80.3,2.3,5.9,87.9,80.0,57.2,63.9,9.2,2,1,Yes,0,Medium,55.8,76.9,73.1,59.9,Placed,2.77,Low Risk
+ST1834,18,Male,Information Technology,3,83.4,3.1,6.5,56.9,61.3,72.8,85.0,6.7,4,0,No,3,Low,97.3,64.9,37.5,44.4,Not Placed,0.0,High Risk
+ST1835,22,Male,Computer Engineering,4,71.9,5.9,8.4,51.4,61.0,50.9,74.1,0.0,0,0,No,0,High,98.6,100.0,65.3,55.4,Not Placed,0.0,Medium Risk
+ST1836,21,Male,Computer Engineering,6,78.4,4.7,7.0,68.0,80.2,73.1,60.5,7.6,1,5,No,0,Medium,62.6,68.9,71.0,70.6,Placed,3.88,Low Risk
+ST1837,19,Male,Electronics,6,48.1,4.8,5.6,55.4,58.3,66.6,69.8,12.1,1,0,Yes,0,Medium,54.3,49.9,64.2,55.0,Not Placed,0.0,Medium Risk
+ST1838,19,Male,Information Technology,6,70.1,1.4,8.4,69.9,69.1,91.5,66.6,12.7,1,3,Yes,1,Medium,62.6,61.4,35.8,45.6,Not Placed,0.0,High Risk
+ST1839,20,Female,Electronics,5,83.4,1.8,7.8,81.0,82.5,90.3,76.8,10.5,1,4,Yes,2,High,63.3,77.8,65.5,55.4,Not Placed,0.0,Medium Risk
+ST1840,20,Female,Civil,3,66.2,0.5,7.6,64.3,63.2,82.2,53.5,5.3,5,2,No,0,Low,85.5,59.0,67.0,56.2,Not Placed,0.0,Medium Risk
+ST1841,22,Female,Computer Engineering,6,78.7,2.3,7.8,57.9,96.9,67.8,69.6,0.0,2,5,No,0,Low,62.8,67.7,81.4,62.6,Not Placed,0.0,Low Risk
+ST1842,22,Male,Mechanical,3,83.4,4.9,9.6,75.8,91.9,97.8,75.5,5.5,3,1,No,4,Low,53.7,82.7,44.2,59.7,Not Placed,0.0,Medium Risk
+ST1843,18,Female,Computer Engineering,5,73.9,4.3,9.4,85.4,55.6,51.8,70.5,6.5,0,1,No,1,Medium,71.4,84.9,90.1,56.1,Not Placed,0.0,Medium Risk
+ST1844,18,Female,Mechanical,6,80.0,3.2,6.2,54.7,63.9,53.8,88.9,6.4,2,4,No,1,High,49.1,60.1,26.7,48.1,Not Placed,0.0,Medium Risk
+ST1845,22,Female,Mechanical,5,66.4,3.5,8.8,84.8,46.3,70.9,80.8,11.1,4,0,Yes,0,Medium,85.0,64.1,46.3,51.6,Not Placed,0.0,Medium Risk
+ST1846,22,Male,Information Technology,5,75.5,2.5,7.4,84.8,65.8,100.0,69.9,17.9,3,0,Yes,0,Low,78.4,69.5,69.8,51.4,Not Placed,0.0,Low Risk
+ST1847,21,Male,Electronics,3,85.3,3.8,7.5,86.4,86.0,69.4,73.0,8.6,3,1,No,1,Low,61.6,88.1,72.0,69.1,Placed,3.35,Low Risk
+ST1848,20,Male,Information Technology,6,79.9,4.6,5.1,89.6,70.6,69.6,74.1,6.9,1,4,No,0,Medium,63.1,51.5,91.2,64.0,Not Placed,0.0,Low Risk
+ST1849,18,Male,Information Technology,5,71.0,1.1,6.8,100.0,82.0,53.3,75.6,6.7,2,1,No,0,Low,73.5,73.4,70.1,57.5,Not Placed,0.0,Medium Risk
+ST1850,20,Female,Mechanical,6,80.7,3.9,6.1,70.7,56.2,84.3,44.4,8.6,4,0,No,0,High,54.6,68.8,65.4,44.4,Not Placed,0.0,Medium Risk
+ST1851,20,Female,Information Technology,3,86.6,4.9,7.9,76.3,86.4,84.4,65.8,3.9,1,5,No,0,Low,69.45,54.5,74.1,68.0,Not Placed,0.0,Low Risk
+ST1852,22,Female,Information Technology,5,53.4,2.9,8.2,70.0,68.8,82.3,49.2,8.6,1,2,Yes,2,Low,66.8,86.6,29.5,50.1,Not Placed,0.0,High Risk
+ST1853,21,Female,Information Technology,3,91.9,4.6,4.7,75.0,76.2,63.8,87.9,10.3,6,0,No,3,Low,51.5,82.9,50.9,51.5,Not Placed,0.0,Medium Risk
+ST1854,19,Male,Mechanical,6,74.0,7.7,7.0,93.4,74.8,62.8,69.1,9.0,6,5,No,0,High,63.6,91.1,48.2,71.2,Placed,4.42,Low Risk
+ST1855,21,Male,Information Technology,6,83.1,3.3,8.2,58.9,59.5,55.2,67.3,10.3,6,2,No,1,Medium,55.0,85.7,82.2,54.8,Placed,3.46,Medium Risk
+ST1856,21,Male,Computer Engineering,3,92.4,4.1,6.8,64.7,61.0,73.1,82.6,10.2,5,3,Yes,1,High,90.0,68.2,87.8,60.7,Not Placed,0.0,Medium Risk
+ST1857,20,Female,Electronics,4,61.5,2.4,7.8,91.5,88.6,58.0,75.9,0.0,0,4,No,3,Medium,64.4,77.3,96.8,56.0,Not Placed,0.0,High Risk
+ST1858,21,Male,Mechanical,5,69.5,3.8,7.4,87.2,81.2,56.7,54.2,11.2,3,5,Yes,1,Low,56.7,73.0,76.1,62.2,Placed,2.0,Medium Risk
+ST1859,18,Male,Computer Engineering,6,74.5,4.2,7.4,70.6,89.7,66.5,69.0,4.6,4,3,Yes,4,Medium,79.4,54.4,81.3,70.0,Not Placed,0.0,Medium Risk
+ST1860,20,Female,Computer Engineering,6,68.6,3.8,6.7,85.3,80.2,65.6,65.3,2.5,3,0,No,4,Medium,61.2,48.4,68.5,44.7,Not Placed,0.0,High Risk
+ST1861,18,Female,Computer Engineering,5,98.8,2.0,5.7,79.1,77.9,65.0,45.6,2.5,2,4,Yes,0,Medium,54.6,73.5,59.0,62.7,Not Placed,0.0,Low Risk
+ST1862,19,Male,Information Technology,3,67.7,3.8,5.8,93.0,53.6,78.1,60.3,10.2,0,5,No,1,Medium,82.4,69.4,49.7,62.9,Not Placed,0.0,Medium Risk
+ST1863,20,Male,Information Technology,3,71.3,5.7,7.8,75.9,72.5,73.0,67.4,6.9,1,0,No,0,Low,65.5,63.0,48.3,59.5,Not Placed,0.0,Medium Risk
+ST1864,19,Male,Mechanical,3,80.5,4.2,7.0,87.3,75.6,68.3,68.4,0.0,0,4,No,0,Low,81.8,66.6,45.1,71.2,Placed,3.17,Low Risk
+ST1865,20,Male,Electronics,4,63.6,4.9,6.8,100.0,100.0,74.4,49.2,10.4,1,4,No,0,Medium,69.8,94.5,78.7,67.0,Placed,2.47,Low Risk
+ST1866,22,Male,Electronics,4,73.3,3.1,6.5,82.2,84.9,59.1,86.1,0.8,6,0,Yes,0,Medium,71.8,35.3,60.4,54.6,Placed,4.48,Medium Risk
+ST1867,21,Male,Information Technology,6,81.8,4.6,6.7,75.6,96.0,73.4,68.6,8.7,0,0,No,2,High,77.9,77.6,55.4,54.9,Not Placed,0.0,Medium Risk
+ST1868,22,Female,Mechanical,3,74.0,3.9,8.2,83.7,83.8,74.0,70.5,9.2,1,5,No,0,Medium,61.1,80.6,34.6,60.5,Not Placed,0.0,Medium Risk
+ST1869,19,Female,Information Technology,5,76.9,2.1,6.6,70.6,66.8,52.5,75.6,12.4,3,4,No,2,High,58.7,82.5,52.4,50.1,Not Placed,0.0,Medium Risk
+ST1870,21,Female,Civil,6,71.6,4.0,5.5,100.0,77.5,84.9,59.0,16.9,6,5,No,1,Medium,86.8,47.3,62.4,71.1,Not Placed,0.0,Medium Risk
+ST1871,20,Male,Electronics,5,59.8,2.0,7.8,77.2,79.1,60.5,76.4,1.2,6,4,No,1,Low,78.1,63.6,42.4,53.3,Not Placed,0.0,High Risk
+ST1872,21,Female,Computer Engineering,6,81.9,2.6,6.8,71.7,63.8,73.2,64.9,7.7,6,5,Yes,0,High,69.1,62.9,100.0,66.4,Placed,4.66,Low Risk
+ST1873,18,Male,Electronics,4,99.1,3.8,7.0,65.0,71.0,87.1,57.4,6.6,3,0,Yes,0,Medium,81.1,72.4,45.6,66.7,Not Placed,0.0,Low Risk
+ST1874,21,Male,Information Technology,6,78.2,3.9,8.8,88.2,73.3,84.0,78.0,10.2,3,0,Yes,0,Medium,77.6,51.1,85.4,66.7,Not Placed,0.0,Low Risk
+ST1875,18,Female,Electronics,4,80.7,1.7,7.0,85.4,96.9,72.4,90.9,9.1,3,1,No,0,Medium,83.2,73.7,65.1,64.3,Not Placed,0.0,Low Risk
+ST1876,21,Male,Computer Engineering,6,86.3,5.1,7.3,69.0,49.0,67.3,80.1,6.2,6,5,No,2,Medium,54.0,54.7,57.9,64.0,Not Placed,0.0,Medium Risk
+ST1877,18,Male,Computer Engineering,3,62.8,4.4,5.7,81.9,91.7,84.3,82.9,5.8,0,1,No,1,Medium,69.1,63.5,63.0,62.9,Not Placed,0.0,Medium Risk
+ST1878,19,Female,Mechanical,5,98.4,2.4,6.8,56.9,63.8,80.8,62.7,2.4,1,1,No,0,High,85.8,88.2,67.2,56.3,Not Placed,0.0,Low Risk
+ST1879,22,Female,Computer Engineering,3,80.4,1.2,7.7,77.2,58.2,64.0,47.6,12.9,3,3,No,2,Medium,93.5,80.6,70.6,49.8,Not Placed,0.0,Medium Risk
+ST1880,20,Female,Mechanical,6,97.6,3.3,5.3,80.4,91.3,61.7,90.9,10.3,0,4,Yes,0,Medium,62.5,69.9,51.3,65.8,Placed,3.93,Low Risk
+ST1881,21,Male,Computer Engineering,6,69.2,2.8,7.2,95.5,85.5,45.1,98.0,12.6,1,2,Yes,0,Medium,72.2,47.1,75.9,58.4,Not Placed,0.0,Medium Risk
+ST1882,22,Female,Electronics,6,99.8,3.7,7.1,65.8,92.3,74.0,91.6,6.4,6,3,No,1,Low,70.3,73.0,62.5,75.7,Placed,5.04,Low Risk
+ST1883,20,Female,Electronics,4,87.3,3.0,7.0,59.7,86.4,70.9,65.3,4.7,0,4,Yes,0,Medium,52.6,74.0,45.7,59.8,Not Placed,0.0,Low Risk
+ST1884,20,Male,Information Technology,5,84.6,0.5,8.1,64.3,100.0,86.8,53.8,2.6,6,2,No,1,Low,66.0,36.5,60.2,70.1,Not Placed,0.0,Low Risk
+ST1885,18,Female,Information Technology,5,80.8,2.9,7.4,59.0,83.3,76.7,55.1,9.8,5,1,Yes,1,Medium,47.9,73.3,89.7,62.2,Placed,5.19,Medium Risk
+ST1886,19,Female,Computer Engineering,6,75.0,3.0,8.6,91.0,74.0,89.3,46.4,2.8,3,2,Yes,1,High,67.7,51.9,70.5,55.6,Not Placed,0.0,Medium Risk
+ST1887,19,Female,Computer Engineering,6,92.4,4.5,5.9,93.6,80.5,62.9,68.5,17.2,2,0,No,0,Medium,55.5,45.8,67.1,64.3,Not Placed,0.0,Low Risk
+ST1888,22,Male,Information Technology,4,79.7,2.5,7.1,78.8,92.2,86.8,92.5,1.5,0,0,Yes,0,Low,72.4,51.2,60.6,59.7,Not Placed,0.0,Low Risk
+ST1889,19,Male,Electronics,3,54.4,6.0,7.1,89.7,65.9,65.1,68.0,9.4,3,5,No,0,Medium,65.7,35.6,61.9,63.7,Not Placed,0.0,Medium Risk
+ST1890,21,Male,Civil,3,64.6,3.5,5.8,76.6,67.5,82.1,74.2,15.8,4,4,Yes,4,High,65.4,61.9,70.5,41.4,Not Placed,0.0,High Risk
+ST1891,19,Male,Mechanical,5,75.8,5.5,8.1,73.9,72.0,53.0,89.3,11.0,1,3,No,0,Medium,91.7,52.9,62.8,51.6,Not Placed,0.0,Low Risk
+ST1892,22,Female,Mechanical,4,81.7,3.2,9.6,71.0,48.6,75.1,64.3,8.9,5,1,No,0,High,71.0,85.1,74.3,50.7,Placed,3.42,Low Risk
+ST1893,19,Male,Mechanical,6,77.3,4.8,7.0,71.3,77.8,46.2,98.0,3.2,3,4,No,2,Medium,96.3,62.6,72.2,52.5,Not Placed,0.0,Medium Risk
+ST1894,21,Male,Electronics,5,92.6,3.6,7.6,56.4,51.5,68.5,97.9,1.1,4,1,No,1,Low,76.2,57.2,47.9,61.4,Not Placed,0.0,Medium Risk
+ST1895,18,Female,Computer Engineering,4,54.6,5.2,7.1,78.2,76.7,77.7,68.2,11.9,0,0,Yes,2,Low,81.4,44.1,75.4,54.4,Not Placed,0.0,High Risk
+ST1896,22,Female,Civil,3,79.7,2.9,6.2,74.5,87.2,65.2,61.9,15.5,0,3,Yes,4,Medium,57.8,61.6,51.7,54.7,Not Placed,0.0,Medium Risk
+ST1897,18,Female,Electronics,4,56.2,1.9,5.0,83.9,69.8,58.3,79.8,5.8,4,3,Yes,0,Medium,60.3,88.3,51.1,49.5,Placed,2.17,High Risk
+ST1898,18,Male,Electronics,3,87.1,5.6,6.2,76.1,97.8,83.0,65.1,2.3,5,0,No,0,High,70.2,91.2,66.6,71.2,Not Placed,0.0,Low Risk
+ST1899,18,Male,Computer Engineering,4,76.9,3.3,5.5,73.0,57.0,70.7,53.8,0.0,4,2,No,0,Medium,87.0,62.5,71.1,65.6,Placed,2.54,Low Risk
+ST1900,20,Male,Information Technology,5,83.0,3.8,8.9,64.5,91.5,65.6,87.9,3.1,1,3,Yes,0,Medium,64.9,67.0,76.8,62.6,Not Placed,0.0,Low Risk
+ST1901,20,Female,Information Technology,3,67.6,5.4,6.9,75.9,84.8,72.5,87.0,7.4,0,2,No,1,Low,50.0,78.5,32.5,63.4,Not Placed,0.0,Medium Risk
+ST1902,18,Female,Mechanical,5,93.4,2.0,6.6,83.9,53.7,100.0,72.2,16.0,4,1,Yes,0,Medium,75.6,52.6,79.6,62.5,Placed,3.19,Low Risk
+ST1903,22,Male,Information Technology,5,90.5,4.4,8.0,61.3,100.0,87.0,52.3,11.4,2,3,Yes,1,Low,70.9,73.5,73.6,64.5,Not Placed,0.0,Medium Risk
+ST1904,21,Female,Information Technology,3,85.0,2.6,5.8,76.0,75.2,87.1,52.8,9.5,2,5,No,0,Medium,62.3,100.0,55.4,64.4,Not Placed,0.0,Low Risk
+ST1905,21,Female,Civil,3,76.4,3.3,6.2,77.8,64.6,77.7,71.5,6.0,4,0,Yes,0,Low,64.8,79.5,63.2,64.7,Placed,4.29,Low Risk
+ST1906,19,Female,Computer Engineering,6,85.0,3.6,7.1,66.4,57.7,74.2,63.0,5.1,1,2,No,1,Low,57.8,79.0,70.2,56.8,Not Placed,0.0,Medium Risk
+ST1907,22,Male,Information Technology,6,69.5,1.2,8.1,67.9,73.1,40.9,65.2,15.0,0,5,No,0,Low,82.9,88.2,20.0,47.5,Not Placed,0.0,Medium Risk
+ST1908,20,Female,Computer Engineering,6,88.3,2.3,7.6,77.8,74.3,63.2,84.3,9.0,2,1,No,1,Low,70.3,81.6,47.0,60.2,Not Placed,0.0,Medium Risk
+ST1909,18,Female,Mechanical,5,97.8,5.5,7.3,61.4,77.3,65.8,80.3,0.0,4,1,No,5,Medium,73.4,64.2,85.6,52.7,Not Placed,0.0,Medium Risk
+ST1910,19,Male,Civil,5,90.8,4.8,7.1,79.2,72.1,47.6,89.3,4.6,6,3,No,2,Low,61.7,50.3,57.4,61.0,Not Placed,0.0,Medium Risk
+ST1911,21,Male,Computer Engineering,6,69.2,3.4,7.4,64.3,84.2,57.0,56.1,3.7,4,3,No,0,High,88.7,66.0,65.6,58.3,Not Placed,0.0,Medium Risk
+ST1912,20,Female,Mechanical,5,82.3,3.9,7.2,87.8,71.0,46.2,65.2,5.3,3,5,Yes,3,Medium,69.45,53.5,65.1,57.8,Not Placed,0.0,Medium Risk
+ST1913,20,Female,Computer Engineering,5,62.5,3.1,5.9,100.0,50.8,71.5,80.6,10.8,4,4,No,0,Medium,40.0,63.8,78.4,54.5,Placed,4.03,Medium Risk
+ST1914,18,Male,Civil,3,84.9,5.5,7.1,64.7,74.1,82.6,76.3,7.5,1,4,Yes,1,Medium,76.4,54.9,60.5,63.4,Not Placed,0.0,Medium Risk
+ST1915,21,Male,Mechanical,3,83.4,3.2,5.8,81.4,45.2,86.4,91.5,7.6,2,3,Yes,0,Medium,66.3,62.2,61.8,57.8,Not Placed,0.0,Low Risk
+ST1916,22,Female,Mechanical,5,55.6,3.8,7.1,66.3,80.6,77.4,75.9,14.6,3,4,No,0,Low,67.7,45.7,70.0,56.7,Not Placed,0.0,Medium Risk
+ST1917,20,Female,Computer Engineering,6,64.1,5.2,6.5,87.5,63.3,59.5,95.9,4.5,2,0,No,5,High,83.9,57.6,80.5,54.5,Not Placed,0.0,High Risk
+ST1918,18,Female,Civil,4,74.6,2.3,9.8,59.8,78.1,46.9,77.6,17.3,2,5,Yes,0,Medium,71.2,74.1,85.6,52.2,Placed,2.13,Medium Risk
+ST1919,22,Female,Electronics,6,74.4,5.8,7.0,80.8,93.1,49.2,84.9,4.6,1,0,Yes,2,Low,94.0,77.9,61.9,60.2,Not Placed,0.0,Medium Risk
+ST1920,21,Male,Information Technology,4,63.5,1.2,5.5,64.5,63.7,55.5,65.5,8.4,4,4,Yes,0,Medium,71.5,74.6,59.1,43.3,Placed,4.34,Medium Risk
+ST1921,20,Female,Mechanical,6,82.7,5.9,6.9,72.5,89.8,60.4,70.2,6.6,1,3,Yes,2,Medium,63.5,62.4,64.7,58.6,Placed,3.9,Medium Risk
+ST1922,22,Female,Computer Engineering,3,81.0,2.9,7.6,62.6,70.4,69.9,82.8,8.6,4,0,No,4,Low,44.6,69.9,88.4,43.2,Not Placed,0.0,High Risk
+ST1923,22,Male,Mechanical,5,75.7,3.1,8.8,84.9,98.8,58.8,92.6,10.2,3,1,Yes,0,High,59.9,97.2,79.5,67.1,Not Placed,0.0,Low Risk
+ST1924,22,Female,Computer Engineering,5,68.9,0.7,6.4,65.0,71.3,76.4,80.2,10.2,1,3,No,1,Low,65.5,57.2,59.3,53.3,Not Placed,0.0,Medium Risk
+ST1925,20,Male,Electronics,3,90.6,2.8,5.3,81.6,65.1,69.0,68.8,4.2,1,5,No,1,Medium,90.5,92.1,41.2,60.3,Placed,3.35,Medium Risk
+ST1926,20,Female,Information Technology,4,97.9,1.9,7.9,70.9,84.9,72.1,89.3,2.4,6,2,No,3,High,63.6,46.3,84.7,62.0,Not Placed,0.0,Medium Risk
+ST1927,19,Female,Computer Engineering,4,72.2,2.6,5.5,73.6,70.3,86.8,39.3,20.5,5,2,No,0,Low,93.0,42.4,86.5,60.5,Not Placed,0.0,Medium Risk
+ST1928,21,Male,Computer Engineering,4,70.7,3.3,6.5,76.8,65.1,56.7,50.1,5.6,0,3,Yes,1,Low,53.9,65.8,49.2,42.9,Not Placed,0.0,High Risk
+ST1929,18,Male,Computer Engineering,3,83.9,4.9,6.7,65.9,69.8,77.4,79.5,11.5,1,4,Yes,0,Low,59.2,67.4,59.9,60.9,Placed,4.56,Low Risk
+ST1930,22,Female,Information Technology,4,73.7,3.8,6.9,77.5,75.4,71.8,70.2,0.0,5,0,No,0,Low,85.8,51.0,81.0,51.3,Not Placed,0.0,Medium Risk
+ST1931,19,Female,Information Technology,3,76.3,4.0,7.8,93.4,93.4,67.7,78.5,6.6,0,0,Yes,0,Low,61.7,63.1,73.2,63.6,Not Placed,0.0,Low Risk
+ST1932,18,Female,Electronics,6,86.9,1.9,6.2,65.7,50.9,83.5,70.9,7.4,6,3,No,1,High,85.4,74.0,35.1,52.8,Not Placed,0.0,Medium Risk
+ST1933,19,Male,Computer Engineering,6,55.1,2.2,6.7,89.1,76.3,83.4,78.0,10.4,4,1,Yes,2,High,58.4,53.4,49.0,54.3,Not Placed,0.0,High Risk
+ST1934,20,Female,Computer Engineering,3,93.8,6.2,7.0,93.0,84.1,59.7,58.6,0.0,4,5,Yes,0,Medium,59.8,83.2,76.3,83.2,Placed,5.69,Low Risk
+ST1935,22,Male,Mechanical,5,78.9,2.4,7.2,65.2,78.5,69.6,78.0,8.8,4,4,Yes,1,Medium,79.0,84.9,71.0,61.9,Placed,5.67,Medium Risk
+ST1936,18,Male,Computer Engineering,6,73.1,6.0,7.1,57.5,93.0,75.7,83.9,2.3,5,1,Yes,1,High,58.6,86.7,77.7,73.6,Placed,3.13,Medium Risk
+ST1937,18,Female,Civil,4,76.9,3.1,7.5,78.6,75.0,68.5,87.1,9.6,5,3,No,0,Medium,66.2,54.4,79.5,67.8,Placed,4.71,Low Risk
+ST1938,18,Male,Mechanical,3,77.5,3.5,7.9,68.4,73.6,79.6,98.0,2.8,0,3,Yes,3,Medium,75.5,56.3,70.9,54.9,Not Placed,0.0,Medium Risk
+ST1939,18,Female,Electronics,4,57.2,5.1,7.4,97.4,83.7,75.7,73.4,3.7,4,1,No,0,Medium,66.5,65.4,73.7,65.2,Not Placed,0.0,Medium Risk
+ST1940,18,Female,Electronics,4,95.9,5.4,7.5,75.4,77.3,95.8,73.8,6.6,2,2,No,0,Low,62.1,63.9,57.9,77.1,Placed,3.14,Low Risk
+ST1941,19,Female,Civil,5,78.5,3.3,5.3,65.4,70.9,52.1,48.7,2.7,1,3,No,0,High,53.1,63.1,68.8,55.0,Not Placed,0.0,Low Risk
+ST1942,22,Female,Computer Engineering,4,83.3,2.9,7.1,61.2,82.7,70.4,62.6,5.6,5,5,No,3,Medium,90.3,79.3,72.0,52.4,Not Placed,0.0,Medium Risk
+ST1943,20,Female,Computer Engineering,5,89.4,3.4,7.5,88.1,67.5,60.2,67.3,2.0,5,4,No,5,Medium,92.9,77.2,94.3,58.2,Not Placed,0.0,Medium Risk
+ST1944,20,Male,Computer Engineering,6,65.7,4.0,7.8,68.1,68.1,79.9,84.7,0.0,5,1,Yes,0,Medium,74.6,54.9,53.8,63.7,Placed,4.22,Medium Risk
+ST1945,20,Male,Mechanical,3,83.7,4.8,6.2,75.5,69.1,51.0,61.4,13.1,0,2,No,0,Medium,66.8,50.9,78.6,52.6,Not Placed,0.0,Low Risk
+ST1946,20,Female,Computer Engineering,4,74.8,3.5,6.3,86.5,93.6,76.5,81.1,1.5,4,1,Yes,0,Low,67.5,49.4,65.2,66.2,Not Placed,0.0,Low Risk
+ST1947,19,Female,Electronics,3,88.2,4.4,6.4,69.2,34.1,63.8,70.0,7.1,2,2,No,1,Medium,81.7,54.8,78.9,55.4,Not Placed,0.0,Medium Risk
+ST1948,21,Male,Civil,4,52.5,6.0,7.6,74.4,81.1,62.5,67.5,11.8,1,2,No,1,High,84.4,80.7,65.1,54.7,Not Placed,0.0,High Risk
+ST1949,22,Male,Mechanical,3,76.8,4.1,8.1,74.8,76.4,53.2,73.5,4.9,1,5,No,4,Low,62.4,70.1,85.8,47.6,Not Placed,0.0,High Risk
+ST1950,18,Male,Information Technology,4,70.8,4.0,6.6,83.2,54.1,66.0,64.5,3.9,4,4,Yes,2,High,85.0,81.9,55.1,51.1,Not Placed,0.0,Medium Risk
+ST1951,21,Male,Computer Engineering,4,83.2,1.2,8.0,82.1,80.0,86.1,64.0,9.1,2,3,Yes,2,Medium,78.6,42.5,69.3,47.5,Not Placed,0.0,Medium Risk
+ST1952,20,Female,Mechanical,4,83.6,0.5,7.1,72.4,82.2,71.7,46.1,13.6,0,2,No,0,Low,84.8,72.1,74.0,45.0,Not Placed,0.0,Medium Risk
+ST1953,21,Female,Electronics,4,69.5,3.5,6.9,75.8,83.7,80.2,66.5,2.2,5,3,No,0,Medium,47.6,71.9,56.1,60.7,Placed,3.66,Medium Risk
+ST1954,22,Male,Computer Engineering,4,69.5,3.4,6.8,70.5,41.5,93.6,63.3,7.2,5,4,Yes,1,High,64.1,86.0,71.9,53.5,Not Placed,0.0,Medium Risk
+ST1955,18,Female,Computer Engineering,4,76.7,2.7,7.8,57.3,93.8,75.4,62.8,0.0,6,3,No,0,Medium,67.6,61.9,83.1,54.9,Placed,3.27,Low Risk
+ST1956,18,Male,Civil,4,67.2,3.9,7.4,78.1,66.4,64.7,75.8,6.0,4,5,No,0,Medium,63.4,60.8,65.9,54.3,Placed,3.93,Medium Risk
+ST1957,22,Female,Electronics,4,88.1,3.4,9.5,97.7,84.9,78.1,79.2,8.2,1,5,No,0,Medium,96.8,90.6,79.0,67.6,Placed,2.67,Low Risk
+ST1958,22,Male,Mechanical,4,73.6,5.2,6.1,64.4,85.6,64.9,73.3,3.7,5,0,No,0,Medium,64.3,65.4,56.2,69.5,Not Placed,0.0,Low Risk
+ST1959,20,Female,Mechanical,3,45.0,3.6,7.6,65.7,64.6,65.4,83.9,5.7,6,5,Yes,1,Low,76.6,70.7,49.5,56.5,Placed,3.58,High Risk
+ST1960,18,Male,Electronics,5,73.5,2.4,6.4,64.6,84.6,52.2,78.1,1.0,1,2,No,1,Low,72.1,75.1,78.1,58.2,Placed,3.01,Medium Risk
+ST1961,21,Male,Information Technology,4,65.5,5.0,6.0,83.7,71.0,84.0,65.9,8.4,1,4,Yes,0,Low,65.9,43.0,58.1,57.6,Not Placed,0.0,Medium Risk
+ST1962,19,Female,Information Technology,5,58.4,3.2,7.0,80.4,49.1,67.0,63.5,13.3,4,5,Yes,1,Low,60.1,68.6,40.2,49.9,Placed,4.42,High Risk
+ST1963,19,Male,Information Technology,4,63.2,4.3,7.2,73.1,91.2,74.4,74.4,2.5,3,1,No,0,Low,98.8,49.3,54.8,68.8,Not Placed,0.0,Low Risk
+ST1964,22,Female,Information Technology,4,79.3,2.8,10.0,64.0,65.9,58.5,78.0,4.9,6,4,Yes,1,Medium,66.9,66.7,88.6,47.3,Placed,4.01,Medium Risk
+ST1965,20,Female,Mechanical,3,93.9,2.5,6.8,76.1,64.9,77.7,89.6,10.5,3,2,No,0,Medium,82.3,63.6,84.0,62.9,Not Placed,0.0,Low Risk
+ST1966,19,Male,Electronics,6,81.8,3.6,5.8,56.2,70.8,62.1,86.7,14.1,3,4,Yes,2,Low,69.9,60.4,49.1,56.8,Not Placed,0.0,Medium Risk
+ST1967,18,Female,Civil,6,70.7,3.5,7.3,76.7,79.5,70.2,62.4,0.5,6,5,No,2,Low,63.6,77.4,43.6,47.8,Not Placed,0.0,High Risk
+ST1968,22,Female,Information Technology,3,83.5,4.2,4.7,85.5,75.3,83.4,68.6,7.2,2,1,No,1,Low,71.5,69.5,60.5,66.3,Not Placed,0.0,Low Risk
+ST1969,21,Female,Electronics,5,72.5,3.1,6.9,60.0,83.1,82.3,79.4,9.4,4,0,No,1,Medium,74.3,52.1,83.6,67.5,Not Placed,0.0,Medium Risk
+ST1970,22,Female,Electronics,6,69.7,0.7,7.0,56.6,58.6,71.7,85.0,7.5,6,2,Yes,1,Low,63.4,51.6,63.9,57.1,Placed,4.13,Medium Risk
+ST1971,21,Female,Electronics,3,64.1,2.9,7.9,94.0,66.3,49.0,83.1,0.0,1,2,No,0,Medium,59.3,80.6,64.0,54.7,Not Placed,0.0,Medium Risk
+ST1972,22,Male,Electronics,3,57.0,4.7,8.1,67.7,74.5,100.0,69.1,10.5,6,4,No,1,Medium,76.7,67.4,57.2,65.6,Placed,3.72,Medium Risk
+ST1973,22,Female,Computer Engineering,6,73.3,3.1,6.4,88.6,100.0,94.7,52.4,15.6,5,3,Yes,0,Medium,71.6,46.6,62.7,59.5,Not Placed,0.0,Medium Risk
+ST1974,22,Female,Information Technology,5,79.9,3.1,6.8,73.2,74.5,81.4,56.0,8.6,6,3,No,0,Medium,60.9,61.8,80.6,64.2,Placed,3.86,Low Risk
+ST1975,21,Female,Computer Engineering,3,76.8,5.0,6.2,73.1,90.1,62.2,73.8,2.8,2,1,Yes,0,Low,56.9,65.6,68.4,63.0,Not Placed,0.0,Low Risk
+ST1976,21,Female,Information Technology,4,73.0,2.4,5.8,80.3,76.5,70.5,74.8,5.4,3,0,No,3,Low,74.9,49.5,63.8,51.6,Not Placed,0.0,High Risk
+ST1977,22,Female,Information Technology,5,66.7,1.2,7.3,64.4,69.7,64.9,54.6,16.8,0,0,Yes,0,Low,43.1,58.4,77.4,50.2,Not Placed,0.0,Medium Risk
+ST1978,19,Male,Electronics,5,85.3,3.3,5.6,76.6,72.8,88.4,70.6,12.5,2,4,Yes,0,Low,66.4,81.8,68.1,67.1,Placed,5.33,Low Risk
+ST1979,20,Female,Civil,6,62.2,2.8,6.5,70.4,73.8,75.4,78.8,11.2,2,4,Yes,4,Low,71.9,100.0,82.2,40.2,Not Placed,0.0,High Risk
+ST1980,20,Male,Electronics,6,87.3,2.1,5.9,59.2,83.8,61.8,53.9,9.8,4,3,Yes,2,Medium,94.3,72.5,56.1,48.5,Placed,4.12,Medium Risk
+ST1981,20,Male,Mechanical,4,66.0,3.2,7.6,79.0,93.9,65.9,85.5,4.7,5,5,Yes,0,Low,70.1,47.7,71.4,62.1,Not Placed,0.0,Medium Risk
+ST1982,21,Male,Information Technology,3,69.0,4.2,9.0,71.8,80.7,86.6,64.7,7.0,2,0,No,3,High,65.8,64.7,81.2,46.2,Not Placed,0.0,High Risk
+ST1983,21,Male,Electronics,6,60.4,3.5,5.6,73.1,91.4,92.8,87.6,7.6,6,5,Yes,0,Low,74.0,69.8,91.9,67.0,Placed,4.84,Low Risk
+ST1984,19,Female,Computer Engineering,6,72.0,4.0,5.0,60.5,63.5,91.9,62.5,10.7,5,0,Yes,1,Medium,60.0,79.8,49.5,63.0,Placed,3.93,Medium Risk
+ST1985,20,Male,Computer Engineering,5,89.7,6.2,6.9,94.1,70.6,81.8,55.6,15.5,4,5,No,1,Medium,66.9,80.1,64.2,76.3,Placed,5.07,Low Risk
+ST1986,20,Male,Information Technology,6,84.2,3.0,7.0,85.5,66.6,68.7,63.6,13.6,6,5,No,0,Medium,70.4,88.5,45.9,63.6,Placed,3.34,Low Risk
+ST1987,22,Female,Information Technology,6,89.7,3.9,7.2,86.6,80.1,30.0,68.7,0.9,0,0,Yes,1,Medium,78.8,68.0,51.5,66.4,Not Placed,0.0,Low Risk
+ST1988,21,Female,Computer Engineering,6,84.3,2.7,6.5,71.3,71.3,75.9,64.6,9.1,1,1,No,0,Medium,60.6,68.3,67.3,59.8,Not Placed,0.0,Low Risk
+ST1989,20,Female,Computer Engineering,6,64.8,2.2,6.8,54.2,85.5,72.0,67.0,11.7,1,1,No,0,High,69.9,39.7,34.6,48.3,Not Placed,0.0,Medium Risk
+ST1990,19,Male,Computer Engineering,5,74.0,2.6,7.4,98.4,63.9,73.8,74.7,11.1,3,4,No,1,Medium,44.9,52.8,73.7,58.8,Not Placed,0.0,Medium Risk
+ST1991,19,Female,Civil,4,68.6,2.8,8.1,74.3,76.6,72.7,67.6,4.9,3,5,No,0,Low,77.2,47.6,75.9,57.4,Not Placed,0.0,Medium Risk
+ST1992,20,Female,Information Technology,4,94.0,4.0,4.8,66.0,84.9,54.8,69.1,22.6,0,5,No,4,Medium,66.8,55.4,65.8,56.0,Not Placed,0.0,Medium Risk
+ST1993,21,Male,Information Technology,3,63.6,7.0,6.6,80.0,49.2,79.2,46.1,1.6,1,5,Yes,0,Low,96.4,50.7,53.6,60.7,Not Placed,0.0,Medium Risk
+ST1994,19,Female,Computer Engineering,6,88.7,2.4,7.2,89.0,100.0,80.2,75.5,2.6,3,5,No,0,High,74.9,51.7,63.1,69.9,Placed,5.19,Low Risk
+ST1995,22,Female,Electronics,5,77.75,2.9,6.0,74.7,72.3,80.9,68.8,9.2,5,5,No,1,Medium,57.9,84.3,100.0,67.3,Placed,4.04,Low Risk
+ST1996,19,Female,Computer Engineering,3,100.0,3.4,8.9,90.3,49.7,84.3,92.5,18.6,2,3,Yes,0,Low,54.7,39.1,58.7,66.7,Not Placed,0.0,Low Risk
+ST1997,18,Female,Computer Engineering,3,73.1,4.1,6.3,88.0,78.1,79.9,56.8,3.8,4,2,Yes,0,Low,79.3,65.0,54.4,66.7,Not Placed,0.0,Low Risk
+ST1998,18,Male,Information Technology,4,86.5,3.9,7.0,62.1,76.4,66.7,44.7,6.7,6,5,No,0,Low,95.2,81.0,30.0,62.7,Placed,5.85,Low Risk
+ST1999,21,Female,Computer Engineering,5,100.0,5.4,7.6,66.9,74.9,71.1,78.7,13.4,3,3,No,4,High,90.9,63.5,83.7,60.8,Not Placed,0.0,Medium Risk
+ST2000,20,Female,Computer Engineering,5,70.6,0.5,6.3,86.5,88.9,73.2,74.9,7.9,0,1,Yes,0,High,53.0,87.9,47.2,57.1,Not Placed,0.0,Medium Risk
